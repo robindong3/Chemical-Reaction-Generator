@@ -613,5 +613,3 @@ def react(inputs, only_spe = True, location = '', max_C = 1, max_N = 2, max_S = 
                     f.write(str(round(x,2)) + '       ')
                 f.write(equation)
                 f.write('\n')
-
-react(['N2'], only_spe = False, location = '')

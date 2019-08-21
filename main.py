@@ -7,6 +7,8 @@ def start():
     inputs = input(':')
     inputs = inputs.split(',')
 
+    number = '0123456789'
+
     go_to_processes = True
 
     print('Do you want a full reaction list?')
@@ -48,44 +50,54 @@ def start():
     # Limit the number of carbon atoms
     if C:
         max_C = input('Please input maximun number of C:')
-        if max_C != int:
+        if max_C == '':
             max_C = 1
+        else: 
+            max_C = int(max_C)
     else:
         max_C = 1
     # Limit the number of nitrogen atoms
     if N:
         max_N = input('Please input maximun number of N:')
-        if max_N != int:
+        if max_N == '':
             max_N = 2
+        else: 
+            max_N = int(max_N)
     else:
         max_N = 2
     # Limit the number of sulfur atoms
     if S:
         max_S = input('Please input maximun number of S:')
-        if max_S != int:
+        if max_S == '':
             max_S = 1
+        else: 
+            max_S = int(max_S)
     else:
         max_S = 1
     # Limit the number of silicon atoms
     if Si:
         max_Si = input('Please input maximun number of Si:')
-        if max_Si != int:
+        if max_Si == '':
             max_Si = 1
+        else: 
+            max_Si = int(max_Si)
     else:
         max_Si = 1
     # Limit the number of oxygen atoms
     if O:
         max_O = input('Please input maximun number of O:')
-        if max_O != int:
+        if max_O == '':
             max_O = 1
+        else:
+            max_O = int(max_O)
     else:
         max_O = -1
     
     print('Do you want to limit the overall scale of molecules (Sum of all those elements you insert above)')
     print('Please input the number below, leave it blank for using the default value:')
     scale = input(':')
-    if type(scale) == int:
-        tot = scale
+    if scale != '':
+        tot = int(scale)
     else:
         tot = -1
     

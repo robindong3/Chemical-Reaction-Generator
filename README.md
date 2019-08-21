@@ -1,4 +1,6 @@
-# An Intellegent Chemical Reaction Generator Ver 1.0
+# An Intellegent Chemical Reaction Generator 
+
+##### Ver 1.0
 
 This is a program to generate reactions and species in low-temperature plasmas. Those reactions and species are sorted with their enthalpies.
 

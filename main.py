@@ -30,16 +30,20 @@ def start():
     O = False
     
     for i in inputs:
-        if 'C' in i:
-            C = True
-        if 'N' in i:
-            N = True
-        if 'Si' in i:
-            Si = True
-        if 'S' in i:
-            S = True
-        if 'O' in i:
-            O = True
+        count = 0
+        input_string = i + '/'
+        for string in i:
+            if string == 'C':
+                C = True
+            elif string == 'N':
+                N = True
+            elif string == 'S' and input_string[count + 1] == 'i':
+                Si = True
+            elif string == 'S' and input_string[count + 1] != 'i':
+                S = True
+            elif string == 'O':
+                O = True
+        count += 1
     # Manually input the limitations
     # Limit the number of carbon atoms
     if C:
@@ -71,7 +75,7 @@ def start():
         max_Si = 1
     # Limit the number of oxygen atoms
     if O:
-        max_O = input('Please input maximun number of Si:')
+        max_O = input('Please input maximun number of O:')
         if max_O != int:
             max_O = 1
     else:

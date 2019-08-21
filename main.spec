@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\Administrator\\Desktop\\Chemical Equation Balancer\\Chemical Reaction Generator'],
+             pathex=['C:\\Users\\Administrator\\Desktop\\Chemical Equation Balancer\\clone\\Chemical-Reaction-Generator'],
              binaries=[],
              datas=[],
              hiddenimports=[],

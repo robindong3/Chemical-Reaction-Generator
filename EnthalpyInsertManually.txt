@@ -1,0 +1,22 @@
+#Please type in the enthalpies not included in ATcT manually in this file
+#Elements should be same as the order present in NIST webbook
+#Species     Ethalpy (in kJ/mol)
+S	276.98
+HS	139.33
+H2S	-20.50
+H3S+	44.4
+HS-	1470.0
+S-	164.96
+S+	163.63
+H2S+	13.0
+FS	12.97
+F2S	-296.65
+F3S-	-800.28
+F3S	-503.0
+F4S	-763.16
+F4S-	-895.0
+F5S	-908.45
+F6S	-1220.47
+F6S-	-1320.0
+S2	128.6
+

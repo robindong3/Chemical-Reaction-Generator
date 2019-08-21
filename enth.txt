@@ -1,0 +1,2826 @@
+Dihydrogen	H2 (g)	[H][H]	0	0	exact		2.01588 ¡À
+0.00014	1333-74-0*0
+Helium	He (g)	[He]	0	0	exact		4.0026020 ¡À
+0.0000020	7440-59-7*0
+Carbon atom	C (graphite)	[C]	0	0	exact		12.01070 ¡À
+0.00080	7440-44-0*500
+Dinitrogen	N2 (g)	N#N	0	0	exact		28.01348 ¡À
+0.00014	7727-37-9*0
+Dioxygen	O2 (g)	O=O	0	0	exact		31.99880 ¡À
+0.00060	7782-44-7*0
+Difluorine	F2 (g)	FF	0	0	exact		37.9968064 ¡À
+0.0000010	7782-41-4*0
+Neon	Ne (g)	[Ne]	0	0	exact		20.17970 ¡À
+0.00060	7440-01-9*0
+Dichlorine	Cl2 (g)	ClCl	0	0	exact		70.9054 ¡À
+0.0018	7782-50-5*0
+Argon	Ar (g)	[Ar]	0	0	exact		39.94800 ¡À
+0.00100	7440-37-1*0
+Dibromine	Br2 (cr,l)	BrBr	0	0	exact		159.8080 ¡À
+0.0020	7726-95-6*500
+Krypton	Kr (g)	[Kr]	0	0	exact		83.8000 ¡À
+0.1000	7439-90-9*0
+Diiodine	I2 (cr,l)	II	0	0	exact		253.808940 ¡À
+0.000060	7553-56-2*500
+Xenon	Xe (g)	[Xe]	0	0	exact		131.2900 ¡À
+0.0200	7440-63-3*0
+Deuterium molecule	D2 (g)	[2H][2H]	0	0	exact		4.02820355600 ¡À
+0.00000000080	7782-39-0*0
+Hydrogen atom	H (g)	[H]	216.034	217.998	¡À 0.000	kJ/mol	1.007940 ¡À
+0.000070	12385-13-6*0
+Carbon atom	C (g)	[C]	711.407	716.892	¡À 0.048	kJ/mol	12.01070 ¡À
+0.00080	7440-44-0*0
+Oxygen atom	O (g)	[O]	246.844	249.229	¡À 0.0021	kJ/mol	15.99940 ¡À
+0.00030	17778-80-2*0
+Nitrogen atom	N (g)	[N]	470.579	472.441	¡À 0.024	kJ/mol	14.006740 ¡À
+0.000070	17778-88-0*0
+Chlorine atom	Cl (g)	[Cl]	119.621	121.302	¡À 0.0011	kJ/mol	35.45270 ¡À
+0.00090	22537-15-1*0
+Carbon dioxide	CO2 (g)	C(=O)=O	-393.109	-393.475	¡À 0.015	kJ/mol	44.00950 ¡À
+0.00100	124-38-9*0
+Fluorine atom	F (g)	[F]	77.253	79.359	¡À 0.048	kJ/mol	18.99840320 ¡À
+0.00000050	14762-94-8*0
+Methane	CH4 (g)	C	-66.556	-74.525	¡À 0.056	kJ/mol	16.04246 ¡À
+0.00085	74-82-8*0
+Water	H2O (cr,l)	O	-286.308	-285.836	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*500
+Water	H2O (g)	O	-238.938	-241.842	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*0
+Ethane	CH3CH3 (g)	CC	-68.33	-83.96	¡À 0.13	kJ/mol	30.0690 ¡À
+0.0017	74-84-0*0
+Hydron	H+ (g)	[H+]	1528.084	1530.047	¡À 0.000	kJ/mol	1.007391 ¡À
+0.000070	12408-02-5*0
+Bromine atom	Br (g)	[Br]	117.917	111.855	¡À 0.056	kJ/mol	79.90400 ¡À
+0.00100	10097-32-2*0
+Ethylene	CH2CH2 (g)	C=C	60.91	52.39	¡À 0.12	kJ/mol	28.0532 ¡À
+0.0016	74-85-1*0
+Hydrogen chloride	HCl (g)	Cl	-91.989	-92.173	¡À 0.0062	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*0
+Hydroxyl	OH (g)	[OH]	37.242	37.482	¡À 0.027	kJ/mol	17.00734 ¡À
+0.00031	3352-57-6*0
+Methyl	CH3 (g)	[CH3]	149.829	146.414	¡À 0.080	kJ/mol	15.03452 ¡À
+0.00083	2229-07-4*0
+Carbon monoxide	CO (g)	[C-]#[O+]	-113.802	-110.522	¡À 0.026	kJ/mol	28.01010 ¡À
+0.00085	630-08-0*0
+Methanol	CH3OH (g)	CO	-189.95	-200.84	¡À 0.15	kJ/mol	32.04186 ¡À
+0.00090	67-56-1*0
+Hydrogen fluoride	HF (g)	F	-272.679	-272.726	¡À 0.049	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*0
+Hydrogen bromide	HBr (g)	Br	-27.72	-35.57	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*0
+Iodine atom	I (g)	[I]	107.157	106.757	¡À 0.0021	kJ/mol	126.904470 ¡À
+0.000030	14362-44-8*0
+Formaldehyde	CH2O (g)	C=O	-105.347	-109.186	¡À 0.098	kJ/mol	30.02598 ¡À
+0.00087	50-00-0*0
+Acetylene	HCCH (g)	C#C	228.83	228.27	¡À 0.13	kJ/mol	26.0373 ¡À
+0.0016	74-86-2*0
+Ethyl	CH3CH2 (g)	C[CH2]	130.94	119.87	¡À 0.28	kJ/mol	29.0611 ¡À
+0.0016	2025-56-1*0
+Propane	CH3CH2CH3 (g)	CCC	-82.74	-105.03	¡À 0.19	kJ/mol	44.0956 ¡À
+0.0025	74-98-6*0
+Ethanol	CH3CH2OH (g)	CCO	-216.92	-234.64	¡À 0.21	kJ/mol	46.0684 ¡À
+0.0017	64-17-5*0
+Chloromethane	CH3Cl (g)	CCl	-74.17	-82.10	¡À 0.25	kJ/mol	50.4872 ¡À
+0.0012	74-87-3*0
+Nitric oxide	NO (g)	[N]=O	90.616	91.120	¡À 0.065	kJ/mol	30.00614 ¡À
+0.00031	10102-43-9*0
+Ammonia	NH3 (g)	N	-38.565	-45.557	¡À 0.030	kJ/mol	17.03056 ¡À
+0.00022	7664-41-7*0
+Hydrogen cyanide	HCN (g)	C#N	129.668	129.283	¡À 0.091	kJ/mol	27.02538 ¡À
+0.00081	74-90-8*0
+Nitrogen dioxide	ONO (g)	O=[N]=O	36.855	34.048	¡À 0.065	kJ/mol	46.00554 ¡À
+0.00060	10102-44-0*0
+Methyl fluoride	CH3F (g)	CF	-227.44	-235.47	¡À 0.24	kJ/mol	34.03292 ¡À
+0.00083	593-53-3*0
+Hydrogen iodide	HI (g)	I	28.646	26.470	¡À 0.036	kJ/mol	127.912410 ¡À
+0.000076	10034-85-2*0
+Propene	CH3CHCH2 (g)	CC=C	34.98	19.98	¡À 0.21	kJ/mol	42.0797 ¡À
+0.0024	115-07-1*0
+Hydroxyde	[OH]- (g)	[OH-]	-139.099	-139.066	¡À 0.027	kJ/mol	17.00789 ¡À
+0.00031	14280-30-9*0
+Hydrogen peroxide	H2O2 (g)	OO	-129.492	-135.478	¡À 0.063	kJ/mol	34.01468 ¡À
+0.00062	7722-84-1*0
+Dioxidanyl	HO2 (g)	O[O]	15.12	12.21	¡À 0.15	kJ/mol	33.00674 ¡À
+0.00060	3170-83-0*0
+Methyl bromide	CH3Br (g)	CBr	-20.18	-35.58	¡À 0.27	kJ/mol	94.9385 ¡À
+0.0013	74-83-9*0
+Benzene	C6H6 (g)	c1ccccc1	100.58	83.07	¡À 0.23	kJ/mol	78.1118 ¡À
+0.0048	71-43-2*0
+Hypochlorous acid	HOCl (g)	OCl	-73.875	-76.815	¡À 0.028	kJ/mol	52.46004 ¡À
+0.00095	7790-92-3*0
+Acetaldehyde	CH3CHO (g)	CC=O	-154.96	-165.44	¡À 0.28	kJ/mol	44.0526 ¡À
+0.0017	75-07-0*0
+Dibromine	Br2 (g)	BrBr	45.68	30.89	¡À 0.12	kJ/mol	159.8080 ¡À
+0.0020	7726-95-6*0
+Fluoride	F- (g)	[F-]	-250.912	-249.127	¡À 0.048	kJ/mol	18.99895178 ¡À
+0.00000050	16984-48-8*0
+Tetrafluoromethane	CF4 (g)	C(F)(F)(F)F	-927.41	-933.39	¡À 0.26	kJ/mol	88.00431 ¡À
+0.00080	75-73-0*0
+Methylene	CH2 (g, triplet)	[CH2]	391.03	391.59	¡À 0.12	kJ/mol	14.02658 ¡À
+0.00081	2465-56-7*1
+Methylene	CH2 (g, singlet)	[CH2]	428.70	429.11	¡À 0.12	kJ/mol	14.02658 ¡À
+0.00081	2465-56-7*2
+Methylidyne	CH (g)	[CH]	592.81	596.15	¡À 0.11	kJ/mol	13.01864 ¡À
+0.00080	3315-37-5*0
+Tetrachloromethane	CCl4 (g)	C(Cl)(Cl)(Cl)Cl	-93.50	-95.67	¡À 0.45	kJ/mol	153.8215 ¡À
+0.0037	56-23-5*0
+Diiodine	I2 (g)	II	65.497	62.417	¡À 0.0041	kJ/mol	253.808940 ¡À
+0.000060	7553-56-2*0
+Formic acid	HC(O)OH (g, syn)	C(=O)O	-371.06	-378.38	¡À 0.22	kJ/mol	46.0254 ¡À
+0.0010	64-18-6*1
+Propyne	CH3CCH (g)	CC#C	192.82	185.76	¡À 0.25	kJ/mol	40.0639 ¡À
+0.0024	74-99-7*0
+Fluoroform	CF3H (g)	C(F)(F)F	-688.79	-695.74	¡À 0.44	kJ/mol	70.01385 ¡À
+0.00080	75-46-7*0
+Toluene	C6H5CH3 (g)	c1ccc(cc1)C	73.44	50.15	¡À 0.34	kJ/mol	92.1384 ¡À
+0.0056	108-88-3*0
+Oxonium	[H3O]+ (g)	[OH3+]	605.84	599.09	¡À 0.17	kJ/mol	19.02267 ¡À
+0.00037	13968-08-6*0
+Chloride	Cl- (g)	[Cl-]	-228.953	-227.346	¡À 0.0021	kJ/mol	35.45325 ¡À
+0.00090	16887-00-6*0
+Bromide	Br- (g)	[Br-]	-206.620	-212.682	¡À 0.056	kJ/mol	79.90455 ¡À
+0.00100	24959-67-9*0
+Ozone	OOO (g)	O=[O+][O-]	144.396	141.734	¡À 0.039	kJ/mol	47.99820 ¡À
+0.00090	10028-15-6*0
+Hypobromous acid	HOBr (g)	OBr	-51.71	-62.18	¡À 0.59	kJ/mol	96.9113 ¡À
+0.0010	13517-11-8*0
+Methoxy	CH3O (g)	C[O]	28.99	21.62	¡À 0.29	kJ/mol	31.03392 ¡À
+0.00088	2143-68-2*0
+n-Butane	CH3CH2CH2CH3 (g)	CCCC	-98.65	-125.96	¡À 0.26	kJ/mol	58.1222 ¡À
+0.0033	106-97-8*0
+Chloroethane	CH3CH2Cl (g)	CCCl	-96.80	-111.38	¡À 0.20	kJ/mol	64.5138 ¡À
+0.0019	75-00-3*0
+Methylamine	CH3NH2 (g)	CN	-7.01	-21.72	¡À 0.31	kJ/mol	31.05714 ¡À
+0.00088	74-89-5*0
+Chlorine monoxide	ClO (g)	Cl=O	101.125	101.716	¡À 0.035	kJ/mol	51.45210 ¡À
+0.00095	14989-30-1*0
+Trifluoromethyl	CF3 (g)	[C](F)(F)F	-465.02	-467.82	¡À 0.49	kJ/mol	69.00591 ¡À
+0.00080	2264-21-3*0
+Ethylium	[CH3CH2]+ (g)	[CH2+]1[CH2][H]1	914.95	902.87	¡À 0.31	kJ/mol	29.0606 ¡À
+0.0016	14936-94-8*0
+Hydroxymethyl	CH2OH (g)	[CH2]O	-10.49	-16.80	¡À 0.28	kJ/mol	31.03392 ¡À
+0.00088	2597-43-5*0
+Oxomethylium	[HCO]+ (g)	[CH+]=O	827.804	827.220	¡À 0.098	kJ/mol	29.01749 ¡À
+0.00086	17030-74-9*0
+Vinyl	CH2CH (g)	C=[CH]	301.14	296.94	¡À 0.34	kJ/mol	27.0452 ¡À
+0.0016	2669-89-8*0
+Imidogen	NH (g)	[NH]	358.74	358.79	¡À 0.17	kJ/mol	15.014680 ¡À
+0.000099	13774-92-0*0
+Allene	CH2CCH2 (g)	C=C=C	197.37	189.89	¡À 0.26	kJ/mol	40.0639 ¡À
+0.0024	463-49-0*0
+Methoxide	[CH3O]- (g)	C[O-]	-122.48	-130.21	¡À 0.31	kJ/mol	31.03447 ¡À
+0.00088	3315-60-4*0
+Nitrilomethyl	CN (g)	[C]#N	436.71	439.99	¡À 0.15	kJ/mol	26.01744 ¡À
+0.00080	2074-87-5*0
+Dioxymethyl	CH2OO (g)	[O-]\[O+]=C	111.90	104.90	¡À 0.63	kJ/mol	46.0254 ¡À
+0.0010	56077-92-0*0
+Difluorophosgene	COF2 (g)	C(F)(F)=O	-603.40	-606.50	¡À 0.48	kJ/mol	66.00691 ¡À
+0.00085	353-50-4*0
+Nitric acid	HNO3 (g)	O[N+](=O)[O-]	-124.49	-134.20	¡À 0.18	kJ/mol	63.01288 ¡À
+0.00091	7697-37-2*0
+Ketene	CH2CO (g)	C=C=O	-45.37	-48.49	¡À 0.13	kJ/mol	42.0367 ¡À
+0.0016	463-51-4*0
+Formyl	HCO (g)	[CH]=O	41.429	41.805	¡À 0.098	kJ/mol	29.01804 ¡À
+0.00086	2597-44-6*0
+Phenol	C6H5OH (g)	c1ccc(cc1)O	-74.52	-93.12	¡À 0.68	kJ/mol	94.1112 ¡À
+0.0048	108-95-2*0
+Methylium	[CH3]+ (g)	[CH3+]	1099.234	1095.291	¡À 0.078	kJ/mol	15.03397 ¡À
+0.00083	14531-53-4*0
+Hypoflorous acid	HOF (g)	OF	-84.40	-87.30	¡À 0.19	kJ/mol	36.00574 ¡À
+0.00031	14034-79-8*0
+Iodide	I- (g)	[I-]	-187.995	-188.396	¡À 0.0021	kJ/mol	126.905019 ¡À
+0.000030	20461-54-5*0
+Vinyl chloride	CH2CHCl (g)	C=CCl	29.44	21.86	¡À 0.31	kJ/mol	62.4979 ¡À
+0.0018	75-01-4*0
+Phenyl	C6H5 (g)	c1cccc[c]1	350.19	336.83	¡À 0.56	kJ/mol	77.1039 ¡À
+0.0048	2396-01-2*0
+Cyanogen chloride	ClCN (g)	ClC#N	135.04	135.73	¡À 0.47	kJ/mol	61.4701 ¡À
+0.0012	506-77-4*0
+Cyanogen bromide	BrCN (g)	BrC#N	187.1	180.5	¡À 1.1	kJ/mol	105.9214 ¡À
+0.0013	506-68-3*0
+Methyl iodide	CH3I (g)	CI	24.40	14.86	¡À 0.18	kJ/mol	141.93899 ¡À
+0.00083	74-88-4*0
+Acetone	CH3C(O)CH3 (g)	CC(=O)C	-199.56	-216.25	¡À 0.32	kJ/mol	58.0791 ¡À
+0.0025	67-64-1*0
+Oxygen atom anion	O- (g)	[O-]	105.868	108.097	¡À 0.0021	kJ/mol	15.99995 ¡À
+0.00030	14337-01-0*0
+Ethoxide	[CH3CH2O]- (g)	CC[O-]	-163.35	-178.29	¡À 0.53	kJ/mol	45.0610 ¡À
+0.0017	16331-64-9*0
+Hydrogen chloride	HCl (aq, 600 H2O)	Cl		-166.454	¡À 0.024	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*834
+Amidogen	NH2 (g)	[NH2]	188.91	186.02	¡À 0.12	kJ/mol	16.02262 ¡À
+0.00016	13770-40-6*0
+Trihydrogen cation	[H3]+ (g)	[H]1[H+][H]1	1110.304	1106.696	¡À 0.013	kJ/mol	3.02327 ¡À
+0.00021	28132-48-1*0
+iso-Butane	CH(CH3)3 (g)	CC(C)C	-106.16	-134.76	¡À 0.32	kJ/mol	58.1222 ¡À
+0.0033	75-28-5*0
+Dichloromethane	CH2Cl2 (g)	C(Cl)Cl	-87.55	-94.41	¡À 0.49	kJ/mol	84.9320 ¡À
+0.0020	75-09-2*0
+Tetrabromomethane	CBr4 (g)	C(Br)(Br)(Br)Br	133.2	103.5	¡À 1.3	kJ/mol	331.6267 ¡À
+0.0041	558-13-4*0
+Methylene fluoride	CH2F2 (g)	C(F)F	-443.00	-450.58	¡À 0.36	kJ/mol	52.02339 ¡À
+0.00081	75-10-5*0
+Oxygen difluoride	FOF (g)	FOF	26.80	24.55	¡À 0.24	kJ/mol	53.99621 ¡À
+0.00030	7783-41-7*0
+Hypochlorite	[ClO]- (g)	[Cl-]=O	-118.60	-118.33	¡À 0.13	kJ/mol	51.45265 ¡À
+0.00095	14380-61-1*0
+2-Propynyl	CH2CCH (g)	[CH2]C#C	353.99	351.43	¡À 0.38	kJ/mol	39.0559 ¡À
+0.0024	2932-78-7*0
+Propynylidene	HCCCH (g, triplet)	[CH]=C=[CH]	543.38	546.38	¡À 0.63	kJ/mol	38.0480 ¡À
+0.0024	67152-18-5*1
+Chloroform	CHCl3 (g)	C(Cl)(Cl)Cl	-97.43	-102.34	¡À 0.52	kJ/mol	119.3767 ¡À
+0.0028	67-66-3*0
+Oxygen atom cation	O+ (g)	[O+]	1560.786	1562.644	¡À 0.0021	kJ/mol	15.99885 ¡À
+0.00030	14581-93-2*0
+1,2-Propadiene-1,3-diylidene	CCC (g)	[C]=C=[C]	814.62	823.58	¡À 0.55	kJ/mol	36.0321 ¡À
+0.0024	12075-35-3*0
+Cyanic fluoride	FCN (g)	FC#N	8.78	9.11	¡À 0.71	kJ/mol	45.01584 ¡À
+0.00080	1495-50-7*0
+Allyl	CH2CHCH2 (g)	C=C[CH2]	179.54	167.82	¡À 0.55	kJ/mol	41.0718 ¡À
+0.0024	1981-80-2*0
+1-Hydroxyethyl	CH3CHOH (g, gauche-anti)	C[CH]O	-42.00	-55.43	¡À 0.65	kJ/mol	45.0605 ¡À
+0.0017	2348-46-1*1
+2-Hydroxyethyl	CH2CH2OH (g, gauche-syn)	[CH2]CO	-12.84	-26.11	¡À 0.63	kJ/mol	45.0605 ¡À
+0.0017	4422-54-2*1
+Methylperoxy	CH3OO (g)	CO[O]	22.31	12.66	¡À 0.50	kJ/mol	47.0333 ¡À
+0.0010	2143-58-0*0
+Tetrafluoroethylene	C2F4 (g)	C(=C(F)F)(F)F	-671.33	-674.73	¡À 0.58	kJ/mol	100.0150 ¡À
+0.0016	116-14-3*0
+Chlorine fluoride	ClF (g)	ClF	-55.622	-55.717	¡À 0.055	kJ/mol	54.45110 ¡À
+0.00090	7790-89-8*0
+Diazynium	[NNH]+ (g)	N#[NH+]	1042.54	1038.93	¡À 0.68	kJ/mol	29.02087 ¡À
+0.00016	12357-66-3*0
+Methanimine	CH2NH (g)	C=N	96.25	88.34	¡À 0.62	kJ/mol	29.04126 ¡À
+0.00083	2053-29-4*0
+Nitrite	[ONO]- (g)	O=[N-]=O	-182.63	-185.44	¡À 0.46	kJ/mol	46.00609 ¡À
+0.00060	14797-65-0*0
+Hydride	H- (g)	[H-]	143.264	145.228	¡À 0.000	kJ/mol	1.008489 ¡À
+0.000070	12184-88-2*0
+Nitrosyl hydride	HNO (g)	N=O	109.93	106.96	¡À 0.11	kJ/mol	31.01408 ¡À
+0.00032	14332-28-6*0
+Nitrous acid	HONO (g, trans)	N(=O)O	-73.023	-79.167	¡À 0.079	kJ/mol	47.01348 ¡À
+0.00061	7782-77-6*1
+Ethynylene	C2 (g)	[C]=[C]	820.28	828.74	¡À 0.27	kJ/mol	24.0214 ¡À
+0.0016	12070-15-4*0
+Ethynyl	CCH (g)	[CH][C]	563.87	567.99	¡À 0.15	kJ/mol	25.0293 ¡À
+0.0016	2122-48-7*0
+Methyl hydroperoxide	CH3OOH (g)	COO	-115.03	-127.85	¡À 0.76	kJ/mol	48.0413 ¡À
+0.0010	3031-73-0*0
+iso-Propyl	CH3CHCH3 (g)	C[CH]C	105.05	88.18	¡À 0.56	kJ/mol	43.0877 ¡À
+0.0024	2025-55-0*0
+Phosgene	CCl2O (g)	C(=O)(Cl)Cl	-217.44	-219.13	¡À 0.27	kJ/mol	98.9155 ¡À
+0.0020	75-44-5*0
+Fluoromethylidyne	CF (g)	[C]F	243.14	246.74	¡À 0.13	kJ/mol	31.00910 ¡À
+0.00080	3889-75-6*0
+Phenylium	[C6H5]+ (g)	c1cccc[c+]1	1148.45	1135.67	¡À 0.88	kJ/mol	77.1034 ¡À
+0.0048	17333-73-2*0
+Fluorooxidanyl	FO (g)	[O]F	110.27	110.89	¡À 0.15	kJ/mol	34.99780 ¡À
+0.00030	12061-70-0*0
+Hypoiodous acid	HOI (g)	OI	-54.2	-59.0	¡À 3.1	kJ/mol	143.91181 ¡À
+0.00031	14332-21-9*0
+Methanium	[CH5]+ (g)	[CH5+]	921.98	911.73	¡À 0.45	kJ/mol	17.04985 ¡À
+0.00087	15135-49-6*0
+Hydroxylamine	NH2OH (g, trans)	NO	-33.24	-43.62	¡À 0.50	kJ/mol	33.02996 ¡À
+0.00037	7803-49-8*1
+Oxirane	O(CH2CH2) (g)	C1OC1	-40.01	-52.55	¡À 0.38	kJ/mol	44.0526 ¡À
+0.0017	75-21-8*0
+Hydroxyformyl	HOCO (g, trans)	O[C]=O	-181.19	-184.16	¡À 0.50	kJ/mol	45.0174 ¡À
+0.0010	2564-86-5*1
+Formate	[HC(O)O]- (g)	C(=O)[O-]	-462.90	-466.55	¡À 0.56	kJ/mol	45.0180 ¡À
+0.0010	71-47-6*0
+Isocyanic acid	HNCO (g)	N=C=O	-115.84	-118.84	¡À 0.31	kJ/mol	43.02478 ¡À
+0.00086	75-13-8*0
+Chlorotrifluoromethane	CF3Cl (g)	C(F)(F)(F)Cl	-704.89	-710.00	¡À 0.72	kJ/mol	104.4586 ¡À
+0.0012	75-72-9*0
+Bromotrifluoromethane	CF3Br (g)	C(F)(F)(F)Br	-639.28	-651.40	¡À 0.51	kJ/mol	148.9099 ¡À
+0.0013	75-63-8*0
+Fluorobenzene	C6H5F (g)	c1ccc(cc1)F	-99.10	-114.77	¡À 0.89	kJ/mol	96.1023 ¡À
+0.0048	462-06-6*0
+Nitromethane	CH3N(O)O (g)	C[N+](=O)[O-]	-60.85	-74.75	¡À 0.46	kJ/mol	61.0401 ¡À
+0.0010	75-52-5*0
+Chlorine dioxide	OClO (g)	O=Cl=O	101.32	98.85	¡À 0.27	kJ/mol	67.4515 ¡À
+0.0011	10049-04-4*0
+Dioxygen cation	[O2]+ (g)	O=[O+]	1164.585	1165.221	¡À 0.0092	kJ/mol	31.99825 ¡À
+0.00060	12185-07-8*0
+Methylidyne	CH (g, quartet)	[CH]	664.61	667.94	¡À 0.60	kJ/mol	13.01864 ¡À
+0.00080	3315-37-5*2
+Aminomethyl	CH2NH2 (g)	[CH2]N	158.90	149.06	¡À 0.44	kJ/mol	30.04920 ¡À
+0.00085	10507-29-6*0
+Ethoxy	CH3CH2O (g, X 2A")	CC[O]	1.84	-12.07	¡À 0.52	kJ/mol	45.0605 ¡À
+0.0017	2154-50-9*51
+Cyanato	NCO (g)	N#C[O]	127.03	127.50	¡À 0.35	kJ/mol	42.01684 ¡À
+0.00086	22400-26-6*0
+Dimethylamine	(CH3)2NH (g)	CNC	3.53	-18.11	¡À 0.48	kJ/mol	45.0837 ¡À
+0.0017	124-40-3*0
+Bromoform	CBr3H (g)	C(Br)(Br)Br	75.2	49.1	¡À 1.3	kJ/mol	252.7306 ¡À
+0.0031	75-25-2*0
+Hydrogen fluoride	HF (aq)	F		-334.48	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*800
+Bromine monoxide	BrO (g)	Br[O]	131.14	123.61	¡À 0.28	kJ/mol	95.9034 ¡À
+0.0010	15656-19-6*0
+Hypobromite	[BrO]- (g)	Br[O-]	-96.15	-103.63	¡À 0.54	kJ/mol	95.9039 ¡À
+0.0010	14380-62-2*0
+Fluorodioxidanyl	FOO (g)	FO[O]	26.80	25.09	¡À 0.26	kJ/mol	50.99720 ¡À
+0.00060	15499-23-7*0
+Peroxynitrous acid	HOONO (g, cis, cis)	OON=O	-6.10	-14.54	¡À 0.36	kJ/mol	63.01288 ¡À
+0.00091	14691-52-2*3
+Cyclopropane	CH2(CH2CH2) (g)	C1CC1	70.77	53.63	¡À 0.47	kJ/mol	42.0797 ¡À
+0.0024	75-19-4*0
+Propadienylidene	CH2CC (g)	C=C=[C]	554.43	555.57	¡À 0.41	kJ/mol	38.0480 ¡À
+0.0024	60731-10-4*0
+1-Butene	CH2CHCH2CH3 (g)	CCC=C	20.86	-0.09	¡À 0.38	kJ/mol	56.1063 ¡À
+0.0032	106-98-9*0
+Acetyl	CH3CO (g)	C[C]=O	-3.37	-10.03	¡À 0.36	kJ/mol	43.0446 ¡À
+0.0016	3170-69-2*0
+Dichloromethylene	CCl2 (g, singlet)	[C](Cl)Cl	229.49	230.67	¡À 0.65	kJ/mol	82.9161 ¡À
+0.0020	1605-72-7*2
+Fluoroethane	CH3CH2F (g)	CCF	-257.21	-272.07	¡À 0.38	kJ/mol	48.0595 ¡À
+0.0016	353-36-6*0
+Ethyl bromide	CH3CH2Br (g)	CCBr	-41.12	-63.07	¡À 0.26	kJ/mol	108.9651 ¡À
+0.0019	74-96-4*0
+Vinyl fluoride	CH2CHF (g)	C=CF	-134.62	-142.43	¡À 0.48	kJ/mol	46.0436 ¡À
+0.0016	75-02-5*0
+Vinyl bromide	CH2CHBr (g)	C=CBr	88.77	73.97	¡À 0.61	kJ/mol	106.9492 ¡À
+0.0019	593-60-2*0
+2-Bromoethanol	BrCH2CH2OH (g)	BrCCO	-196.57	-220.63	¡À 0.57	kJ/mol	124.9645 ¡À
+0.0019	540-51-2*0
+Chlorobenzene	C6H5Cl (g)	c1ccc(cc1)Cl	67.13	52.17	¡À 0.61	kJ/mol	112.5566 ¡À
+0.0049	108-90-7*0
+Difluorodioxidane	FOOF (g)	FOOF	35.29	31.57	¡À 0.41	kJ/mol	69.99561 ¡À
+0.00060	7783-44-0*0
+Nitrous oxide	NNO (g)	[N-]=[N+]=O	85.991	82.562	¡À 0.097	kJ/mol	44.01288 ¡À
+0.00033	10024-97-2*0
+(E)-Diazene	HNNH (g, trans)	[H]/N=N/[H]	207.09	199.95	¡À 0.44	kJ/mol	30.02936 ¡À
+0.00020	15626-43-4*0
+Hydroxyoxomethylium	[HOCO]+ (g)	O[C+]=O	600.69	597.60	¡À 0.44	kJ/mol	45.0169 ¡À
+0.0010	638-71-1*0
+Trioxidane	HOOOH (g, trans)	OOO	-81.71	-90.55	¡À 0.72	kJ/mol	50.01408 ¡À
+0.00091	14699-99-1*1
+Vinylium	[CH2CH]+ (g)	[CH+]1[CH][H]1	1119.15	1115.70	¡À 0.59	kJ/mol	27.0447 ¡À
+0.0016	14604-48-9*0
+Hydroxymethylium	[CH2OH]+ (g)	[CH2+]O	717.75	709.80	¡À 0.18	kJ/mol	31.03337 ¡À
+0.00088	18682-95-6*0
+Cyanogen	NCCN (g)	N#CC#N	308.24	310.18	¡À 0.43	kJ/mol	52.0349 ¡À
+0.0016	460-19-5*0
+Propyl	CH3CH2CH2 (g)	CC[CH2]	118.27	100.87	¡À 0.60	kJ/mol	43.0877 ¡À
+0.0024	2143-61-5*0
+Dioxidanide	[HO2]- (g)	O[O-]	-88.87	-91.53	¡À 0.35	kJ/mol	33.00729 ¡À
+0.00060	14691-59-9*0
+n-Butyl	CH3CH2CH2CH2 (g)	CCC[CH2]	102.52	80.02	¡À 0.72	kJ/mol	57.1143 ¡À
+0.0033	2492-36-6*0
+1,3-Butadiene	CH2CHCHCH2 (g)	C=CC=C	125.05	110.57	¡À 0.40	kJ/mol	54.0904 ¡À
+0.0032	106-99-0*0
+n-Pentane	CH3CH2CH2CH2CH3 (g)	CCCCC	-114.50	-146.38	¡À 0.31	kJ/mol	72.1488 ¡À
+0.0041	109-66-0*0
+Ethynide	[CCH]- (g)	[CH][C-]	277.42	280.83	¡À 0.18	kJ/mol	25.0299 ¡À
+0.0016	29075-95-4*0
+Formic acid	HC(O)OH (g)	C(=O)O	-371.06	-378.36	¡À 0.22	kJ/mol	46.0254 ¡À
+0.0010	64-18-6*0
+2-Chloroethanol	ClCH2CH2OH (g)	ClCCO	-250.05	-266.76	¡À 0.63	kJ/mol	80.5132 ¡À
+0.0019	107-07-3*0
+Bromobenzene	C6H5Br (g)	c1ccc(cc1)Br	126.6	104.6	¡À 1.3	kJ/mol	157.0079 ¡À
+0.0049	108-86-1*0
+Benzaldehyde	C6H5C(O)H (g)	c1ccc(cc1)C=O	-19.22	-37.02	¡À 0.92	kJ/mol	106.1219 ¡À
+0.0056	100-52-7*0
+Hypofluorite	[FO]- (g)	[O-]F	-108.85	-108.68	¡À 0.48	kJ/mol	34.99835 ¡À
+0.00030	12763-66-5*0
+Chlorous acid	HOClO (g)	OCl=O	25.75	20.69	¡À 0.63	kJ/mol	68.4594 ¡À
+0.0011	13898-47-0*0
+Water	H2O (l)	O		-285.836	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*590
+Iodoxyl radical	IO (g)	I[O]	126.97	125.04	¡À 0.82	kJ/mol	142.90387 ¡À
+0.00030	14696-98-1*0
+Ammonium	[NH4]+ (g)	[NH4+]	643.04	631.73	¡À 0.21	kJ/mol	18.03795 ¡À
+0.00029	14798-03-9*0
+Azanide	[NH2]- (g)	[NH2-]	114.89	112.02	¡À 0.33	kJ/mol	16.02317 ¡À
+0.00016	17655-31-1*0
+Hydroxyamidogen	HNOH (g, trans)	[NH]O	101.6	94.8	¡À 1.1	kJ/mol	32.02202 ¡À
+0.00034	13940-32-4*1
+Nitrate	[NO3]- (g)	O=[N+]([O-])[O-]	-300.30	-306.77	¡À 0.62	kJ/mol	62.00549 ¡À
+0.00090	14797-55-8*0
+Cyanogen iodide	ICN (g)	IC#N	222.5	222.0	¡À 1.6	kJ/mol	152.92191 ¡À
+0.00080	506-78-5*0
+Formyl anion	[HCO]- (g)	[CH-]=O	11.63	12.02	¡À 0.44	kJ/mol	29.01859 ¡À
+0.00086	57340-31-5*0
+2-Propynylidyne	CCCH (g)	C#C[C]	717.94	722.29	¡À 0.81	kJ/mol	37.0400 ¡À
+0.0024	53590-28-6*0
+Isobutene	CH2C(CH3)2 (g)	CC(=C)C	3.95	-17.12	¡À 0.43	kJ/mol	56.1063 ¡À
+0.0032	115-11-7*0
+Methanetetraylbisamidogen	NCN (g)	[N]=C=[N]	450.41	450.81	¡À 0.68	kJ/mol	40.02418 ¡À
+0.00081	2669-76-3*0
+Trichloromethyl	CCl3 (g)	[C](Cl)(Cl)Cl	71.91	71.43	¡À 0.86	kJ/mol	118.3688 ¡À
+0.0028	3170-80-7*0
+Chloromethylene	CHCl (g, singlet)	[CH]Cl	320.24	320.52	¡À 0.89	kJ/mol	48.4713 ¡À
+0.0012	2108-20-5*2
+Methylene bromide	CH2Br2 (g)	C(Br)Br	25.5	4.1	¡À 1.1	kJ/mol	173.8346 ¡À
+0.0022	74-95-3*0
+2-Fluoroethanol	FCH2CH2OH (g)	FCCO	-406.6	-423.9	¡À 1.3	kJ/mol	64.0589 ¡À
+0.0017	371-62-0*0
+Phenide	[C6H5]- (g)	c1cccc[c-]1	244.44	231.01	¡À 0.42	kJ/mol	77.1044 ¡À
+0.0048	30922-78-2*0
+Phenolate	[C6H5O]- (g)	c1ccc(cc1)[O-]	-146.09	-161.56	¡À 0.93	kJ/mol	93.1038 ¡À
+0.0048	3229-70-7*0
+Chloronium	[HClH]+ (g)	[H][ClH+]	881.3	878.2	¡À 1.1	kJ/mol	37.46803 ¡À
+0.00091	36658-55-6*0
+Chlorine trifluoride	FCl(F)F (g)	FCl(F)F	-158.6	-162.7	¡À 1.2	kJ/mol	92.44791 ¡À
+0.00090	7790-91-2*0
+Iodine monochloride	ICl (g)	ICl	19.024	17.391	¡À 0.013	kJ/mol	162.35717 ¡À
+0.00090	7790-99-0*0
+Iodotrifluoromethane	CF3I (g)	C(F)(F)(F)I	-583.82	-589.70	¡À 0.55	kJ/mol	195.91038 ¡À
+0.00080	2314-97-8*0
+Nitrogen atom cation	N+ (g)	[N+]	1872.907	1875.688	¡À 0.024	kJ/mol	14.006191 ¡À
+0.000070	14158-23-7*0
+Azido radical	NNN (g)	[N]N=[N]	452.25	449.66	¡À 0.60	kJ/mol	42.02022 ¡À
+0.00021	12596-60-0*0
+Trinitrogen cation	[NNN]+ (g)	[N]N=[N+]	1519.41	1516.88	¡À 0.89	kJ/mol	42.01967 ¡À
+0.00021	12185-03-4*0
+Oxonitrate anion	[NO]- (g)	N#[O-]	87.91	87.94	¡À 0.12	kJ/mol	30.00669 ¡À
+0.00031	14967-78-3*0
+Carbon monoxide cation	[CO]+ (g)	[C]#[O+]	1238.308	1241.588	¡À 0.026	kJ/mol	28.00955 ¡À
+0.00085	12144-04-6*0
+Nitrosyl ion	[NO]+ (g)	N#[O+]	984.484	984.479	¡À 0.065	kJ/mol	30.00559 ¡À
+0.00031	14452-93-8*0
+Nitroxyl	H2NO (g)	N[O]	71.13	64.52	¡À 0.90	kJ/mol	32.02202 ¡À
+0.00034	13408-29-2*0
+Hydrazoic acid	HNNN (g)	N=[N+]=[N-]	297.90	291.61	¡À 0.49	kJ/mol	43.02816 ¡À
+0.00022	7782-79-8*0
+Ethanium	[C2H7]+ (g, bridged C2)	[CH3+][H][CH3]	874.39	858.12	¡À 0.62	kJ/mol	31.0764 ¡À
+0.0017	24669-33-8*1
+Acetylium	[CH3CO]+ (g)	C[C+]=O	666.87	659.58	¡À 0.47	kJ/mol	43.0441 ¡À
+0.0016	15762-07-9*0
+Cyanide	[CN]- (g)	[C-]#N	63.964	67.250	¡À 0.095	kJ/mol	26.01799 ¡À
+0.00080	57-12-5*0
+Hydroxymethylene	HCOH (g, trans)	[CH]O	112.70	108.93	¡À 0.28	kJ/mol	30.02598 ¡À
+0.00087	19710-56-6*1
+Carbonic acid	C(O)(OH)2 (g, cis-cis)	OC(=O)O	-602.74	-612.91	¡À 0.79	kJ/mol	62.0248 ¡À
+0.0012	463-79-6*1
+Hydrogen bromide	HBr (aq)	Br		-120.71	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*800
+n-Hexane	CH3CH2CH2CH2CH2CH3 (g)	CCCCCC	-130.10	-166.98	¡À 0.34	kJ/mol	86.1754 ¡À
+0.0049	110-54-3*0
+1-Hydroxyethylium	[CH3CHOH]+ (g, anti)	C[CH+]O	609.13	594.70	¡À 0.39	kJ/mol	45.0600 ¡À
+0.0017	18682-96-7*1
+Ethoxy	CH3CH2O (g, A 2A')	CC[O]	6.09	-8.35	¡À 0.52	kJ/mol	45.0605 ¡À
+0.0017	2154-50-9*52
+Dicarbon monoxide	CCO (g, triplet)	[C]=C=O	377.3	381.3	¡À 1.1	kJ/mol	40.0208 ¡À
+0.0016	12071-23-7*1
+Formic acid	HC(O)OH (g, anti)	C(=O)O	-354.70	-361.94	¡À 0.39	kJ/mol	46.0254 ¡À
+0.0010	64-18-6*2
+Formyloxidanyl	HC(O)O (g, 2A1)	C(=O)[O]	-125.57	-127.23	¡À 0.56	kJ/mol	45.0174 ¡À
+0.0010	16499-21-1*1
+Trimethylamine	(CH3)3N (g)	CN(C)C	1.16	-27.69	¡À 0.92	kJ/mol	59.1103 ¡À
+0.0025	75-50-3*0
+Chlorodifluoromethane	CHClF2 (g)	C(F)(F)Cl	-476.4	-482.5	¡À 1.2	kJ/mol	86.4681 ¡À
+0.0012	75-45-6*0
+Fluoromethylene	CHF (g, singlet)	[CH]F	148.34	148.62	¡À 0.46	kJ/mol	32.01704 ¡À
+0.00080	13453-52-6*2
+Fluoroformyl	FCO (g)	F[C]=O	-176.61	-176.03	¡À 0.39	kJ/mol	47.00850 ¡À
+0.00085	1871-24-5*0
+Hydrogen chloride	HCl (aq)	Cl		-166.993	¡À 0.023	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*800
+Bromonium	[HBrH]+ (g)	[H][BrH+]	925.2	914.5	¡À 1.5	kJ/mol	81.9193 ¡À
+0.0010	36658-54-5*0
+Hydrogen peroxide cation	[H2O2]+ (g, trans)	O[OH+]	896.57	889.59	¡À 0.58	kJ/mol	34.01413 ¡À
+0.00062	12325-10-9*1
+Hydrazine	NH2NH2 (g)	NN	111.56	97.41	¡À 0.49	kJ/mol	32.04524 ¡À
+0.00031	302-01-2*0
+Ethylidene	CH3CH (g, triplet)	[CH]C	361.30	354.30	¡À 0.91	kJ/mol	28.0532 ¡À
+0.0016	4218-50-2*1
+Vinyl anion	[CH2CH]- (g)	C=[CH-]	237.01	232.59	¡À 0.87	kJ/mol	27.0458 ¡À
+0.0016	25012-81-1*0
+Aminomethylium	[CH2NH2]+ (g)	[CH2+]N	763.55	751.58	¡À 0.66	kJ/mol	30.04865 ¡À
+0.00085	488821-23-4*0
+Peroxyformic acid	HC(O)OOH (g, cis)	C(=O)OO	-279.8	-289.1	¡À 1.1	kJ/mol	62.0248 ¡À
+0.0012	107-32-4*1
+1-Methylethenyl	CH3CCH2 (g)	C[C]=C	262.81	252.46	¡À 0.78	kJ/mol	41.0718 ¡À
+0.0024	15552-77-9*0
+trans-2-Butene	CH3CHCHCH3 (g, trans)	C/C=C/C	9.24	-11.32	¡À 0.41	kJ/mol	56.1063 ¡À
+0.0032	624-64-6*0
+cis-2-Butene	CH3CHCHCH3 (g, cis)	C/C=C\C	13.93	-7.34	¡À 0.42	kJ/mol	56.1063 ¡À
+0.0032	590-18-1*0
+Cyclopentane	CH2(CH2CH2CH2CH2) (g)	C1CCCC1	-45.04	-77.61	¡À 0.44	kJ/mol	70.1329 ¡À
+0.0041	287-92-3*0
+Cyclopentadiene	CH2(CHCHCHCH) (g)	C1C=CC=C1	149.85	132.73	¡À 0.76	kJ/mol	66.1011 ¡À
+0.0040	542-92-7*0
+1-Hydroxyethyl	CH3CHOH (g, gauche-syn)	C[CH]O	-40.46	-53.93	¡À 0.93	kJ/mol	45.0605 ¡À
+0.0017	2348-46-1*2
+Protonated oxirane	[(CH2CH2)OH]+ (g)	[OH+]1CC1	725.23	709.06	¡À 0.67	kJ/mol	45.0600 ¡À
+0.0017	*38607-31-7*0
+Ethenol	CH2CHOH (g, syn)	C=CO	-112.76	-123.95	¡À 0.84	kJ/mol	44.0526 ¡À
+0.0017	557-75-5*1
+Oxoethenyl	HCCO (g)	[CH]=C=O	176.97	178.09	¡À 0.61	kJ/mol	41.0287 ¡À
+0.0016	51095-15-9*0
+Methanediol	CH2(OH)2 (g, conrot gauche)	C(O)O	-379.2	-393.4	¡À 1.1	kJ/mol	48.0413 ¡À
+0.0010	463-57-0*1
+Trioxidanide	[HOOO]- (g, gauche)	OO[O-]	-120.0	-123.1	¡À 1.6	kJ/mol	49.00669 ¡À
+0.00090	89965-38-8*2
+Acetyl chloride	CH3C(O)Cl (g)	CC(=O)Cl	-232.68	-241.55	¡À 0.33	kJ/mol	78.4973 ¡À
+0.0019	75-36-5*0
+Methyl formate	HC(O)OCH3 (g, syn-staggered)	COC=O	-344.73	-357.78	¡À 0.59	kJ/mol	60.0520 ¡À
+0.0017	107-31-3*1
+Chlorohydroxymethyl	CH(Cl)OH (g, syn-gauche)	[CH](Cl)O	-54.7	-60.7	¡À 1.1	kJ/mol	65.4787 ¡À
+0.0012	147139-06-8*1
+1,1-Dichloroethene	CH2CCl2 (g)	C=C(Cl)Cl	8.91	2.92	¡À 0.51	kJ/mol	96.9427 ¡À
+0.0024	75-35-4*0
+Tetrachloroethene	CCl2CCl2 (g)	C(=C(Cl)Cl)(Cl)Cl	-22.3	-23.1	¡À 1.1	kJ/mol	165.8322 ¡À
+0.0039	127-18-4*0
+Difluorodichloromethane	CF2Cl2 (g)	C(F)(F)(Cl)Cl	-490.42	-495.18	¡À 0.97	kJ/mol	120.9129 ¡À
+0.0020	75-71-8*0
+Fluorodichloromethane	CHFCl2 (g)	C(F)(Cl)Cl	-278.7	-284.0	¡À 1.3	kJ/mol	102.9224 ¡À
+0.0020	75-43-4*0
+Trifluoromethylium	[CF3]+ (g)	[C+](F)(F)F	409.16	406.09	¡À 0.52	kJ/mol	69.00536 ¡À
+0.00080	18851-76-8*0
+Fluoromethylene	CHF (g, triplet)	[CH]F	210.16	210.50	¡À 0.72	kJ/mol	32.01704 ¡À
+0.00080	13453-52-6*1
+Formyl fluoride	HFCO (g)	FC=O	-378.64	-382.23	¡À 0.33	kJ/mol	48.01644 ¡À
+0.00086	1493-02-3*0
+Methyl nitrite	CH3ONO (g, cis)	CON=O	-55.58	-67.36	¡À 0.45	kJ/mol	61.0401 ¡À
+0.0010	624-91-9*2
+Chlorine pentafluoride	FCl(F)(F)(F)F (g)	FCl(F)(F)(F)F	-226.1	-234.2	¡À 1.7	kJ/mol	130.44472 ¡À
+0.00090	13637-63-3*0
+Chloro hypochlorite	ClOCl (g)	ClOCl	79.78	77.97	¡À 0.36	kJ/mol	86.9048 ¡À
+0.0018	7791-21-1*0
+Chlorooxy hypochlorite	ClOOCl (g)	ClOOCl	134.55	131.32	¡À 0.56	kJ/mol	102.9042 ¡À
+0.0019	12292-23-8*0
+Peroxyhypochlorous acid	HOOCl (g)	OOCl	3.93	-1.34	¡À 0.95	kJ/mol	68.4594 ¡À
+0.0011	67952-07-2*0
+Hypoiodite	[IO]- (g)	I[O-]	-102.48	-104.29	¡À 0.88	kJ/mol	142.90442 ¡À
+0.00030	15065-65-3*0
+Dinitrogen cation	[N2]+ (g)	N#[N+]	1503.311	1503.312	¡À 0.0011	kJ/mol	28.01293 ¡À
+0.00014	13966-04-6*0
+Carbon dioxide cation	[CO2]+ (g)	[C+](=O)=O	936.092	936.927	¡À 0.017	kJ/mol	44.00895 ¡À
+0.00100	12181-61-2*0
+Nitrogen sesquioxide	ONNO2 (g)	O=N-[N](=O)[O]	90.71	86.15	¡À 0.15	kJ/mol	76.01168 ¡À
+0.00091	10544-73-7*0
+Ammonium	[NH4]+ (aq)	[NH4+]		-133.080	¡À 0.056	kJ/mol	18.03795 ¡À
+0.00029	14798-03-9*800
+Hydrazino	NH2NH (g)	N[NH]	234.80	224.28	¡À 0.78	kJ/mol	31.03730 ¡À
+0.00025	13598-46-4*0
+Ethylidene	CH3CH (g, singlet)	[CH]C	373.69	366.46	¡À 0.98	kJ/mol	28.0532 ¡À
+0.0016	4218-50-2*2
+Methylamidogen	CH3NH (g)	C[NH]	187.21	176.56	¡À 0.49	kJ/mol	30.04920 ¡À
+0.00085	15622-51-2*0
+Hydrogen isocyanide cation	[HNC]+ (g)	[C+]=N	1353.0	1352.9	¡À 1.3	kJ/mol	27.02483 ¡À
+0.00081	74158-11-5*0
+Prop-2-ylium	[CH3CHCH3]+ (g)	C[CH+]C	822.90	805.64	¡À 0.25	kJ/mol	43.0871 ¡À
+0.0024	19252-53-0*0
+Propargylenide	[HCCCH]- (g, transoid 2B)	C#C[CH-]	434.5	437.1	¡À 1.1	kJ/mol	38.0485 ¡À
+0.0024	82906-05-6*1
+neo-Pentane	C(CH3)4 (g)	CC(C)(C)C	-134.69	-167.57	¡À 0.40	kJ/mol	72.1488 ¡À
+0.0041	463-82-1*0
+Dichloride	[Cl2]- (g)	Cl[Cl-]	-229.8	-228.7	¡À 1.4	kJ/mol	70.9059 ¡À
+0.0018	12595-89-0*0
+2-Hydroxyethyl	CH2CH2OH (g, gauche-anti)	[CH2]CO	-9.91	-22.54	¡À 0.91	kJ/mol	45.0605 ¡À
+0.0017	4422-54-2*2
+Chlorine atom cation	Cl+ (g)	[Cl+]	1370.806	1372.602	¡À 0.0011	kJ/mol	35.45215 ¡À
+0.00090	24203-47-2*0
+Dimethyl ether	CH3OCH3 (g)	COC	-166.53	-184.04	¡À 0.45	kJ/mol	46.0684 ¡À
+0.0017	115-10-6*0
+Methanediol	CH2(OH)2 (g, disrot gauche)	C(O)O	-368.8	-382.0	¡À 1.2	kJ/mol	48.0413 ¡À
+0.0010	463-57-0*2
+(Methylamino)methyl	CH3NHCH2 (g)	CN[CH2]	167.56	151.10	¡À 0.97	kJ/mol	44.0758 ¡À
+0.0017	31277-24-4*0
+Dimethylamidogen	(CH3)2N (g)	C[N]C	173.7	156.3	¡À 1.5	kJ/mol	44.0758 ¡À
+0.0017	15337-44-7*0
+Bromotrichloromethane	CCl3Br (g)	C(Cl)(Cl)(Cl)Br	-32.87	-42.01	¡À 0.60	kJ/mol	198.2728 ¡À
+0.0030	75-62-7*0
+Chloromethylidyne	CCl (g)	[C]Cl	430.42	434.18	¡À 0.67	kJ/mol	47.4634 ¡À
+0.0012	3889-76-7*0
+Chloromethanol	CH2(Cl)OH (g)	ClCO	-232.1	-242.4	¡À 1.2	kJ/mol	66.4866 ¡À
+0.0013	15454-33-8*0
+Chloromethoxy	CH2(Cl)O (g)	C(Cl)[O]	-11.7	-18.5	¡À 1.1	kJ/mol	65.4787 ¡À
+0.0012	114282-89-2*0
+1,1-Dichloroethane	CH3CHCl2 (g)	CC(Cl)Cl	-119.76	-132.54	¡À 0.51	kJ/mol	98.9586 ¡À
+0.0024	75-34-3*0
+1,1,1-Trichloroethane	CH3CCl3 (g)	CC(Cl)(Cl)Cl	-134.42	-145.00	¡À 0.52	kJ/mol	133.4033 ¡À
+0.0031	71-55-6*0
+Hydroperoxonium	[H2OOH]+ (g, trans)	[OH2+]O	738.1	727.8	¡À 1.2	kJ/mol	35.02207 ¡À
+0.00064	70850-26-9*1
+Tetraiodomethane	CI4 (g)	C(I)(I)(I)I	332.0	326.9	¡À 4.1	kJ/mol	519.62858 ¡À
+0.00081	507-25-5*0
+o-Benzyne	C6H4 (g, singlet)	C1=CC#CC=C1	468.05	459.13	¡À 0.88	kJ/mol	76.0960 ¡À
+0.0048	462-80-6*2
+Benzyl	C6H5CH2 (g)	c1ccc(cc1)[CH2]	230.23	211.42	¡À 0.62	kJ/mol	91.1305 ¡À
+0.0056	2154-56-5*0
+Acetonyl	CH3C(O)CH2 (g)	CC(=O)[CH2]	-19.17	-31.88	¡À 0.99	kJ/mol	57.0712 ¡À
+0.0024	3122-07-4*0
+Propionaldehyde	CH3CH2CHO (g)	CCC=O	-171.40	-186.80	¡À 0.25	kJ/mol	58.0791 ¡À
+0.0025	123-38-6*0
+Bromonium	Br+ (g)	[Br+]	1257.778	1251.715	¡À 0.057	kJ/mol	79.90345 ¡À
+0.00100	22541-56-6*0
+Nitric acid	HNO3 (aq)	O[N+](=O)[O-]		-206.63	¡À 0.18	kJ/mol	63.01288 ¡À
+0.00091	7697-37-2*800
+Oxoammoniumyl	[HNO]+ (g)	[NH+]=O	1092.40	1089.47	¡À 0.68	kJ/mol	31.01353 ¡À
+0.00032	63559-87-5*0
+Trioxidane	HOOOH (g, cis)	OOO	-72.39	-80.88	¡À 0.92	kJ/mol	50.01408 ¡À
+0.00091	14699-99-1*2
+Peroxynitrous acid	HOONO (g, trans, perp)	OON=O	7.57	0.49	¡À 0.41	kJ/mol	63.01288 ¡À
+0.00091	14691-52-2*1
+Chlorodioxidanyl	ClOO (g)	ClO[O]	103.91	102.82	¡À 0.37	kJ/mol	67.4515 ¡À
+0.0011	17376-09-9*0
+Ethylidyne	CH3C (g)	[C]C	508.56	504.86	¡À 0.87	kJ/mol	27.0452 ¡À
+0.0016	67624-57-1*0
+Ethylidyne	CH3C (g, quartet)	[C]C	640.6	636.1	¡À 1.2	kJ/mol	27.0452 ¡À
+0.0016	67624-57-1*2
+Methylamidogen anion	[CH3NH]- (g)	C[NH-]	144.95	134.12	¡À 0.68	kJ/mol	30.04975 ¡À
+0.00085	54448-39-4*0
+Iminomethyl cation	[HCNH]+ (g)	[NH+]#C	953.3	949.3	¡À 1.4	kJ/mol	28.03277 ¡À
+0.00082	196216-36-1*0
+Fluoronium	[HFH]+ (g, singlet)	[H][F+][H]	774.10	771.16	¡À 0.88	kJ/mol	21.01373 ¡À
+0.00014	12206-67-6*2
+Perchloryl	OCl(O)O (g)	O=Cl(=O)[O]	191.68	186.01	¡À 0.61	kJ/mol	83.4509 ¡À
+0.0013	13932-10-0*0
+1-Propenyl	CH3CHCH (g, cis)	CC=[CH]	277.99	267.20	¡À 0.79	kJ/mol	41.0718 ¡À
+0.0024	6067-68-1*2
+Hydrogen fluoride	HF (aq, 20 H2O)	F		-321.03	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*818
+1-Propynyl	CH3CC (g)	CC#[C]	528.39	526.03	¡À 0.75	kJ/mol	39.0559 ¡À
+0.0024	89342-91-6*0
+Propargylenide	[HCCCH]- (g, cisoid 2A)	C#C[CH-]	437.0	439.5	¡À 1.1	kJ/mol	38.0485 ¡À
+0.0024	82906-05-6*2
+2-Propyn-1-ylium-1-ylidene	[CCCH]+ (g)	C#C[C+]	1598.0	1602.9	¡À 1.3	kJ/mol	37.0395 ¡À
+0.0024	75104-46-0*0
+t-Butyl	(CH3)3C (g)	C[C](C)C	75.44	50.14	¡À 0.68	kJ/mol	57.1143 ¡À
+0.0033	1605-73-8*0
+2-Butyne	CH3CCCH3 (g)	CC#CC	158.96	145.99	¡À 0.59	kJ/mol	54.0904 ¡À
+0.0032	503-17-3*0
+1-Butyne	CH3CH2CCH (g)	CCC#C	179.36	165.77	¡À 0.67	kJ/mol	54.0904 ¡À
+0.0032	107-00-6*0
+iso-Pentane	CH3CH2CH(CH3)2 (g)	CCC(C)C	-119.26	-153.31	¡À 0.44	kJ/mol	72.1488 ¡À
+0.0041	78-78-4*0
+Isoprene	CH2C(CH3)CHCH2 (g)	CC(=C)C=C	95.97	75.44	¡À 0.70	kJ/mol	68.1170 ¡À
+0.0040	78-79-5*0
+2-Hydroxyethyl	CH2CH2OH (g, staggered-anti)	[CH2]CO	-4.9	-17.4	¡À 1.3	kJ/mol	45.0605 ¡À
+0.0017	4422-54-2*3
+Vinoxy	CH2CHO (g)	C=C[O]	22.42	15.58	¡À 0.77	kJ/mol	43.0446 ¡À
+0.0016	6912-06-7*0
+Acetyl anion	[CH3CO]- (g)	C[C-]=O	-44.0	-49.6	¡À 1.4	kJ/mol	43.0452 ¡À
+0.0016	78944-68-0*0
+Ketene	CH2CO (g, triplet)	C=C=O	182.5	177.5	¡À 1.3	kJ/mol	42.0367 ¡À
+0.0016	463-51-4*1
+Water dimer	(H2O)2 (g)	O.O	-491.097	-499.137	¡À 0.052	kJ/mol	36.03056 ¡À
+0.00066	25655-83-8*0
+Hydroxyformyl	HOCO (g, cis)	O[C]=O	-174.34	-177.37	¡À 0.53	kJ/mol	45.0174 ¡À
+0.0010	2564-86-5*2
+Hydroxyformyl anion	[HOCO]- (g, cis)	[C-](=O)O	-319.50	-322.27	¡À 0.60	kJ/mol	45.0180 ¡À
+0.0010	78944-70-4*2
+2-Hydrotrioxy	OO(H)O (g)	[O][OH][O]	299.7	294.0	¡À 1.2	kJ/mol	49.00614 ¡À
+0.00090	*12500-78-6*0
+1-Propanol	CH3CH2CH2OH (g)	CCCO	-231.44	-255.28	¡À 0.25	kJ/mol	60.0950 ¡À
+0.0025	71-23-8*0
+(Dimethylamino)methyl	(CH3)2NCH2 (g)	CN(C)[CH2]	165.1	142.0	¡À 1.4	kJ/mol	58.1024 ¡À
+0.0025	30208-47-0*0
+Chloromethide	[CH2Cl]- (g)	[CH2-]Cl	56.5	53.3	¡À 2.0	kJ/mol	49.4798 ¡À
+0.0012	60291-29-4*0
+cis-1,2-Dichloroethene	CHClCHCl (g, cis)	C(\Cl)=C\Cl	3.46	-2.54	¡À 0.56	kJ/mol	96.9427 ¡À
+0.0024	156-59-2*0
+Fluorotrichloromethane	CCl3F (g)	C(Cl)(Cl)(Cl)F	-286.4	-289.6	¡À 1.2	kJ/mol	137.3672 ¡À
+0.0028	75-69-4*0
+Difluoromethylene	CF2 (g)	[C](F)F	-193.94	-193.47	¡À 0.39	kJ/mol	50.00751 ¡À
+0.00080	2154-59-8*0
+Hexafluoroethane	CF3CF3 (g)	C(F)(F)(F)C(F)(F)F	-1334.5	-1342.8	¡À 1.5	kJ/mol	138.0118 ¡À
+0.0016	76-16-4*0
+1,1-Difluoroethane	CHF2CH3 (g)	CC(F)F	-489.06	-502.78	¡À 0.65	kJ/mol	66.0500 ¡À
+0.0016	75-37-6*0
+1,1-Difluoroethene	CH2CF2 (g)	C=C(F)F	-343.60	-350.66	¡À 0.94	kJ/mol	64.0341 ¡À
+0.0016	75-38-7*0
+Tricarbon dioxide	OCCCO (g)	O=C=C=C=O	-94.8	-92.7	¡À 1.4	kJ/mol	68.0309 ¡À
+0.0025	504-64-3*0
+Ethylbenzene	C6H5CH2CH3 (g)	c1ccc(cc1)CC	58.18	29.72	¡À 0.55	kJ/mol	106.1650 ¡À
+0.0064	100-41-4*0
+Phenylethene	C6H5CHCH2 (g)	c1ccc(cc1)C=C	169.66	148.33	¡À 0.55	kJ/mol	104.1491 ¡À
+0.0064	100-42-5*0
+Phenylacetylene	C6H5CCH (g)	c1ccc(cc1)C#C	332.4	317.2	¡À 1.1	kJ/mol	102.1332 ¡À
+0.0064	536-74-3*0
+Difluoride	[F2]- (g)	F[F-]	-291.0	-290.2	¡À 1.5	kJ/mol	37.9973550 ¡À
+0.0000010	12184-85-9*0
+Acetonate	[CH3C(O)CH2]- (g)	CC(=[O-])[CH2]	-188.5	-202.1	¡À 1.1	kJ/mol	57.0717 ¡À
+0.0024	24262-31-5*0
+Bromine monochloride	BrCl (g)	BrCl	21.882	14.439	¡À 0.060	kJ/mol	115.3567 ¡À
+0.0013	13863-41-7*0
+Iodine monobromide	IBr (g)	IBr	49.718	40.771	¡À 0.067	kJ/mol	206.8085 ¡À
+0.0010	7789-33-5*0
+Nitrosyl nitrite	ONONO (g, sym)	O=NON=O	93.0	87.8	¡À 1.3	kJ/mol	76.01168 ¡À
+0.00091	122413-35-8*1
+Nitroxyl	NO3 (g)	O=[N+]([O-])[O]	79.38	74.13	¡À 0.19	kJ/mol	62.00494 ¡À
+0.00090	12033-49-7*0
+Isodiazene	NNH2 (g)	[N]N	307.52	300.44	¡À 0.75	kJ/mol	30.02936 ¡À
+0.00020	28647-38-3*0
+Nitryl hydride	HN(O)O (g)	[NH+](=O)[O-]	-37.2	-44.1	¡À 1.5	kJ/mol	47.01348 ¡À
+0.00061	90266-90-3*0
+Carbon atom cation	C+ (g)	[C+]	1797.860	1803.458	¡À 0.048	kJ/mol	12.01015 ¡À
+0.00080	14067-05-1*0
+Dioxygen anion	[O2]- (g)	O=[O-]	-43.36	-42.72	¡À 0.17	kJ/mol	31.99935 ¡À
+0.00060	11062-77-4*0
+Methanide	[CH3]- (g)	[CH3-]	141.08	137.63	¡À 0.30	kJ/mol	15.03507 ¡À
+0.00083	15194-58-8*0
+Methyliumyl	[CH2]+ (g)	[CH2+]	1393.17	1394.03	¡À 0.12	kJ/mol	14.02603 ¡À
+0.00081	15091-72-2*0
+Methyliumylidene	[CH]+ (g)	[CH+]	1619.765	1623.108	¡À 0.056	kJ/mol	13.01809 ¡À
+0.00080	24361-82-8*0
+Methylidyne anion	[CH]- (g)	[CH-]	474.97	478.30	¡À 0.85	kJ/mol	13.01919 ¡À
+0.00080	28604-54-8*0
+Trioxygen difluoride	FOOOF (g, trans)	FOOOF	112.5	106.7	¡À 1.2	kJ/mol	85.99501 ¡À
+0.00090	16829-28-0*1
+Ethanide	[CH3CH2]- (g)	C[CH2-]	152.9	141.8	¡À 1.2	kJ/mol	29.0616 ¡À
+0.0016	25013-41-6*0
+Oxidanylium	[OH]+ (g)	[OH+]	1293.182	1293.211	¡À 0.035	kJ/mol	17.00679 ¡À
+0.00031	12259-29-9*0
+Methyleneamidogen	CH2N (g)	C=[N]	241.95	238.30	¡À 0.67	kJ/mol	28.03332 ¡À
+0.00082	15845-29-1*0
+(E)-Iminomethyl	HCNH (g, trans)	[CH]=N	275.83	272.22	¡À 0.71	kJ/mol	28.03332 ¡À
+0.00082	54980-10-8*0
+Nitrilomethylium	[CN]+ (g)	[C+]#N	1778.0	1781.5	¡À 1.2	kJ/mol	26.01689 ¡À
+0.00080	12539-57-0*0
+Fluoroacetylene	HCCF (g)	C#CF	104.89	105.60	¡À 0.41	kJ/mol	44.0277 ¡À
+0.0016	2713-09-9*0
+Methanol cation	[CH3OH]+ (g)	[CH3+]O	856.90	846.58	¡À 0.32	kJ/mol	32.04131 ¡À
+0.00090	12538-91-9*0
+Methyloxonium	[CH3OH2]+ (g)	CO.[H+]	589.8	575.6	¡À 1.2	kJ/mol	33.04925 ¡À
+0.00092	17836-08-7*0
+Hydroxymethylene	HCOH (g, gauche triplet)	[CH]O	219.3	216.4	¡À 1.1	kJ/mol	30.02598 ¡À
+0.00087	19710-56-6*3
+Aquacarbon	H2OC (g, triplet)	[C].O	442.7	441.1	¡À 1.3	kJ/mol	30.02598 ¡À
+0.00087	81434-73-3*1
+Hydroxyde	[OH]- (aq)	[OH-]		-230.020	¡À 0.029	kJ/mol	17.00789 ¡À
+0.00031	14280-30-9*800
+Carbonic acid	C(O)(OH)2 (g, cis-trans)	OC(=O)O	-596.87	-606.98	¡À 0.85	kJ/mol	62.0248 ¡À
+0.0012	463-79-6*2
+Carbonic acid	C(O)(OH)2 (g, trans-trans)	OC(=O)O	-561.64	-570.49	¡À 0.98	kJ/mol	62.0248 ¡À
+0.0012	463-79-6*3
+1,2-Propadienyl anion	[CH2CCH]- (g)	C=C=[CH-]	265.65	262.44	¡À 0.73	kJ/mol	39.0565 ¡À
+0.0024	64066-06-4*0
+1-Propynyl anion	[CH3CC]- (g)	CC#[C-]	264.45	260.98	¡À 0.76	kJ/mol	39.0565 ¡À
+0.0024	36147-87-2*0
+Chloric acid	HOCl(O)O (g)	OCl(=O)=O	2.2	-4.9	¡À 1.6	kJ/mol	84.4588 ¡À
+0.0013	7790-93-4*0
+Chlorate	[OCl(O)O]- (g)	O=Cl(=O)[O-]	-207.4	-212.9	¡À 1.6	kJ/mol	83.4514 ¡À
+0.0013	14866-68-3*0
+Hypochloroperoxoous acid, hydroxy ester	HOOOCl (g, syn)	OOOCl	49.2	42.2	¡À 1.9	kJ/mol	84.4588 ¡À
+0.0013	928652-99-7*1
+Cyclohexane	CH2(CH2CH2CH2CH2CH2) (g)	C1CCCCC1	-83.64	-123.20	¡À 0.36	kJ/mol	84.1595 ¡À
+0.0049	110-82-7*0
+Ozonide	[OOO]- (g)	O=[O-]=O	-58.48	-60.84	¡À 0.21	kJ/mol	47.99875 ¡À
+0.00090	12596-80-4*0
+2-Hydroxyethylium	[CH2CH2OH]+ (g, staggered-anti)	[CH2+]CO	1019.2	1006.3	¡À 1.7	kJ/mol	45.0600 ¡À
+0.0017	38607-31-7*3
+Ethynol	HCCOH (g)	C#CO	95.3	93.2	¡À 1.5	kJ/mol	42.0367 ¡À
+0.0016	32038-79-2*0
+Hydroxyformyl anion	[HOCO]- (g, trans)	[C-](=O)O	-313.69	-315.63	¡À 0.61	kJ/mol	45.0180 ¡À
+0.0010	78944-70-4*1
+2-Propanol	CH3CH(OH)CH3 (g)	CC(O)C	-248.87	-272.97	¡À 0.32	kJ/mol	60.0950 ¡À
+0.0025	67-63-0*0
+Acetic acid	CH3C(O)OH (g, syn)	CC(=O)O	-418.51	-432.63	¡À 0.52	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*1
+Ethylene glycol	(CH2OH)2 (g)	OCCO	-369.81	-389.44	¡À 0.49	kJ/mol	62.0678 ¡À
+0.0018	107-21-1*0
+(Methylamino)methyl cation	[CH3NHCH2]+ (g)	CN[CH2+]	728.81	710.19	¡À 0.99	kJ/mol	44.0752 ¡À
+0.0017	*31277-24-4*0
+Dichloromethyl	CHCl2 (g)	[CH](Cl)Cl	92.02	90.11	¡À 0.88	kJ/mol	83.9240 ¡À
+0.0020	3474-12-2*0
+Chloromethyl	CH2Cl (g)	[CH2]Cl	118.47	115.39	¡À 0.87	kJ/mol	49.4793 ¡À
+0.0012	6806-86-6*0
+Methyl hypochlorite	CH3OCl (g)	COCl	-52.9	-62.9	¡À 1.4	kJ/mol	66.4866 ¡À
+0.0013	593-78-2*0
+1,2-Dichloroethane	CH2ClCH2Cl (g)	C(Cl)CCl	-118.48	-130.43	¡À 0.54	kJ/mol	98.9586 ¡À
+0.0024	107-06-2*0
+Dichloroacetylene	ClCCCl (g)	ClC#CCl	230.08	233.39	¡À 0.98	kJ/mol	94.9268 ¡À
+0.0024	7572-29-4*0
+Fluorochloromethane	CH2FCl (g)	C(F)Cl	-256.3	-263.5	¡À 1.3	kJ/mol	68.4777 ¡À
+0.0012	593-70-4*0
+Trioxidanyl	HOOO (g, trans)	OO[O]	25.31	23.32	¡À 0.13	kJ/mol	49.00614 ¡À
+0.00090	12500-78-6*1
+Formyl chloride	CHClO (g)	C(=O)Cl	-179.97	-183.18	¡À 0.77	kJ/mol	64.4707 ¡À
+0.0012	2565-30-2*0
+Chloroformyl	ClCO (g)	Cl[C]=O	-21.91	-20.52	¡À 0.49	kJ/mol	63.4628 ¡À
+0.0012	2602-42-8*0
+1,3-Butadiyne	HCCCCH (g)	C#CC#C	458.35	460.07	¡À 0.82	kJ/mol	50.0587 ¡À
+0.0032	460-12-8*0
+o-Benzyne anion	[C6H4]- (g)	C1=CC#CC=[CH-]1	413.73	404.63	¡À 0.97	kJ/mol	76.0965 ¡À
+0.0048	100569-88-8*0
+Oxygen atom	O (g, singlet)	[O]	436.666	438.523	¡À 0.0021	kJ/mol	15.99940 ¡À
+0.00030	17778-80-2*2
+Benzylide	[C6H5CH2]- (g)	c1ccc(cc1)[CH2-]	142.01	123.10	¡À 0.45	kJ/mol	91.1310 ¡À
+0.0056	18860-15-6*0
+Fluorobenzene cation	[C6H5F]+ (g)	c1ccc(cc1)[F+]	788.88	773.86	¡À 0.89	kJ/mol	96.1018 ¡À
+0.0048	34468-25-2*0
+Nitrosobenzene	C6H5NO (g)	c1ccc(cc1)N=O	215.7	198.7	¡À 1.2	kJ/mol	107.1100 ¡À
+0.0048	586-96-9*0
+Nitromethyl	CH2N(O)O (g)	C=[N+](=O)[O-]	138.8	129.4	¡À 1.2	kJ/mol	60.0321 ¡À
+0.0010	16787-85-2*0
+Hydrogen chloride	HCl (aq, 100 H2O)	Cl		-165.759	¡À 0.025	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*828
+Dinitrogen pentoxide	O2NONO2 (g)	O=[N+]([O-])O[N+](=O)[O-]	24.41	14.84	¡À 0.35	kJ/mol	108.0105 ¡À
+0.0015	10102-03-1*0
+Fluoride	F- (aq)	[F-]		-334.48	¡À 0.16	kJ/mol	18.99895178 ¡À
+0.00000050	16984-48-8*800
+Diazenyl	NNH (g)	[N]=N	252.17	249.25	¡À 0.47	kJ/mol	29.02142 ¡À
+0.00016	36882-13-0*0
+Trioxidanylium	[HOOO]+ (g, trans)	OO[O+]	1070.6	1064.3	¡À 1.4	kJ/mol	49.00559 ¡À
+0.00090	74241-49-9*1
+Peroxynitric acid	HOON(O)O (g)	[N+](=O)([O-])OO	-42.6	-53.0	¡À 1.3	kJ/mol	79.0123 ¡À
+0.0012	26404-66-0*0
+Nitrosyl chloride	ClNO (g)	ClN=O	54.450	52.548	¡À 0.067	kJ/mol	65.45884 ¡À
+0.00095	2696-92-6*0
+Carbon dioxide	CO2 (g, triplet)	C(=O)=O	49.8	50.6	¡À 1.1	kJ/mol	44.00950 ¡À
+0.00100	124-38-9*1
+Methane cation	[CH4]+ (g)	[CH4+]	1150.83	1144.45	¡À 0.25	kJ/mol	16.04191 ¡À
+0.00085	20741-88-2*0
+Methylene anion	[CH2]- (g)	[CH2-]	328.49	328.92	¡À 0.50	kJ/mol	14.02713 ¡À
+0.00081	50928-07-9*0
+Oxoniumyl ion	[H2O]+ (g)	[H][O+][H]	978.464	975.561	¡À 0.029	kJ/mol	18.01473 ¡À
+0.00033	56583-62-1*0
+Ethanium	[C2H7]+ (g)	[CH3+][H][CH3]	874.39	858.15	¡À 0.62	kJ/mol	31.0764 ¡À
+0.0017	24669-33-8*0
+Acetylene cation	[HCCH]+ (g)	C#[CH+]	1328.84	1328.18	¡À 0.13	kJ/mol	26.0367 ¡À
+0.0016	25641-79-6*0
+Vinylidene	CCH2 (g)	[C]=C	411.25	412.17	¡À 0.33	kJ/mol	26.0373 ¡À
+0.0016	2143-69-3*0
+1-Ethylium-1-ylidene	[CH3C]+ (g)	[C+]C	1329.6	1328.2	¡À 1.2	kJ/mol	27.0447 ¡À
+0.0016	78949-84-5*0
+Ethylidyne anion	[CH3C]- (g)	[C-]C	456.4	452.4	¡À 1.4	kJ/mol	27.0458 ¡À
+0.0016	117768-70-4*0
+Vinylidene anion	[CCH2]- (g)	[C-]=C	364.14	363.96	¡À 0.63	kJ/mol	26.0378 ¡À
+0.0016	66295-36-1*0
+Ethynylium	[CCH]+ (g)	[CH][C+]	1687.59	1690.92	¡À 0.16	kJ/mol	25.0288 ¡À
+0.0016	16456-59-0*0
+Methyloxoniumylidene	[CH3O]+ (g)	C[O+]	1062.29	1054.48	¡À 0.75	kJ/mol	31.03337 ¡À
+0.00088	58157-09-8*0
+Hydroxymethylene	HCOH (g, cis)	[CH]O	131.12	127.38	¡À 0.29	kJ/mol	30.02598 ¡À
+0.00087	19710-56-6*2
+Hydroxymethylene cation	[HCOH]+ (g, trans)	[CH+]O	971.9	968.2	¡À 1.4	kJ/mol	30.02543 ¡À
+0.00087	135395-06-1*1
+Iodide	I- (aq)	[I-]		-56.824	¡À 0.089	kJ/mol	126.905019 ¡À
+0.000030	20461-54-5*800
+Isoformyl	COH (g)	[C]O	217.29	217.67	¡À 0.69	kJ/mol	29.01804 ¡À
+0.00086	71080-92-7*0
+1-Propenyl	CH3CHCH (g, trans)	CC=[CH]	280.03	269.22	¡À 0.81	kJ/mol	41.0718 ¡À
+0.0024	6067-68-1*1
+Cyclopropene	CH2(CHCH) (g)	C1C=C1	292.34	283.61	¡À 0.55	kJ/mol	40.0639 ¡À
+0.0024	2781-85-3*0
+Dioxidenium	[HO2]+ (g)	O[O+]	1110.87	1107.98	¡À 0.11	kJ/mol	33.00619 ¡À
+0.00060	12207-52-2*0
+Bifluoride	[(HF)(F)]- (g, singlet)	F.[F-]	-481.8	-480.6	¡À 1.9	kJ/mol	39.005295 ¡À
+0.000070	*18130-74-0*2
+Chloryl hydride	HCl(O)O (g)	[H][Cl](=O)=O	197.6	191.2	¡À 1.6	kJ/mol	68.4594 ¡À
+0.0011	174365-32-3*0
+Water anion	[(H)(OH)]- (g, vdW ?)	[H][O-][H]	31.3	29.8	¡À 3.1	kJ/mol	18.01583 ¡À
+0.00033	12259-30-2*100
+Hydrogen fluoride	HF (aq, 30 H2O)	F		-321.08	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*820
+Cyclobutane	CH2(CH2CH2CH2) (g)	C1CCC1	52.35	27.82	¡À 0.41	kJ/mol	56.1063 ¡À
+0.0032	287-23-0*0
+Hydrogen difluoride	(F)(HF) (g, lin)	F.[F]	-198.5	-198.4	¡À 1.2	kJ/mol	39.004746 ¡À
+0.000070	12528-21-1*1
+n-Heptane	CH3(CH2)5CH3 (g)	CCCCCCC	-145.71	-187.58	¡À 0.48	kJ/mol	100.2019 ¡À
+0.0057	142-82-5*0
+n-Octane	CH3(CH2)6CH3 (g)	CCCCCCCC	-161.46	-208.29	¡À 0.67	kJ/mol	114.2285 ¡À
+0.0065	111-65-9*0
+1-Hydroxyethylium	[CH3CHOH]+ (g, syn)	C[CH+]O	611.1	596.6	¡À 1.3	kJ/mol	45.0600 ¡À
+0.0017	18682-96-7*2
+Ethenol	CH2CHOH (g, anti)	C=CO	-108.24	-119.04	¡À 0.89	kJ/mol	44.0526 ¡À
+0.0017	557-75-5*2
+Vinyl alcohol cation	[CH2CHOH]+ (g, anti)	C=C[OH+]	778.9	767.6	¡À 1.4	kJ/mol	44.0520 ¡À
+0.0017	57239-63-1*2
+Oxiranyl	CH2(CHO) (g)	C1[CH]O1	172.7	164.4	¡À 1.4	kJ/mol	43.0446 ¡À
+0.0016	31586-84-2*0
+Oxiranylium	[CH2(CHO)]+ (g, singlet)	C1[CH+]O1	901.5	893.5	¡À 1.4	kJ/mol	43.0441 ¡À
+0.0016	57789-76-1*2
+C=O=C	COC (g, triplet)	[C]=[O]=[C]	652.9	657.2	¡À 2.3	kJ/mol	40.0208 ¡À
+0.0016	*12071-23-7*1
+C=O=C	COC (g, singlet)	[C]=[O]=[C]	720.0	724.3	¡À 1.9	kJ/mol	40.0208 ¡À
+0.0016	*12071-23-7*2
+Oxirene	O(CHCH) (g, singlet)	C1=CO1	272.85	272.15	¡À 0.98	kJ/mol	42.0367 ¡À
+0.0016	157-18-6*2
+Oxirene	O(CHCH) (g, t-triplet)	C1=CO1	388.7	384.5	¡À 2.6	kJ/mol	42.0367 ¡À
+0.0016	157-18-6*11
+Formic acid cation	[HC(O)OH]+ (g, syn)	[CH+](=O)O	721.92	714.83	¡À 0.26	kJ/mol	46.0248 ¡À
+0.0010	50614-05-6*1
+Dioxirane	CH2(OO) (g)	C1OO1	9.45	1.78	¡À 0.55	kJ/mol	46.0254 ¡À
+0.0010	157-26-6*0
+Formyloxidanyl	HC(O)O (g, 2B2)	C(=O)[O]	-121.76	-125.11	¡À 0.56	kJ/mol	45.0174 ¡À
+0.0010	16499-21-1*2
+Isofulminic acid	HCNO (g)	C#[N+][O-]	170.92	169.46	¡À 0.49	kJ/mol	43.02478 ¡À
+0.00086	51060-05-0*0
+Methyl formate	HC(O)OCH3 (g, anti-eclipsed)	COC=O	-324.7	-337.2	¡À 1.9	kJ/mol	60.0520 ¡À
+0.0017	107-31-3*2
+Dimethylamide	[(CH3)2N]- (g)	C[N-]C	122.2	103.8	¡À 1.7	kJ/mol	44.0763 ¡À
+0.0017	34285-60-4*0
+Chlorine difluoride	FClF (g)	[Cl](F)F	-47.1	-48.2	¡À 1.4	kJ/mol	73.44951 ¡À
+0.00090	24801-48-7*0
+Hexachloroethane	CCl3CCl3 (g)	C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl	-147.4	-149.8	¡À 1.6	kJ/mol	236.7376 ¡À
+0.0056	67-72-1*0
+1,1,2-Trichloroethane	CH2ClCHCl2 (g)	C(Cl)C(Cl)Cl	-136.5	-148.2	¡À 1.4	kJ/mol	133.4033 ¡À
+0.0031	79-00-5*0
+Methyl iodide	CH3I (l)	CI		-12.28	¡À 0.20	kJ/mol	141.93899 ¡À
+0.00083	74-88-4*590
+Difluoromethylene	CF2 (g, triplet)	[C](F)F	43.25	43.97	¡À 0.39	kJ/mol	50.00751 ¡À
+0.00080	2154-59-8*1
+Difluoromethylene	CF2 (g, singlet)	[C](F)F	-193.94	-193.47	¡À 0.39	kJ/mol	50.00751 ¡À
+0.00080	2154-59-8*2
+Bromide	Br- (aq)	[Br-]		-120.71	¡À 0.16	kJ/mol	79.90455 ¡À
+0.00100	24959-67-9*800
+Ethyl iodide	CH3CH2I (l)	CCI	-9.42	-39.29	¡À 0.49	kJ/mol	155.9656 ¡À
+0.0016	75-03-6*500
+Fluoro(fluorooxy)methylene	FCOF (g, cis)	F[C]OF	-135.8	-137.0	¡À 2.1	kJ/mol	66.00691 ¡À
+0.00085	479587-30-9*2
+Azide ion	[NNN]- (g)	[N]N=[N-]	193.51	189.93	¡À 0.91	kJ/mol	42.02077 ¡À
+0.00021	14343-69-2*0
+Dibromophosgene	COBr2 (g)	C(Br)(Br)=O	-97.96	-113.89	¡À 0.37	kJ/mol	187.8181 ¡À
+0.0022	593-95-3*0
+Oxygen atom	O (g, triplet)	[O]	246.844	249.229	¡À 0.0021	kJ/mol	15.99940 ¡À
+0.00030	17778-80-2*1
+Benzene	C6H6 (cr,l)	c1ccccc1	50.68	49.13	¡À 0.23	kJ/mol	78.1118 ¡À
+0.0048	71-43-2*500
+o-Benzyne	C6H4 (g)	C1=CC#CC=C1	468.05	459.13	¡À 0.88	kJ/mol	76.0960 ¡À
+0.0048	462-80-6*0
+m-Benzyne	C6H4 (g, singlet)	c1[c]ccc[c]1	527.0	518.5	¡À 1.2	kJ/mol	76.0960 ¡À
+0.0048	1828-89-3*2
+p-Benzyne	C6H4 (g, singlet)	c1c[c]cc[c]1	587.1	577.5	¡À 1.2	kJ/mol	76.0960 ¡À
+0.0048	3355-34-8*2
+Phenoxy	C6H5O (g)	c1ccc(cc1)[O]	71.37	56.08	¡À 0.94	kJ/mol	93.1033 ¡À
+0.0048	2122-46-5*0
+Benzoyl fluoride	C6H5C(O)F (g)	c1ccc(cc1)C(=O)F	-288.0	-304.4	¡À 1.5	kJ/mol	124.1124 ¡À
+0.0056	455-32-3*0
+Iodobenzene	C6H5I (g)	c1ccc(cc1)I	177.7	161.7	¡À 1.0	kJ/mol	204.0084 ¡À
+0.0048	591-50-4*0
+1H-Triazirin-1-yl	N(NN) (g)	[N]1N=[N]1	585.9	584.1	¡À 2.0	kJ/mol	42.02022 ¡À
+0.00021	912535-95-6*0
+(E)-Diazene cation	[HNNH]+ (g, trans)	[H]/N=[N+]/[H]	1132.46	1125.53	¡À 0.66	kJ/mol	30.02881 ¡À
+0.00020	59952-06-6*0
+(Z)-Diazene	HNNH (g, cis)	[H]/N=N\[H]	228.81	221.67	¡À 0.64	kJ/mol	30.02936 ¡À
+0.00020	15626-42-3*0
+Hydroxyaminiumyl	[NOH]+ (g)	[N+]O	1160.8	1157.9	¡À 1.5	kJ/mol	31.01353 ¡À
+0.00032	63559-88-6*0
+Hydroxyamidogen	HNOH (g, cis)	[NH]O	123.6	117.0	¡À 1.7	kJ/mol	32.02202 ¡À
+0.00034	13940-32-4*2
+Hydroxyaminylium	[HNOH]+ (g, trans)	[NH+]O	1019.6	1012.5	¡À 2.5	kJ/mol	32.02147 ¡À
+0.00034	66097-71-0*1
+Dioxyamidogen	HNOO (g, cis)	[NH-][O+]=O	240.4	233.7	¡À 1.8	kJ/mol	47.01348 ¡À
+0.00061	71843-95-3*2
+Peroxynitrous acid	HOONO (g, cis, perp)	OON=O	-0.43	-7.48	¡À 0.53	kJ/mol	63.01288 ¡À
+0.00091	14691-52-2*2
+Chlorosyl hydride	HClO (g)	[H]Cl[O]	141.9	139.1	¡À 1.7	kJ/mol	52.46004 ¡À
+0.00095	71572-35-5*0
+Bifluoride	[FFH]- (g, triplet)	F.[F-]	-68.0	-67.6	¡À 1.6	kJ/mol	39.005295 ¡À
+0.000070	*18130-74-0*1
+Dioxiranylidene	C(OO) (g)	[C]1OO1	190.3	191.1	¡À 1.4	kJ/mol	44.00950 ¡À
+0.00100	138832-57-2*0
+Methylidyne	CH (g, doublet)	[CH]	592.81	596.15	¡À 0.11	kJ/mol	13.01864 ¡À
+0.00080	3315-37-5*1
+Aquachlorine cation	[ClOH2]+ (g)	[Cl+]O([H])[H]	821.8	815.0	¡À 1.7	kJ/mol	53.46743 ¡À
+0.00096	142599-65-3*0
+Ethylidyne	CH3C (g, doublet)	[C]C	508.56	504.86	¡À 0.87	kJ/mol	27.0452 ¡À
+0.0016	67624-57-1*1
+Trioxidaniumyl	[HOOOH]+ (g, t, t)	O[O+]O	925.7	916.4	¡À 1.5	kJ/mol	50.01353 ¡À
+0.00091	161321-37-5*2
+Methylammonium	[CH3NH3]+ (g)	C[NH3+]	628.1	609.2	¡À 1.4	kJ/mol	32.06453 ¡À
+0.00091	17000-00-9*0
+Aminomethylene	CHNH2 (g)	[CH][NH2]	245.9	238.1	¡À 1.5	kJ/mol	29.04126 ¡À
+0.00083	35430-17-2*0
+Methyleneamidogen anion	[CH2N]- (g)	C=[N-]	192.72	188.97	¡À 0.96	kJ/mol	28.03387 ¡À
+0.00082	28892-56-0*0
+(Z)-Iminomethyl	HCNH (g, cis)	[CH]=N	294.51	291.02	¡À 0.92	kJ/mol	28.03332 ¡À
+0.00082	54980-11-9*0
+Aminomethylidyne	CNH2 (g)	[C]N	371.9	368.3	¡À 1.1	kJ/mol	28.03332 ¡À
+0.00082	84654-89-7*0
+Hydrogen isocyanide	HNC (g)	[C]=N	192.02	192.40	¡À 0.38	kJ/mol	27.02538 ¡À
+0.00081	6914-07-4*0
+Chloroacetylene	HCCCl (g)	C#CCl	228.04	228.90	¡À 0.77	kJ/mol	60.4820 ¡À
+0.0018	593-63-5*0
+Methyleneoxonium	CH2OH2 (g)	[CH2].O	152.49	144.17	¡À 0.49	kJ/mol	32.04186 ¡À
+0.00090	177788-17-9*0
+Hydroxymethylene anion	[HCOH]- (g, trans)	[CH-]O	147.2	144.1	¡À 1.6	kJ/mol	30.02653 ¡À
+0.00087	207914-87-2*1
+Iodine atom cation	I+ (g)	[I+]	1115.549	1115.149	¡À 0.0062	kJ/mol	126.903921 ¡À
+0.000030	22541-93-1*0
+Hydroxymethyliumylidene	[COH]+ (g)	[C+]O	986.04	987.68	¡À 0.83	kJ/mol	29.01749 ¡À
+0.00086	60528-75-8*0
+Isoformyl anion	[(CO)(H)]- (g, vdW singlet ?)	[C][O].[H-]	55.8	58.4	¡À 1.8	kJ/mol	29.01859 ¡À
+0.00086	81747-63-9*1
+Propylium	[CH3CH2CH2]+ (g)	CC[CH2+]	856.94	838.72	¡À 0.93	kJ/mol	43.0871 ¡À
+0.0024	19252-52-9*0
+Oxywater	(H2O)O (g)	[OH2][O]	64.8	58.2	¡À 1.3	kJ/mol	34.01468 ¡À
+0.00062	171363-09-0*0
+Cyclopropyl	CH(CH2CH2) (g)	C1C[CH]1	302.7	290.0	¡À 1.6	kJ/mol	41.0718 ¡À
+0.0024	2417-82-5*0
+Trioxodinitrate anion	[ONNO2]- (g, vdW)	O=N-[N](=O)[O-]	-104.9	-108.8	¡À 2.4	kJ/mol	76.01223 ¡À
+0.00091	194856-62-7*100
+Cycloprop-1-enyl	CH2(CHC) (g)	C1C=[C]1	527.56	522.98	¡À 0.69	kJ/mol	39.0559 ¡À
+0.0024	19528-44-0*0
+Cycloprop-2-enyl	CH(CHCH) (g)	C1=C[CH]1	490.27	485.66	¡À 0.64	kJ/mol	39.0559 ¡À
+0.0024	28933-84-8*0
+Cyclopropenylidene	C(CHCH) (g)	C1=C=C1	497.07	496.11	¡À 0.46	kJ/mol	38.0480 ¡À
+0.0024	16165-40-5*0
+Triiodide ion	[I3]- (aq)	I[I-]I		-51.37	¡À 0.80	kJ/mol	380.713959 ¡À
+0.000090	14900-04-0*800
+2-Propynylidyne anion	[CCCH]- (g)	C#C[C-]	539.96	544.81	¡À 0.84	kJ/mol	37.0406 ¡À
+0.0024	82893-67-2*0
+Cyclopropynyl	CH(CC) (g)	[CH]1C#C1	710.7	714.8	¡À 1.1	kJ/mol	37.0400 ¡À
+0.0024	119178-99-3*0
+Oxygen cation monohydrate	[(HOH)O]+ (g)	[H]O[H][O+]	1153.0	1147.5	¡À 3.3	kJ/mol	34.01413 ¡À
+0.00062	*31748-17-1*0
+sec-Butyl	CH3CH2CHCH3 (g)	CC[CH]C	90.19	65.42	¡À 0.98	kJ/mol	57.1143 ¡À
+0.0033	2348-55-2*0
+t-Butylium	[(CH3)3C]+ (g)	C[C+](C)C	733.77	710.50	¡À 0.98	kJ/mol	57.1137 ¡À
+0.0033	14804-25-2*0
+iso-Butyl	(CH3)2CHCH2 (g)	CC(C)[CH2]	97.01	73.02	¡À 0.77	kJ/mol	57.1143 ¡À
+0.0033	4630-45-9*0
+Methylcyclopropane	CH3CH(CH2CH2) (g)	CC1CC1	47.6	24.3	¡À 1.3	kJ/mol	56.1063 ¡À
+0.0032	594-11-6*0
+Dihydrogen fluoride anion	[HFH]- (g, triplet)	F.[H-]	133.2	131.9	¡À 1.6	kJ/mol	21.01483 ¡À
+0.00014	117339-92-1*1
+Cyclobutene	C4H6 (g)	C1CC=C1	176.79	159.74	¡À 0.92	kJ/mol	54.0904 ¡À
+0.0032	822-35-5*0
+Peroxychlorous acid	HOOClO (g, syn)	O=ClOO	96.2	90.2	¡À 2.1	kJ/mol	84.4588 ¡À
+0.0013	177778-92-6*1
+Chlorine fluoride cation	[ClF]+ (g)	[Cl+]F	1165.52	1165.70	¡À 0.49	kJ/mol	54.45055 ¡À
+0.00090	12432-44-9*0
+Vinyl alcohol cation	[CH2CHOH]+ (g, syn)	C=C[OH+]	787.1	775.9	¡À 1.1	kJ/mol	44.0520 ¡À
+0.0017	57239-63-1*1
+Vinoxy cation	[CH2CHO]+ (g, triplet)	[CH2+]C=O	1020.1	1013.1	¡À 1.6	kJ/mol	43.0441 ¡À
+0.0016	*35731-40-9*1
+Vinoxide	[CH2CHO]- (g)	[CH2-]C=O	-153.58	-160.63	¡À 0.77	kJ/mol	43.0452 ¡À
+0.0016	35731-40-9*0
+Dinitrogen tetraoxide	O2NNO2 (g)	O=N(=O)N(=O)=O	20.14	10.85	¡À 0.14	kJ/mol	92.0111 ¡À
+0.0012	10544-72-6*0
+Hydrogen fluoride	HF (aq, 40 H2O)	F		-321.12	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*821
+Perchloric acid	HOCl(O)(O)O (g)	OCl(=O)(=O)=O	13.2	1.8	¡À 1.8	kJ/mol	100.4582 ¡À
+0.0015	7601-90-3*0
+Acetic acid	CH3C(O)OH (aq)	CC(=O)O		-485.20	¡À 0.23	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*800
+COC vdW	(CO)(C) (g, triplet)	[C]=O.[C]	589.3	598.1	¡À 1.9	kJ/mol	40.0208 ¡À
+0.0016	*12071-24-8*1
+Oxirene	O(CHCH) (g, c-triplet)	C1=CO1	390.8	386.6	¡À 2.7	kJ/mol	42.0367 ¡À
+0.0016	157-18-6*12
+Methylperoxy anion	[CH3OO]- (g)	CO[O-]	-89.81	-99.96	¡À 0.68	kJ/mol	47.0339 ¡À
+0.0010	35683-44-4*0
+Fluorohydrochlorine cation	[FClH]+ (g)	FCl[H+]	975.3	972.3	¡À 2.0	kJ/mol	55.45849 ¡À
+0.00090	70110-64-4*0
+Formyloxoniumylidene	[HC(O)O]+ (g)	C(=O)[O+]	1017.3	1013.8	¡À 1.4	kJ/mol	45.0169 ¡À
+0.0010	54375-27-8*0
+Dioxymethylene	HCOO (g, trans)	[CH]O[O]	364.0	361.6	¡À 2.7	kJ/mol	45.0174 ¡À
+0.0010	438586-67-5*1
+2-Hydrotrioxy cation	[OO(H)O]+ (g)	[O][OH][O+]	1297.9	1291.3	¡À 1.5	kJ/mol	49.00559 ¡À
+0.00090	*74241-49-9*0
+Cyanic acid	HOCN (g)	OC#N	-12.20	-14.91	¡À 0.49	kJ/mol	43.02478 ¡À
+0.00086	420-05-3*0
+Fulminic acid	HONC (g)	O[N+]#[C-]	235.38	233.68	¡À 0.48	kJ/mol	43.02478 ¡À
+0.00086	506-85-4*0
+Isocyanate	[NCO]- (g)		-221.09	-221.31	¡À 0.54	kJ/mol	42.01739 ¡À
+0.00086	71000-82-3*0
+Nitrosomethylidyne	CNO (g)	[C]N=O	389.5	390.8	¡À 1.5	kJ/mol	42.01684 ¡À
+0.00086	82267-15-0*0
+Oxazirinyl	C(NO) (g)	[C]1=NO1	449.9	450.7	¡À 1.5	kJ/mol	42.01684 ¡À
+0.00086	228850-18-8*0
+Dimethylmethyleneammonium	[(CH3)2NCH2]+ (g)	C[N+](C)[CH2]	695.9	670.8	¡À 1.4	kJ/mol	58.1018 ¡À
+0.0025	28149-27-1*0
+Isocyanogen	CNCN (g)	[C-]#[N+]C#N	410.8	413.1	¡À 1.7	kJ/mol	52.0349 ¡À
+0.0016	83951-85-3*0
+Diisocyanogen	CNNC (g)	[C-]#[N+][N+]#[C-]	610.2	613.1	¡À 1.8	kJ/mol	52.0349 ¡À
+0.0016	78800-21-2*0
+Cyanoamidogen	HNCN (g)	[NH]C#N	325.0	322.6	¡À 1.8	kJ/mol	41.03212 ¡À
+0.00082	12347-01-2*0
+Trichloromethide	[CCl3]- (g)	[C-](Cl)(Cl)Cl	-125.0	-124.4	¡À 2.0	kJ/mol	118.3693 ¡À
+0.0028	14478-07-0*0
+Oxygen anion monohydrate	[(HOH)O]- (g)	[H]O[H][O-]	-239.1	-244.4	¡À 3.0	kJ/mol	34.01523 ¡À
+0.00062	31748-17-1*0
+Deuterium atom	D (g)	[2H]	219.804	221.717	¡À 0.000	kJ/mol	2.01410177800 ¡À
+0.00000000040	16873-17-9*0
+Chlorine difluoride cation	[FClF]+ (g)	[Cl+](F)F	998.9	996.7	¡À 1.7	kJ/mol	73.44896 ¡À
+0.00090	32629-46-2*0
+Trichloroethene	CHClCCl2 (g)	C(Cl)=C(Cl)Cl	-10.8	-14.1	¡À 1.6	kJ/mol	131.3874 ¡À
+0.0031	79-01-6*0
+2-Hydrotrioxy anion	[OO(H)O]- (g)	[O][OH][O-]	27.5	21.8	¡À 1.4	kJ/mol	49.00669 ¡À
+0.00090	*89965-38-8*0
+Bromodichloromethane	CHCl2Br (g)	C(Cl)(Cl)Br	-37.6	-49.3	¡À 1.3	kJ/mol	163.8280 ¡À
+0.0022	75-27-4*0
+Difluorodibromomethane	CF2Br2 (g)	C(F)(F)(Br)Br	-366.0	-383.7	¡À 1.4	kJ/mol	209.8155 ¡À
+0.0022	75-61-6*0
+Dichlorodibromomethane	CCl2Br2 (g)	C(Cl)(Cl)(Br)Br	20.7	5.0	¡À 1.5	kJ/mol	242.7241 ¡À
+0.0028	594-18-3*0
+Bromodifluoromethane	CHF2Br (g)	C(F)(F)Br	-410.85	-424.05	¡À 0.49	kJ/mol	130.9194 ¡À
+0.0013	1511-62-2*0
+Oxofluoronium	[FO]+ (g)	O=[F+]	1342.64	1342.59	¡À 0.81	kJ/mol	34.99725 ¡À
+0.00030	12763-67-6*0
+1,2-Difluoroethane	CH2FCH2F (g)	C(F)CF	-434.44	-447.87	¡À 0.86	kJ/mol	66.0500 ¡À
+0.0016	624-72-6*0
+1,2-Difluoroacetylene	FCCF (g)	FC#CF	2.77	5.59	¡À 0.66	kJ/mol	62.0182 ¡À
+0.0016	689-99-6*0
+Fluoro(fluorooxy)methylene	FCOF (g, trans)	F[C]OF	-38.8	-40.4	¡À 2.1	kJ/mol	66.00691 ¡À
+0.00085	479587-30-9*1
+Phenylium	[C6H5]+ (g, triplet)	c1cccc[c+]1	1251.1	1238.0	¡À 1.9	kJ/mol	77.1034 ¡À
+0.0048	17333-73-2*1
+Hydrogen difluoride cation	[FFH]+ (g)	[F+]F[H]	1174.3	1171.3	¡À 1.5	kJ/mol	39.004198 ¡À
+0.000070	*126950-54-7*0
+Chlorobenzene cation	[C6H5Cl]+ (g)	c1ccc(cc1)[Cl+]	942.46	928.54	¡À 0.61	kJ/mol	112.5561 ¡À
+0.0049	55450-32-3*0
+Chlorobenzene	C6H5Cl (cr,l)	c1ccc(cc1)Cl		11.21	¡À 0.59	kJ/mol	112.5566 ¡À
+0.0049	108-90-7*500
+Bromobenzene cation	[C6H5Br]+ (g)	c1ccc(cc1)[Br+]	994.7	973.2	¡À 1.3	kJ/mol	157.0074 ¡À
+0.0049	55450-33-4*0
+Iodobenzene	C6H5I (cr,l)	c1ccc(cc1)I	112.8	112.9	¡À 1.1	kJ/mol	204.0084 ¡À
+0.0048	591-50-4*500
+Nitrobenzene	C6H5N(O)O (g)	c1ccc(cc1)[N+](=O)[O-]	81.5	61.5	¡À 1.4	kJ/mol	123.1094 ¡À
+0.0049	98-95-3*0
+Chlorine chlorite	ClOClO (g, gauche)	ClO[Cl]=O	168.6	166.2	¡À 1.3	kJ/mol	102.9042 ¡À
+0.0019	105206-44-8*3
+Methyl nitrite	CH3ONO (g, cis-trans equilib)	CON=O	-55.58	-66.25	¡À 0.45	kJ/mol	61.0401 ¡À
+0.0010	624-91-9*0
+Carbon atom anion	C- (g)	[C-]	589.631	594.777	¡À 0.049	kJ/mol	12.01125 ¡À
+0.00080	14337-00-9*0
+Dioxymethylidyne	COO (g)	[C]O[O]	299.8	301.1	¡À 1.7	kJ/mol	44.00950 ¡À
+0.00100	791121-04-5*0
+Nitronium	[ONO]+ (g)	O=[N+]=O	961.78	958.22	¡À 0.20	kJ/mol	46.00499 ¡À
+0.00060	14522-82-8*0
+Trifluoromethide	[CF3]- (g)	[C-](F)(F)F	-637.7	-639.5	¡À 1.8	kJ/mol	69.00646 ¡À
+0.00080	54128-17-5*0
+2-Cyclopropyn-1-ylidene	C(CC) (g, triplet)	C1=C=C=1	899.2	906.1	¡À 1.6	kJ/mol	36.0321 ¡À
+0.0024	102508-15-6*1
+Propynylidyne cation	[C(CC)]+ (g)	[C+]1=C=C=1	1947.0	1954.9	¡À 2.0	kJ/mol	36.0316 ¡À
+0.0024	154702-35-9*0
+Dioxaziridinyl	N(OO) (g)	[N]1OO1	355.1	352.6	¡À 1.5	kJ/mol	46.00554 ¡À
+0.00060	66252-29-7*0
+Hydrogen fluoride	HF (aq, 50 H2O)	F		-321.14	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*822
+Bromo hypobromite	BrOBr (g)	BrOBr	120.1	103.7	¡À 1.4	kJ/mol	175.8074 ¡À
+0.0020	21308-80-5*0
+Ethylene cation	[CH2CH2]+ (g)	C=[CH2+]	1075.22	1068.01	¡À 0.12	kJ/mol	28.0526 ¡À
+0.0016	34470-02-5*0
+Peroxyimidogen	NOO (g)	[N]O[O]	405.4	403.4	¡À 1.9	kJ/mol	46.00554 ¡À
+0.00060	*60488-31-5*0
+Chlorosyl ion	[ClO]+ (g)	[Cl+]=O	1150.85	1150.69	¡À 0.66	kJ/mol	51.45155 ¡À
+0.00095	12301-79-0*0
+Hydrogen fluoride	HF (aq, 35 H2O)	F		-321.10	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*904
+Iminomethyl anion	[HCNH]- (g, trans)	[CH-]=N	237.4	233.6	¡À 1.8	kJ/mol	28.03387 ¡À
+0.00082	90623-30-6*1
+Fluoronium	[HFH]+ (g)	[H][F+][H]	774.10	771.16	¡À 0.88	kJ/mol	21.01373 ¡À
+0.00014	12206-67-6*0
+Cyanogen iodide anion	[ICN]- (g)	IC#[N-]	86.5	88.8	¡À 8.1	kJ/mol	152.92246 ¡À
+0.00080	1356929-44-6*0
+Oxadiazirine	O(NN) (g)	N1=NO1	351.7	349.8	¡À 1.7	kJ/mol	44.01288 ¡À
+0.00033	227934-45-4*0
+Formaldehyde cation	[CH2O]+ (g)	C=[O+]	944.89	941.27	¡À 0.10	kJ/mol	30.02543 ¡À
+0.00087	54288-05-0*0
+Iodine atom	I (g, 2P3/2)	[I]	107.157	106.757	¡À 0.0021	kJ/mol	126.904470 ¡À
+0.000030	14362-44-8*1
+NON	NON (g)	[N]O[N]	545.5	542.3	¡À 1.7	kJ/mol	44.01288 ¡À
+0.00033	227934-46-5*0
+Isoformyl anion	[COH]- (g, triplet)	[C][O].[H-]	267.4	268.0	¡À 1.6	kJ/mol	29.01859 ¡À
+0.00086	81747-63-9*2
+Fluoronium	[(HF)(H)]+ (g, triplet)	[H][F+][H]	1490.1	1491.5	¡À 1.9	kJ/mol	21.01373 ¡À
+0.00014	12206-67-6*1
+Azidonitrene	NNNN (g, Cs)	[N]=NN=[N]	692.1	687.5	¡À 1.4	kJ/mol	56.02696 ¡À
+0.00028	147363-92-6*2
+Dioxygenyl ion monohydrate	[(H2O)(O2)]+ (g)	O.O=[O+]	828.7	821.6	¡À 2.1	kJ/mol	50.01353 ¡À
+0.00091	11083-61-7*0
+Diazenide	[NNH]- (g, vdW)	N#N.[H-]	175.7	176.7	¡À 1.6	kJ/mol	29.02197 ¡À
+0.00016	71004-29-0*100
+Chlorite	[OClO]- (g)	O=[Cl-]=O	-105.62	-107.80	¡À 0.35	kJ/mol	67.4520 ¡À
+0.0011	14998-27-7*0
+2-Propynylium	[CH2CCH]+ (g)	[CH2+]C#C	1193.46	1190.65	¡À 0.38	kJ/mol	39.0554 ¡À
+0.0024	21540-27-2*0
+2-Cyclopropen-1-ylium-1-yl	[C(CHCH)]+ (g)	C1=[C+]=C1	1382.0	1381.0	¡À 1.1	kJ/mol	38.0474 ¡À
+0.0024	85398-75-0*0
+Dihydrogen fluoride anion	[(F)(HH)]- (g, singlet)	[F-].[H][H]	-257.0	-260.1	¡À 1.9	kJ/mol	21.01483 ¡À
+0.00014	*117339-92-1*2
+Propynylidene	HCCCH (g, cis singlet)	[CH]=C=[CH]	597.6	599.3	¡À 1.2	kJ/mol	38.0480 ¡À
+0.0024	67152-18-5*3
+Propenediylidene	CHCHC (g)	[CH][CH][C]	796.3	797.4	¡À 1.3	kJ/mol	38.0480 ¡À
+0.0024	60731-11-5*0
+Cyclopentene	CH2(CH2CHCHCH2) (g)	C1CC=CC1	58.09	33.82	¡À 0.45	kJ/mol	68.1170 ¡À
+0.0040	142-29-0*0
+Ethyloxoniumyl	[CH3CH2OH]+ (g)	CC[OH+]	783.6	766.5	¡À 1.7	kJ/mol	46.0679 ¡À
+0.0017	34480-55-2*0
+1-Hydroxyethylium	[CH3CHOH]+ (g)	C[CH+]O	609.13	594.70	¡À 0.39	kJ/mol	45.0600 ¡À
+0.0017	18682-96-7*0
+Hydrogen difluoride	(F)(HF) (g, perp)	F.[F]	-187.4	-187.1	¡À 1.6	kJ/mol	39.004746 ¡À
+0.000070	12528-21-1*2
+Peroxychlorite	[OClOO]- (g)	O=ClO[O-]	-34.3	-34.2	¡À 2.0	kJ/mol	83.4514 ¡À
+0.0013	852472-63-0*0
+Trihydrogen dioxide anion	[HOHOH]- (g)	[OH][H][OH-]	-487.5	-495.8	¡À 1.1	kJ/mol	35.02317 ¡À
+0.00064	12501-19-8*0
+1-Chloro ozone	ClOOO (g, cis vdW)	ClOO[O]	226.3	223.1	¡À 2.3	kJ/mol	83.4509 ¡À
+0.0013	141801-66-3*101
+Acetaldehyde cation	[CH3CHO]+ (g)	CC=[O+]	832.03	822.05	¡À 0.28	kJ/mol	44.0520 ¡À
+0.0017	36505-03-0*0
+Oxiranylium	[CH2(CHO)]+ (g, triplet)	C1[CH+]O1	1233.6	1226.6	¡À 1.8	kJ/mol	43.0441 ¡À
+0.0016	57789-76-1*1
+Oxiranyl anion	[CH2(CHO)]- (g)	C1[CH-]O1	121.3	113.2	¡À 1.6	kJ/mol	43.0452 ¡À
+0.0016	72722-59-9*0
+Ketene	CH2CO (g, singlet)	C=C=O	-45.37	-48.49	¡À 0.13	kJ/mol	42.0367 ¡À
+0.0016	463-51-4*2
+Fluorochlorate	[ClF]- (g)	[Cl-]F	-256.03	-255.43	¡À 0.81	kJ/mol	54.45165 ¡À
+0.00090	12272-56-9*0
+Ethynol anion	[HCCO]- (g)	[CH-]=C=O	-48.51	-47.26	¡À 0.89	kJ/mol	41.0293 ¡À
+0.0016	64066-01-9*0
+Dicarbon monoxide anion	[CCO]- (g)	[C-]=C=O	154.4	158.0	¡À 1.1	kJ/mol	40.0213 ¡À
+0.0016	87191-88-6*0
+Dicarbon monoxide	CCO (g, singlet)	[C]=C=O	440.4	444.7	¡À 1.1	kJ/mol	40.0208 ¡À
+0.0016	12071-23-7*2
+COC vdW	(CO)(C) (g, singlet)	[C]=O.[C]	725.2	733.5	¡À 2.0	kJ/mol	40.0208 ¡À
+0.0016	*12071-24-8*2
+C=O-C cation	[COC]+ (g, doublet)	[C]=[O+][C]	1575.8	1582.9	¡À 2.4	kJ/mol	40.0203 ¡À
+0.0016	83483-98-1*1
+C=O=C anion	[COC]- (g)	[C-]=[O+]=[C-]	549.8	553.5	¡À 2.2	kJ/mol	40.0213 ¡À
+0.0016	*87191-88-6*0
+Hydroxyimidogen	NOH (g)	[N]O	217.93	215.04	¡À 0.90	kJ/mol	31.01408 ¡À
+0.00032	35337-59-8*0
+Formic acid cation	[HC(O)OH]+ (g, anti)	[CH+](=O)O	723.8	716.7	¡À 1.2	kJ/mol	46.0248 ¡À
+0.0010	50614-05-6*2
+Formic acid anion	[HC(O)OH]- (g, syn)	[CH-](=O)O	-256.2	-262.3	¡À 1.8	kJ/mol	46.0259 ¡À
+0.0010	19066-82-1*1
+Nitrous acid	HONO (g, cis)	N(=O)O	-71.39	-77.74	¡À 0.29	kJ/mol	47.01348 ¡À
+0.00061	7782-77-6*2
+OH-CO vdW complex		(OH)(CO) (g, vdW)	[O][H].[C]#O	-80.31	-77.42	¡À 0.96	kJ/mol	45.0174 ¡À
+0.0010	*2564-85-4*100
+CO-HO vdW complex	(CO)(HO) (g, vdW)	[O][H].O#[C]	-77.6	-73.6	¡À 1.8	kJ/mol	45.0174 ¡À
+0.0010	*2564-84-3*100
+H-CO2 vdW complex	(H)(CO2) (g, vdW)	[H].O=C=O	-179.3	-178.3	¡À 2.2	kJ/mol	45.0174 ¡À
+0.0010	*2564-83-2*100
+Dibromide	[Br2]- (g)	Br[Br-]	-199.2	-213.3	¡À 2.0	kJ/mol	159.8085 ¡À
+0.0020	12595-70-9*0
+Isocyanic acid cation	[HNCO]+ (g)	[NH+]=C=O	1003.04	1000.38	¡À 0.51	kJ/mol	43.02423 ¡À
+0.00086	444010-28-0*0
+Isofulminic acid cation	[HCNO]+ (g)	C#[N+][O]	1215.8	1213.0	¡À 1.3	kJ/mol	43.02423 ¡À
+0.00086	114766-65-3*0
+Acetic acid	CH3C(O)OH (aq, 1500 H2O)	CC(=O)O		-484.93	¡À 0.23	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*840
+Dioxygen	O2 (g, singlet)	O=O	94.410	94.383	¡À 0.000	kJ/mol	31.99880 ¡À
+0.00060	7782-44-7*2
+Acetyl chloride	CH3C(O)Cl (l)	CC(=O)Cl		-272.22	¡À 0.33	kJ/mol	78.4973 ¡À
+0.0019	75-36-5*500
+Chlorohydrofluorine cation	[ClFH]+ (g)	ClF[H+]	1000.8	998.1	¡À 2.1	kJ/mol	55.45849 ¡À
+0.00090	70110-63-3*0
+(Formyloxy)methyl	HC(O)OCH2 (g, syn)	O=CO[CH2]	-148.7	-156.9	¡À 1.7	kJ/mol	59.0440 ¡À
+0.0017	3122-12-1*1
+Glyoxal	(CHO)2 (g, trans)	O=CC=O	-206.91	-212.55	¡À 0.52	kJ/mol	58.0361 ¡À
+0.0017	107-22-2*1
+Chloride	Cl- (aq)	[Cl-]		-166.993	¡À 0.023	kJ/mol	35.45325 ¡À
+0.00090	16887-00-6*800
+Diazoethenylidene	NNCC (g)	[N-]=[N+]=C=[C]	657.0	659.6	¡À 3.0	kJ/mol	52.0349 ¡À
+0.0016	130760-10-0*0
+Isocyanomethylidyne	CNC (g)	[C][N+]#[C-]	671.3	675.7	¡À 3.6	kJ/mol	38.0281 ¡À
+0.0016	53590-27-5*0
+Fluorosyl fluoride	FFO (g, triplet)	FF[O]	192.6	193.1	¡À 2.3	kJ/mol	53.99621 ¡À
+0.00030	86825-57-2*1
+Diazomethyl	HCNN (g)	[CH]=[N]=[N]	472.9	470.4	¡À 2.0	kJ/mol	41.03212 ¡À
+0.00082	20813-32-5*0
+Isocyanoamidogen	HNNC (g)	[NH][N+]#[C-]	492.8	490.8	¡À 2.0	kJ/mol	41.03212 ¡À
+0.00082	947408-73-3*0
+Tetrachloromethane	CCl4 (l)	C(Cl)(Cl)(Cl)Cl	-108.76	-128.17	¡À 0.45	kJ/mol	153.8215 ¡À
+0.0037	56-23-5*500
+Dichloromethylene anion	[CCl2]- (g)	[C-](Cl)Cl	75.63	77.90	¡À 0.78	kJ/mol	82.9166 ¡À
+0.0020	118364-73-1*0
+Dichloromethylium	[CHCl2]+ (g)	[CH+](Cl)Cl	894.6	891.4	¡À 1.2	kJ/mol	83.9235 ¡À
+0.0020	56932-33-3*0
+Dichloromethide	[CHCl2]- (g)	[CH-](Cl)Cl	-41.3	-43.0	¡À 2.0	kJ/mol	83.9246 ¡À
+0.0020	32180-91-9*0
+Chloromethylium	[CH2Cl]+ (g)	[CH2+]Cl	962.4	958.5	¡À 1.2	kJ/mol	49.4787 ¡À
+0.0012	59000-00-9*0
+Chloromethylene	CHCl (g, triplet)	[CH]Cl	346.12	346.42	¡À 0.89	kJ/mol	48.4713 ¡À
+0.0012	2108-20-5*1
+1,2-Dichloroethane	CH2ClCH2Cl (cr,l)	C(Cl)CCl		-165.63	¡À 0.56	kJ/mol	98.9586 ¡À
+0.0024	107-06-2*500
+1,1-Dichloroethane	CH3CHCl2 (cr,l)	CC(Cl)Cl		-163.40	¡À 0.54	kJ/mol	98.9586 ¡À
+0.0024	75-34-3*500
+Chlorosyl chloride	ClClO (g)	ClCl[O]	134.5	133.2	¡À 1.4	kJ/mol	86.9048 ¡À
+0.0018	86825-56-1*0
+Hydroxydioxonitrate	[HNO3]- (g)	O[N](=O)[O-]	-190.5	-194.8	¡À 3.2	kJ/mol	63.01343 ¡À
+0.00091	58875-09-5*0
+Chloroform	CHCl3 (l)	C(Cl)(Cl)Cl		-133.73	¡À 0.52	kJ/mol	119.3767 ¡À
+0.0028	67-66-3*590
+Chlorodibromomethane	CHClBr2 (g)	C(Cl)(Br)Br	18.8	-0.0	¡À 3.4	kJ/mol	208.2793 ¡À
+0.0023	124-48-1*0
+Fluorotribromomethane	CBr3F (g)	C(Br)(Br)(Br)F	-107.2	-131.2	¡À 1.6	kJ/mol	270.7211 ¡À
+0.0031	353-54-8*0
+Chlorotribromomethane	CBr3Cl (g)	C(Br)(Br)(Br)Cl	77.3	54.4	¡À 1.6	kJ/mol	287.1754 ¡À
+0.0032	594-15-0*0
+Chlorobromomethane	CH2ClBr (g)	C(Cl)Br	-29.0	-43.0	¡À 1.3	kJ/mol	129.3833 ¡À
+0.0016	74-97-5*0
+Fluoromethyliumylidene	[CF]+ (g)	[C+]F	1122.67	1125.89	¡À 0.48	kJ/mol	31.00855 ¡À
+0.00080	33412-11-2*0
+Fluoromethylene	CHF (g)	[CH]F	148.34	148.62	¡À 0.46	kJ/mol	32.01704 ¡À
+0.00080	13453-52-6*0
+Ethyl iodide	CH3CH2I (g)	CCI	8.69	-7.19	¡À 0.49	kJ/mol	155.9656 ¡À
+0.0016	75-03-6*0
+1,2-Dibromoacetylene	BrCCBr (g)	BrC#CBr	333.3	322.4	¡À 3.6	kJ/mol	183.8294 ¡À
+0.0026	624-61-3*0
+Azanylium	[NH2]+ (g)	[NH2+]	1266.55	1264.48	¡À 0.12	kJ/mol	16.02207 ¡À
+0.00016	15194-15-7*0
+Fluoro(fluorooxy)methylene	FCOF (g, vdW triplet)	F[C]OF	-100.9	-99.1	¡À 2.1	kJ/mol	66.00691 ¡À
+0.00085	479587-30-9*101
+Fluorooxomethylium	[FCO]+ (g)	F[C+]=O	724.6	724.3	¡À 1.4	kJ/mol	47.00795 ¡À
+0.00085	38264-00-5*0
+Fluoroisoformyl	COF (g)	[C]OF	-38.8	-33.4	¡À 2.0	kJ/mol	47.00850 ¡À
+0.00085	*1871-24-5*0
+Benzene cation	[C6H6]+ (g)	c1ccc(cc1)[H+]	992.47	976.00	¡À 0.23	kJ/mol	78.1113 ¡À
+0.0048	34504-50-2*0
+Hydrogen fluoride	HF (aq, 22 H2O)	F		-321.04	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*902
+Ammonia	NH3 (aq, undissoc)	N		-80.890	¡À 0.053	kJ/mol	17.03056 ¡À
+0.00022	7664-41-7*1000
+Ammonium nitrate	(NH4)NO3 (cr,l)	[NH4+].O=[N+]([O-])[O-]	-350.29	-365.25	¡À 0.18	kJ/mol	80.04344 ¡À
+0.00095	6484-52-2*500
+2-Oxopropylium	[CH3C(O)CH2]+ (g)	CC(=[O+])[CH2]	784.4	770.6	¡À 1.8	kJ/mol	57.0707 ¡À
+0.0024	54088-52-7*0
+1,2-Dibromoethane	(CBrH2)2 (g)	C(Br)CBr	-10.9	-37.8	¡À 1.3	kJ/mol	187.8612 ¡À
+0.0026	106-93-4*0
+Nirous oxide cation	[NNO]+ (g)	N#[N+]=O	1329.67	1326.77	¡À 0.12	kJ/mol	44.01233 ¡À
+0.00033	12269-46-4*0
+(E)-Diazene anion	[HNNH]- (g, trans)	[H]/N=[N-]/[H]	265.5	258.7	¡À 2.0	kJ/mol	30.02991 ¡À
+0.00020	*59952-06-6*0
+Methylimidogen	CH3N (g)	C[N]	323.1	315.4	¡À 1.7	kJ/mol	29.04126 ¡À
+0.00083	27770-42-9*0
+(Z)-Diazene cation	[HNNH]+ (g, cis)	[H]/N=[N+]\[H]	1157.0	1150.1	¡À 1.3	kJ/mol	30.02881 ¡À
+0.00020	86631-37-0*0
+Iminomethyl anion	[HCNH]- (g, cis)	[CH-]=N	252.7	248.9	¡À 1.8	kJ/mol	28.03387 ¡À
+0.00082	90623-30-6*2
+Hydrogen cyanide cation	[HCN]+ (g)	[CH+]#N	1442.52	1442.06	¡À 0.20	kJ/mol	27.02483 ¡À
+0.00081	12601-62-6*0
+1-Hydrazinylium-1-yl	[NNH2]+ (g)	[N+]N	1143.4	1136.4	¡À 1.4	kJ/mol	30.02881 ¡À
+0.00020	63986-30-1*0
+Diiodide	[I2]- (g)	I[I-]	-178.13	-180.72	¡À 0.48	kJ/mol	253.809489 ¡À
+0.000060	12190-71-5*0
+Methyleneoxonium cation	[CH2OH2]+ (g)	[CH2+].O	827.8	818.3	¡À 1.7	kJ/mol	32.04131 ¡À
+0.00090	*177788-17-9*0
+Hydroxymethanide	[CH2OH]- (g)	[CH2-]O	9.4	2.8	¡À 1.7	kJ/mol	31.03447 ¡À
+0.00088	55830-71-2*0
+Formaldehyde	CH2O (g, singlet)	C=O	-105.347	-109.186	¡À 0.098	kJ/mol	30.02598 ¡À
+0.00087	50-00-0*2
+Hydrogen peroxide cation	[H2O2]+ (g, cis)	O[OH+]	930.4	923.6	¡À 1.0	kJ/mol	34.01413 ¡À
+0.00062	12325-10-9*2
+Oxadiazirine anion	[O(NN)]- (g)	[N-]1=NO1	95.1	95.5	¡À 2.9	kJ/mol	44.01343 ¡À
+0.00033	350586-31-1*0
+Hydroxymethylene cation	[HCOH]+ (g, cis)	[CH+]O	986.4	982.8	¡À 1.6	kJ/mol	30.02543 ¡À
+0.00087	135395-06-1*2
+Hydroxymethylene cation	[HCOH]+ (g, gauche quartet)	[CH+]O	1482.1	1479.4	¡À 1.9	kJ/mol	30.02543 ¡À
+0.00087	135395-06-1*3
+Hydroxymethylene anion	[HCOH]- (g, cis)	[CH-]O	160.2	157.5	¡À 1.7	kJ/mol	30.02653 ¡À
+0.00087	207914-87-2*2
+Hydroxymethylene anion	[HCOH]- (g, gauche quartet)	[CH-]O	334.0	334.8	¡À 2.1	kJ/mol	30.02653 ¡À
+0.00087	207914-87-2*3
+Aquacarbon	H2OC (g, singlet vdW)	[C].O	467.6	465.5	¡À 1.9	kJ/mol	30.02598 ¡À
+0.00087	81434-73-3*102
+Aquacarbon cation	[H2OC]+ (g)	[C+].O	1196.1	1193.0	¡À 1.7	kJ/mol	30.02543 ¡À
+0.00087	*81434-73-3*0
+Trioxidaniumyl	[HOOOH]+ (g, c, t)	O[O+]O	935.4	926.4	¡À 1.6	kJ/mol	50.01353 ¡À
+0.00091	161321-37-5*3
+Peroxyformic acid	HC(O)OOH (g, trans)	C(=O)OO	-265.8	-273.8	¡À 1.7	kJ/mol	62.0248 ¡À
+0.0012	107-32-4*2
+Peroxyformic acid	HC(O)OOH (g, gauche)	C(=O)OO	-265.6	-273.5	¡À 1.6	kJ/mol	62.0248 ¡À
+0.0012	107-32-4*3
+Hydrogen fluoride	HF (aq, 10 H2O)	F		-320.86	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*815
+Diazenide	[NNH]- (g, triplet)	N#N.[H-]	347.5	344.6	¡À 1.6	kJ/mol	29.02197 ¡À
+0.00016	71004-29-0*1
+Fluorodioxidanide	[FOO]- (g)	[F-]O[O]	-256.9	-256.1	¡À 1.9	kJ/mol	50.99775 ¡À
+0.00060	23553-17-5*0
+Propynylidene cation	[HCCCH]+ (g)	C#C[CH+]	1410.8	1413.4	¡À 1.3	kJ/mol	38.0474 ¡À
+0.0024	75123-91-0*0
+Propynylidene	HCCCH (g, trans singlet)	[CH]=C=[CH]	597.3	599.1	¡À 1.1	kJ/mol	38.0480 ¡À
+0.0024	67152-18-5*4
+Hydroxylamine	NH2OH (g, cis)	NO	-15.0	-25.5	¡À 1.9	kJ/mol	33.02996 ¡À
+0.00037	7803-49-8*2
+Propadienylidenide	[CH2CC]- (g)	C=C=[C-]	381.16	382.06	¡À 0.42	kJ/mol	38.0485 ¡À
+0.0024	109292-49-1*0
+1,2-Propadien-1-ylium-1-yl	[CH2CC]+   (g)	C=C=[C+]	1561.7	1562.9	¡À 1.4	kJ/mol	38.0474 ¡À
+0.0024	110714-00-6*0
+Hydroxylamine cation	[NH2OH]+ (g)	N[OH+]	857.9	848.0	¡À 2.2	kJ/mol	33.02941 ¡À
+0.00037	62675-55-2*0
+Dihydrogen fluoride anion	[(HF)(H)]- (g, singlet)	F.[H-]	-61.9	-60.5	¡À 3.2	kJ/mol	21.01483 ¡À
+0.00014	117339-92-1*2
+Hydrogen chloride	HCl (aq, 75 H2O)	Cl		-165.559	¡À 0.026	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*825
+Nitroxyl cation	[H2NO]+ (g)	N[O+]	946.15	939.02	¡À 0.87	kJ/mol	32.02147 ¡À
+0.00034	*51375-41-8*0
+n-Pentane	CH3CH2CH2CH2CH3 (cr,l)	CCCCC	-156.15	-173.12	¡À 0.31	kJ/mol	72.1488 ¡À
+0.0041	109-66-0*500
+iso-Pentane	CH3CH2CH(CH3)2 (l)	CCC(C)C		-178.53	¡À 0.44	kJ/mol	72.1488 ¡À
+0.0041	78-78-4*500
+neo-Pentane	C(CH3)4 (l)	CC(C)(C)C		-189.96	¡À 0.40	kJ/mol	72.1488 ¡À
+0.0041	463-82-1*500
+Cyclopentane	CH2(CH2CH2CH2CH2) (l)	C1CCCC1		-106.29	¡À 0.44	kJ/mol	70.1329 ¡À
+0.0041	287-92-3*590
+1,5-Hexadiene	CH2CHCH2CH2CHCH2 (g)	C=CCCC=C	108.34	83.75	¡À 0.40	kJ/mol	82.1436 ¡À
+0.0049	592-42-7*0
+Chlorine oxide peroxide	OClOO (g, vdW)	O=ClO[O]	226.5	227.4	¡À 2.5	kJ/mol	83.4509 ¡À
+0.0013	141801-67-4*100
+2-Hydroxyethylium	[CH2CH2OH]+ (g, gauche)	[CH2+]CO	1024.4	1011.8	¡À 2.3	kJ/mol	45.0600 ¡À
+0.0017	38607-31-7*1
+Ethoxy	CH3CH2O (g)	CC[O]	1.84	-11.59	¡À 0.52	kJ/mol	45.0605 ¡À
+0.0017	2154-50-9*0
+Ethyloxoniumylidene	[CH3CH2O]+ (g)	CC[O+]	988.8	975.1	¡À 1.9	kJ/mol	45.0600 ¡À
+0.0017	54387-07-4*0
+Dihydrogen fluoride	(H)(HF) (g)	F.H	-55.9	-54.9	¡À 1.6	kJ/mol	21.01428 ¡À
+0.00014	12592-22-2*1
+Hydroxyaminylium	[HNOH]+ (g, cis)	[NH+]O	1048.6	1041.5	¡À 2.6	kJ/mol	32.02147 ¡À
+0.00034	66097-71-0*2
+Nitrosyl fluoride	FNO (g)	FN=O	-85.82	-88.18	¡À 0.93	kJ/mol	49.00454 ¡À
+0.00031	7789-25-5*0
+Formylmethyl anion	[CH2CHO]- (g, perp triplet)		140.5	134.2	¡À 1.9	kJ/mol	43.0452 ¡À
+0.0016	64723-93-9*0
+Hydroxyamidogen anion	[HNOH]- (g)	[NH-]O	90.9	85.0	¡À 2.9	kJ/mol	32.02257 ¡À
+0.00034	*66097-71-0*0
+Dicarbon monoxide cation	[CCO]+ (g)	[C+]=C=O	1434.0	1439.1	¡À 2.2	kJ/mol	40.0203 ¡À
+0.0016	12287-08-0*0
+1,3-Butadiyne-1,4-diyl	CCCC (g)	[C]#CC#[C]	1052.45	1062.43	¡À 0.67	kJ/mol	48.0428 ¡À
+0.0032	78015-07-3*0
+C=O-C cation	[COC]+ (g, quartet)	[C]=[O+][C]	1812.6	1816.6	¡À 2.4	kJ/mol	40.0203 ¡À
+0.0016	83483-98-1*2
+1-Chloro ozone anion	[ClOOO]- (g, perp)	ClOO[O-]	-108.9	-111.4	¡À 2.2	kJ/mol	83.4514 ¡À
+0.0013	224299-15-4*3
+Oxirene cation	[O(CHCH)]+ (g)	C1=C[O+]1	1109.0	1105.5	¡À 5.2	kJ/mol	42.0361 ¡À
+0.0016	94664-69-4*0
+1-Chloro ozone anion	[ClOOO]- (g, cis)	ClOO[O-]	-66.8	-68.7	¡À 2.1	kJ/mol	83.4514 ¡À
+0.0013	224299-15-4*1
+Dihydrogen cation	[H2]+ (g)	[H][H+]	1488.364	1488.480	¡À 0.000	kJ/mol	2.01533 ¡À
+0.00014	12184-90-6*0
+Nitrosyl nitrate	ON(O2)NO (g, perp)	O=N(O1)ON1=O	70.6	62.3	¡À 1.8	kJ/mol	92.0111 ¡À
+0.0012	*15969-55-8*0
+Formic acid anion	[HC(O)OH]- (g, anti)	[CH-](=O)O	-241.2	-246.9	¡À 1.9	kJ/mol	46.0259 ¡À
+0.0010	19066-82-1*2
+Bifluoride	[FHF]- (g)	F[H][F-]	-705.22	-709.07	¡À 0.36	kJ/mol	39.005295 ¡À
+0.000070	18130-74-0*0
+Dioxirane cation	[CH2(OO)]+ (g)	C1[O+]O1	1050.8	1043.2	¡À 2.0	kJ/mol	46.0248 ¡À
+0.0010	232262-10-1*0
+Dioxymethyl cation	[CH2OO]+ (g)	C=[O+][O]	1075.0	1068.6	¡À 1.8	kJ/mol	46.0248 ¡À
+0.0010	232262-11-2*0
+Deuterium atom cation	D+ (g)	[2H+]	1532.210	1534.123	¡À 0.000	kJ/mol	2.01355319809 ¡À
+0.00000000040	14464-47-2*0
+Dioxymethylene	HCOO (g, cis)	[CH]O[O]	341.1	338.9	¡À 3.4	kJ/mol	45.0174 ¡À
+0.0010	438586-67-5*2
+Dioxofluorine	OFO (g)	[O]F[O]	524.0	523.2	¡À 1.1	kJ/mol	50.99720 ¡À
+0.00060	175861-93-5*0
+Trifluoride ion	[F3]- (g)	FF[F-]	-348.9	-349.7	¡À 2.6	kJ/mol	56.9957582 ¡À
+0.0000015	25730-99-8*0
+Cyanato cation	[NCO]+ (g)	N#C[O+]	1261.56	1262.07	¡À 0.59	kJ/mol	42.01629 ¡À
+0.00086	17247-99-3*0
+Nitrous acid	HONO (g)	N(=O)O	-73.023	-78.680	¡À 0.079	kJ/mol	47.01348 ¡À
+0.00061	7782-77-6*0
+Nitrosomethyliumylidene	[CNO]+ (g)	[C+]N=O	1509.9	1510.9	¡À 1.9	kJ/mol	42.01629 ¡À
+0.00086	67197-19-7*0
+Fulminate	[CNO]- (g)	[C-]#[N+][O-]	59.2	59.5	¡À 1.9	kJ/mol	42.01739 ¡À
+0.00086	28269-67-2*0
+Acetic acid	CH3C(O)OH (l)	CC(=O)O	-484.11	-483.68	¡À 0.18	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*500
+Acetic acid	CH3C(O)OH (aq, 75 H2O)	CC(=O)O		-484.73	¡À 0.23	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*825
+Acetic acid	CH3C(O)OH (aq, 700 H2O)	CC(=O)O		-484.91	¡À 0.23	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*835
+Dioxaziridinyl cation	[N(OO)]+ (g)	[N+]1OO1	1365.8	1363.3	¡À 1.7	kJ/mol	46.00499 ¡À
+0.00060	*66252-29-7*0
+(Formyloxy)methyl	HC(O)OCH2 (g, anti)	O=CO[CH2]	-133.6	-141.8	¡À 2.2	kJ/mol	59.0440 ¡À
+0.0017	3122-12-1*2
+Ethane cation	[CH3CH3]+ (g)	C[CH3+]	1043.20	1029.19	¡À 0.60	kJ/mol	30.0685 ¡À
+0.0017	34488-65-8*0
+Glyoxal	(CHO)2 (g, cis)	O=CC=O	-188.51	-193.95	¡À 0.69	kJ/mol	58.0361 ¡À
+0.0017	107-22-2*2
+Glyoxal	(CHO)2 (g)	O=CC=O	-206.91	-212.47	¡À 0.52	kJ/mol	58.0361 ¡À
+0.0017	107-22-2*0
+Fluoroniumyl ion	[HF]+ (g)	[FH+]	1275.556	1275.788	¡À 0.050	kJ/mol	20.005795 ¡À
+0.000070	12381-92-9*0
+Dimethylaminylium	[(CH3)2N]+ (g)	C[N+]C	1040.0	1024.6	¡À 1.8	kJ/mol	44.0752 ¡À
+0.0017	49784-85-2*0
+Isocyanogen anion	[CNCN]- (g, trans)		383.7	387.4	¡À 2.6	kJ/mol	52.0354 ¡À
+0.0016	*83951-85-3*1
+Diisocyanogen cation	[CNNC]+ (g, trans)	[C]#[N+][N+]#[C-]	1823.1	1825.9	¡À 3.5	kJ/mol	52.0343 ¡À
+0.0016	*78800-21-2*1
+Cyanomethylidyne	CCN (g)	[C]C#N	676.1	680.5	¡À 1.9	kJ/mol	38.0281 ¡À
+0.0016	4120-02-9*0
+Dioxaziridinyl anion	[N(OO)]- (g)	[N-]1OO1	295.9	293.4	¡À 1.7	kJ/mol	46.00609 ¡À
+0.00060	66252-31-1*0
+Perchloryloxy	OCl(O)(O)O (g)	O=Cl(=O)(=O)[O]	248.6	241.0	¡À 1.8	kJ/mol	99.4503 ¡À
+0.0015	12133-63-0*0
+Hydrogen fluoride	HF (aq, 60 H2O)	F		-321.16	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*823
+Dichloromethylene	CCl2 (g, triplet)	[C](Cl)Cl	313.62	314.82	¡À 0.90	kJ/mol	82.9161 ¡À
+0.0020	1605-72-7*1
+Perchlorate	[OCl(O)(O)O]- (g)	O=Cl(=O)(=O)[O-]	-263.2	-272.1	¡À 2.2	kJ/mol	99.4508 ¡À
+0.0015	14797-73-0*0
+Trioxidanylium	[HOOO]+ (g, cis)	OO[O+]	1085.3	1079.1	¡À 1.5	kJ/mol	49.00559 ¡À
+0.00090	74241-49-9*2
+Azidonitrene	NNNN (g, C2h)	[N]=NN=[N]	660.8	657.6	¡À 1.6	kJ/mol	56.02696 ¡À
+0.00028	147363-92-6*1
+Ethylene anion	[CH2CH2]- (g, anti ?)	C=[CH2-]	232.1	224.5	¡À 2.0	kJ/mol	28.0537 ¡À
+0.0016	34527-91-8*1
+Chloromethyliumyl	[CHCl]+ (g)	[CH+]Cl	1207.3	1207.6	¡À 2.0	kJ/mol	48.4708 ¡À
+0.0012	89877-51-0*0
+Chloromethylene anion	[CHCl]- (g)	[CH-]Cl	203.42	204.23	¡À 0.94	kJ/mol	48.4719 ¡À
+0.0012	75466-08-9*0
+Chlorohydroxymethyl	CH(Cl)OH (g, anti-gauche)	[CH](Cl)O	-46.0	-51.6	¡À 2.0	kJ/mol	65.4787 ¡À
+0.0012	147139-06-8*2
+1,1,2-Trichloroethane	CH2ClCHCl2 (l)	C(Cl)C(Cl)Cl		-188.5	¡À 1.4	kJ/mol	133.4033 ¡À
+0.0031	79-00-5*500
+Hexachloroethane	CCl3CCl3 (cr,l)	C(C(Cl)(Cl)Cl)(Cl)(Cl)Cl		-216.6	¡À 2.9	kJ/mol	236.7376 ¡À
+0.0056	67-72-1*500
+trans-1,2-Dichloroethene	CHClCHCl (g, trans)	C(\Cl)=C/Cl	5.29	-0.13	¡À 0.56	kJ/mol	96.9427 ¡À
+0.0024	156-60-5*0
+Chlorine difluoride anion	[FClF]- (g)	[Cl-](F)F	-504.9	-505.8	¡À 1.9	kJ/mol	73.45005 ¡À
+0.00090	16892-05-0*0
+Tetrachloroethene	CCl2CCl2 (l)	C(=C(Cl)Cl)(Cl)Cl		-62.9	¡À 1.1	kJ/mol	165.8322 ¡À
+0.0039	127-18-4*500
+Azanylium	[NH3]+ (g)	[NH3+]	944.272	937.318	¡À 0.030	kJ/mol	17.03001 ¡À
+0.00022	19496-55-0*0
+Hydrofluorate ion	[HF]- (g)	[FH-]	-75.6	-75.1	¡À 1.8	kJ/mol	20.006892 ¡À
+0.000070	37249-79-9*0
+Chlorine difluoride	ClFF (g)	[Cl]FF	22.5	23.8	¡À 1.9	kJ/mol	73.44951 ¡À
+0.00090	91483-78-2*0
+Nitric acid	HNO3 (aq, 1000 H2O)	O[N+](=O)[O-]		-206.31	¡À 0.18	kJ/mol	63.01288 ¡À
+0.00091	7697-37-2*839
+Hydrogen chloride	HCl (aq, 2000 H2O)	Cl		-166.685	¡À 0.024	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*841
+Fluorochlorobromomethane	CHFClBr (g)	C(F)(Cl)Br	-219.3	-231.7	¡À 5.5	kJ/mol	147.3737 ¡À
+0.0016	593-98-6*0
+Fluoromethyliumyl	[CHF]+ (g)	[CH+]F	1116.9	1117.2	¡À 2.4	kJ/mol	32.01649 ¡À
+0.00080	89877-52-1*0
+Fluoromethylene anion	[CHF]- (g)	[CH-]F	95.94	96.47	¡À 0.64	kJ/mol	32.01759 ¡À
+0.00080	71267-42-0*0
+Peroxyimidogen cation	[NOO]+ (g)	[N]O[O+]	1409.6	1406.8	¡À 1.9	kJ/mol	46.00499 ¡À
+0.00060	*60488-32-6*0
+Fluorodioxidenium	[FOO]+ (g)	FO[O+]	1221.9	1219.5	¡À 2.0	kJ/mol	50.99665 ¡À
+0.00060	139584-95-5*0
+Polytetrafluoroethylene	C2F4 (s)	FC(C(F)(F)[*:1])(F)[*:2]		-829.49	¡À 0.58	kJ/mol	100.0150 ¡À
+0.0016	9002-84-0*591
+Nitric acid	HNO3 (cr,l)	O[N+](=O)[O-]	-179.01	-173.29	¡À 0.18	kJ/mol	63.01288 ¡À
+0.00091	7697-37-2*500
+Dihydrooxooxygen cation	[(H2O)O]+ (g)	[OH2][O+]	994.5	987.8	¡À 1.6	kJ/mol	34.01413 ¡À
+0.00062	177329-59-8*0
+cis-1,2-Difluoroethene	CHFCHF (g, cis)	F/C=C\F	-302.9	-309.7	¡À 1.1	kJ/mol	64.0341 ¡À
+0.0016	1630-77-9*0
+trans-1,2-Difluoroethene	CHFCHF (g, trans)	F/C=C/F	-299.7	-306.1	¡À 1.1	kJ/mol	64.0341 ¡À
+0.0016	1630-78-0*0
+Bromoacetylene	HCCBr (g)	C#CBr	282.4	275.9	¡À 2.2	kJ/mol	104.9333 ¡À
+0.0019	593-61-3*0
+Formyl fluoride cation	[HFCO]+ (g)	F[CH+]=O	816.6	813.3	¡À 1.3	kJ/mol	48.01589 ¡À
+0.00086	99766-68-4*0
+Formyl fluoride	[FCO]- (g)	F[C-]=O	-405.4	-403.9	¡À 1.8	kJ/mol	47.00905 ¡À
+0.00085	62227-71-8*0
+Fluoroisoformyl cation	[COF]+ (g)	[C+]OF	1347.5	1348.9	¡À 2.5	kJ/mol	47.00795 ¡À
+0.00085	*1871-25-6*0
+Hydrogen fluoride	HF (aq, 18 H2O)	F		-321.01	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*901
+Aminyliumyl	[NH]+ (g)	[NH+]	1659.03	1659.96	¡À 0.24	kJ/mol	15.014131 ¡À
+0.000099	19067-62-0*0
+Peroxyimidogen anion	[NOO]- (g)	[N]O[O-]	165.0	162.7	¡À 1.7	kJ/mol	46.00609 ¡À
+0.00060	60488-31-5*0
+Fluorosyl fluoride anion	[FFO]- (g, doublet)	FF[O-]	-147.2	-146.9	¡À 3.0	kJ/mol	53.99675 ¡À
+0.00030	*86825-57-2*2
+Hydrogen fluoride	HF (l)	F		-302.39	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*590
+o-Benzyne cation	[C6H4]+ (g)	C1=CC#CC=[CH+]1	1393.8	1385.8	¡À 1.7	kJ/mol	76.0954 ¡À
+0.0048	70220-84-7*0
+m-Benzyne cation	[C6H4]+ (g)	c1[c]ccc[c+]1	1365.5	1357.0	¡À 1.9	kJ/mol	76.0954 ¡À
+0.0048	121058-08-0*0
+p-Benzyne	C6H4 (g, triplet)	c1c[c]cc[c]1	603.5	594.2	¡À 1.2	kJ/mol	76.0960 ¡À
+0.0048	3355-34-8*1
+Hydrogen bromide	HBr (aq, 600 H2O)	Br		-120.23	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*834
+Xenon cation	Xe+ (g)	[Xe+]	1170.354	1170.354	¡À 0.0062	kJ/mol	131.2895 ¡À
+0.0200	24203-25-6*0
+Hydrogen bromide	HBr (aq, 5000 H2O)	Br		-120.52	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*844
+Acetylene anion	[HCCH]- (g, trans ?)	C#[CH-]	356.9	356.7	¡À 1.9	kJ/mol	26.0378 ¡À
+0.0016	50443-89-5*1
+Krypton hydride cation	[KrH]+ (g)	[Kr+][H]	1106.33	1104.55	¡À 0.69	kJ/mol	84.8074 ¡À
+0.1000	37276-90-7*0
+Allylium	[CH2CHCH2]+ (g)	C=C[CH2+]	964.09	952.53	¡À 0.55	kJ/mol	41.0713 ¡À
+0.0024	1724-44-3*0
+Allyl anion	[CH2CHCH2]- (g)	C=C[CH2-]	133.02	123.27	¡À 0.86	kJ/mol	41.0723 ¡À
+0.0024	1724-46-5*0
+1-Propenyl cation	[CH3CHCH]+ (g, cis)	CC=[CH+]	1232.6	1222.3	¡À 1.7	kJ/mol	41.0713 ¡À
+0.0024	50457-58-4*2
+1-Propenyl anion	[CH3CHCH]- (g, cis)	CC=[CH-]	203.6	192.4	¡À 1.8	kJ/mol	41.0723 ¡À
+0.0024	65887-20-9*2
+1-Propenyl cation	[CH3CHCH]+ (g, trans)	CC=[CH+]	1234.3	1223.9	¡À 1.7	kJ/mol	41.0713 ¡À
+0.0024	50457-58-4*1
+1-Propenyl anion	[CH3CHCH]- (g, trans)	CC=[CH-]	210.2	199.1	¡À 1.8	kJ/mol	41.0723 ¡À
+0.0024	65887-20-9*1
+Methylimidogen anion	[CH3N]- (g)	C[N-]	321.1	313.5	¡À 1.8	kJ/mol	29.04181 ¡À
+0.00083	82539-34-2*0
+Trioxodinitrate anion	[ONNO2]- (g, non-vdW)	O=N-[N](=O)[O-]	-88.5	-95.6	¡À 2.1	kJ/mol	76.01223 ¡À
+0.00091	194856-62-7*1
+Hydrogen fluoride	HF (aq, 55 H2O)	F		-321.16	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*905
+Trioxidanylium	[HOOO]+ (g)	OO[O+]	1070.6	1064.3	¡À 1.4	kJ/mol	49.00559 ¡À
+0.00090	74241-49-9*0
+Cycloprop-2-enylium	[CH(CHCH)]+ (g)	C1=C[CH+]1	1080.7	1075.6	¡À 1.4	kJ/mol	39.0554 ¡À
+0.0024	26810-74-2*0
+Ethynylene cation	[C2]+ (g)	[C]=[C+]	1967.9	1974.5	¡À 1.9	kJ/mol	24.0209 ¡À
+0.0016	12595-79-8*0
+Methyleneaminylium	[CH2N]+ (g, triplet)	C=[N+]	1456.6	1453.0	¡À 2.2	kJ/mol	28.03277 ¡À
+0.00082	53518-13-1*1
+Propynylidene	HCCCH (g)	[CH]=C=[CH]	543.38	546.38	¡À 0.63	kJ/mol	38.0480 ¡À
+0.0024	67152-18-5*0
+Hypobromous acid cation	[HOBr]+ (g)	O[Br+]	974.82	964.20	¡À 0.64	kJ/mol	96.9108 ¡À
+0.0010	154804-02-1*0
+Cyclopropyne	CH2(CC) (g)		791.3	790.8	¡À 1.4	kJ/mol	38.0480 ¡À
+0.0024	60701-63-5*0
+Cyclopropenyliumdiyl	[CH(CC)]+ (g)	[CH+]1C#C1	1692.0	1694.9	¡À 1.9	kJ/mol	37.0395 ¡À
+0.0024	127476-05-5*0
+Cyclopropynyl anion	[CH(CC)]- (g)	[CH-]1C#C1	517.8	520.8	¡À 1.1	kJ/mol	37.0406 ¡À
+0.0024	136861-42-2*0
+Hypochlorous acid cation	[HOCl]+ (g)	O[Cl+]	998.91	995.86	¡À 0.90	kJ/mol	52.45949 ¡À
+0.00095	71606-47-8*0
+Nitrate	[NO3]- (aq)	O=[N+]([O-])[O-]		-206.63	¡À 0.18	kJ/mol	62.00549 ¡À
+0.00090	14797-55-8*800
+Hypofluorous acid anion	[HOF]- (g, quartet)	O[F-]	155.3	154.7	¡À 2.6	kJ/mol	36.00629 ¡À
+0.00031	36505-07-4*2
+Nitrogen hydride oxide	H3NO (g)	[NH3+][O-]	71.6	60.4	¡À 2.0	kJ/mol	33.02996 ¡À
+0.00037	38544-48-8*0
+Nirous oxide anion	[NNO]- (g)	[N-]=[N]=O	99.2	96.6	¡À 1.9	kJ/mol	44.01343 ¡À
+0.00033	12274-12-3*0
+Hydrogen chloride	HCl (aq, 140 H2O)	Cl		-165.948	¡À 0.026	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*907
+Aminomethyliumylidene	[CNH2]+ (g)	[C+]N	1168.3	1165.1	¡À 2.2	kJ/mol	28.03277 ¡À
+0.00082	86784-42-1*0
+Cyclopentene	CH2(CH2CHCHCH2) (l)	C1CC=CC1		4.98	¡À 0.42	kJ/mol	68.1170 ¡À
+0.0040	142-29-0*590
+Hydrogen chloride	HCl (aq, 1500 H2O)	Cl		-166.639	¡À 0.025	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*840
+Nitroxyl anion	[H2NO]- (g)	N[O-]	48.7	41.7	¡À 2.0	kJ/mol	32.02257 ¡À
+0.00034	51375-41-8*0
+Tribromide	[Br3]- (g)	Br[Br-]Br	-287.6	-308.0	¡À 1.9	kJ/mol	239.7125 ¡À
+0.0030	14522-80-6*0
+Nitrosyl nitrite	ONONO (g, t, c)	O=NON=O	109.3	105.2	¡À 1.8	kJ/mol	76.01168 ¡À
+0.00091	122413-35-8*2
+Ethanol	CH3CH2OH (l)	CCO	-269.34	-277.10	¡À 0.21	kJ/mol	46.0684 ¡À
+0.0017	64-17-5*500
+Hydrogen chloride	HCl (aq, 74 H2O)	Cl		-165.548	¡À 0.027	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*953
+Methylammoniumyl	[CH3NH2]+ (g)	C[NH2+]	865.1	851.2	¡À 1.8	kJ/mol	31.05659 ¡À
+0.00088	34516-31-9*0
+1-Hydroxyethyl anion	[CH3CHOH]- (g)	C[CH-]O	-19.9	-33.3	¡À 2.9	kJ/mol	45.0610 ¡À
+0.0017	88032-18-2*0
+1,2-Propadien-1-yl-3-ylidene anion	[CCC]- (g)	[C]=C=[C-]	621.9	629.3	¡À 1.3	kJ/mol	36.0326 ¡À
+0.0024	109292-47-9*0
+Trifluorine cation	[F3]+ (g)	FF[F+]	1529.5	1527.4	¡À 2.3	kJ/mol	56.9946610 ¡À
+0.0000015	64710-22-1*0
+2-Cyclopropyn-1-ylidene	C(CC) (g, singlet)	C1=C=C=1	993.8	1000.6	¡À 2.5	kJ/mol	36.0321 ¡À
+0.0024	102508-15-6*2
+Acetaldehyde anion	[CH3CHO]- (g)	CC=[O-]	-61.8	-72.1	¡À 2.1	kJ/mol	44.0531 ¡À
+0.0017	60427-04-5*0
+Hydrogen chloride	HCl (aq, 2439 H2O)	Cl		-166.714	¡À 0.024	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*951
+Propynylidyne anion	[C(CC)]- (g)	[C-]1=C=C=1	664.9	672.2	¡À 1.6	kJ/mol	36.0326 ¡À
+0.0024	500574-36-7*0
+Ketene cation	[CH2CO]+ (g)	C=C=[O+]	882.20	879.18	¡À 0.13	kJ/mol	42.0361 ¡À
+0.0016	64999-16-2*0
+Ketene anion	[CH2CO]- (g)	C=C=[O-]	-16.0	-19.1	¡À 2.2	kJ/mol	42.0372 ¡À
+0.0016	56391-79-8*0
+Oxoethenylium	[HCCO]+ (g)	[CH+]=C=O	1139.3	1142.1	¡À 2.9	kJ/mol	41.0282 ¡À
+0.0016	92056-63-8*0
+Bicyclo[1.1.0]buta-1,3-diene-2,4-diyl	C(CC)C (g)	C12=[C]C2=[C]1	1047.48	1055.08	¡À 0.72	kJ/mol	48.0428 ¡À
+0.0032	12184-80-4*0
+Hydrooxonitrate	[HNO]- (g)	[NH-]=O	78.59	75.67	¡À 0.99	kJ/mol	31.01463 ¡À
+0.00032	66057-02-1*0
+Triazirine	HN(NN) (g)	N1N=N1	464.1	457.6	¡À 2.6	kJ/mol	43.02816 ¡À
+0.00022	157-29-9*0
+Ethynol cation	[HCCOH]+ (g)	C#[C+]O	1063.5	1061.3	¡À 2.9	kJ/mol	42.0361 ¡À
+0.0016	84005-02-7*0
+Methyl hydroperoxide cation	[CH3OOH]+ (g)	C[O+]O	833.5	820.3	¡À 2.2	kJ/mol	48.0407 ¡À
+0.0010	112465-88-0*0
+Methoxyoxoniumylidene	[CH3OO]+ (g)	CO[O+]	1012.9	1004.6	¡À 2.0	kJ/mol	47.0328 ¡À
+0.0010	86475-50-5*0
+Hydroxyimidogen anion	[NOH]- (g)	[N-]O	229.9	227.4	¡À 2.3	kJ/mol	31.01463 ¡À
+0.00032	*35337-59-8*0
+Dioxirane anion	[CH2(OO)]- (g)	C1[O-]O1	-170.4	-177.2	¡À 3.9	kJ/mol	46.0259 ¡À
+0.0010	*157-26-6*0
+Peroxychloric acid	HOOCl(O)O (g)	O=Cl(=O)OO	77.5	69.3	¡À 2.6	kJ/mol	100.4582 ¡À
+0.0015	177778-91-5*0
+Dioxymethyl anion	[CH2OO]- (g)	C=[O][O-]	55.0	49.8	¡À 1.4	kJ/mol	46.0259 ¡À
+0.0010	93207-29-5*0
+Hypochlorous acid anion	[HOCl]- (g)	O[Cl-]	198.7	198.3	¡À 2.5	kJ/mol	52.46059 ¡À
+0.00095	34524-94-2*0
+Methylamine anion	[CH3NH2]- (g)	C[NH2-]	83.9	69.0	¡À 2.8	kJ/mol	31.05769 ¡À
+0.00088	81096-79-9*0
+Formyloxidanyl	HC(O)O (g)	C(=O)[O]	-125.57	-126.93	¡À 0.56	kJ/mol	45.0174 ¡À
+0.0010	16499-21-1*0
+Dioxiranyl	HC(OO) (g)	O1[CH]O1	216.2	212.8	¡À 2.4	kJ/mol	45.0174 ¡À
+0.0010	120595-16-6*0
+Deuterium hydride cation	[HD]+ (g)	[H][2H+]	1490.498	1490.587	¡À 0.000	kJ/mol	3.021493 ¡À
+0.000070	12181-16-7*0
+Oxobromonium	[BrO]+ (g)	Br[O+]	1139.2	1131.4	¡À 1.6	kJ/mol	95.9029 ¡À
+0.0010	142315-39-7*0
+2-Propanol	CH3CH(OH)CH3 (cr,l)	CC(O)C	-305.60	-318.40	¡À 0.32	kJ/mol	60.0950 ¡À
+0.0025	67-63-0*500
+1-Propanol	CH3CH2CH2OH (cr,l)	CCCO	-290.56	-302.74	¡À 0.24	kJ/mol	60.0950 ¡À
+0.0025	71-23-8*500
+Tetranitrogen cation	[N4]+ (g)	[N]=NN=[N+]	1392.8	1392.5	¡À 1.5	kJ/mol	56.02641 ¡À
+0.00028	12185-04-5*0
+Hydroxyoxoammoniumyl	[HONO]+ (g)	O[N+]=O	984.1	977.6	¡À 1.8	kJ/mol	47.01293 ¡À
+0.00061	80371-48-8*0
+Cyanogen bromide anion	[BrCN]- (g)	BrC#[N-]	58.2	54.6	¡À 3.8	kJ/mol	105.9220 ¡À
+0.0013	54092-05-6*0
+Oxazirinyl cation	[C(NO)]+ (g)	[C+]1=NO1	1565.4	1566.1	¡À 2.3	kJ/mol	42.01629 ¡À
+0.00086	*228850-18-8*0
+Oxazirinyl anion	[C(NO)]- (g)	[C-]1=NO1	448.0	448.8	¡À 2.4	kJ/mol	42.01739 ¡À
+0.00086	28269-68-3*0
+Acetic acid	CH3C(O)OH (g, syn-anti equilib)	CC(=O)O	-418.51	-432.63	¡À 0.52	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*0
+Bromine dioxide	OBrO (g)	[O]Br[O]	167.1	157.5	¡À 3.0	kJ/mol	111.9028 ¡À
+0.0012	21255-83-4*0
+Dinitrogen pentoxide	O2NONO2 (cr,l)	O=[N+]([O-])O[N+](=O)[O-]		-41.06	¡À 0.42	kJ/mol	108.0105 ¡À
+0.0015	10102-03-1*500
+Methoxycarbonyl	C(O)OCH3 (g, anti-staggered)	CO[C]=O	-150.1	-158.0	¡À 2.1	kJ/mol	59.0440 ¡À
+0.0017	16481-04-2*1
+Dioxygen	O2 (g, triplet)	O=O	-0.000	-0.000	¡À 0.000	kJ/mol	31.99880 ¡À
+0.00060	7782-44-7*1
+Diazenium	[NH2NH]+ (g)	N[NH+]	968.59	957.33	¡À 0.77	kJ/mol	31.03675 ¡À
+0.00025	37369-93-0*0
+Oxalic acid	(COOH)2 (g)	C(=O)(C(=O)O)O	-710.8	-721.4	¡À 2.1	kJ/mol	90.0349 ¡À
+0.0020	144-62-7*0
+2-Chloro ozone anion	[ClO(O)O]- (g)	ClO([O])[O-]	-103.4	-105.7	¡À 3.2	kJ/mol	83.4514 ¡À
+0.0013	*141801-67-4*0
+Fluorine atom cation	F+ (g)	[F+]	1758.301	1760.599	¡À 0.048	kJ/mol	18.99785462 ¡À
+0.00000050	14701-13-4*0
+Water	H2O (l, eq.press.)	O		-285.838	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*589
+Methanol anion	[CH3OH]- (g)	[CH3-]O	-89.0	-99.7	¡À 2.8	kJ/mol	32.04241 ¡À
+0.00090	68474-04-4*0
+Isocyanogen anion	[CNCN]- (g, cis)		386.6	389.5	¡À 3.0	kJ/mol	52.0354 ¡À
+0.0016	*83951-85-3*2
+Diisocyanogen cation	[CNNC]+ (g, cis)	[C]#[N+][N+]#[C-]	1835.1	1837.8	¡À 3.5	kJ/mol	52.0343 ¡À
+0.0016	*78800-21-2*2
+Ethanium	[C2H7]+ (g, classical Cs I)	[CH3+][H][CH3]	888.8	870.3	¡À 1.8	kJ/mol	31.0764 ¡À
+0.0017	24669-33-8*2
+Ethanium	[C2H7]+ (g, classical Cs II)	[CH3+][H][CH3]	895.2	877.3	¡À 1.9	kJ/mol	31.0764 ¡À
+0.0017	24669-33-8*3
+Hydroperoxyimidogen	HOON (g, trans)	OO[N]	103.3	99.7	¡À 2.4	kJ/mol	47.01348 ¡À
+0.00061	877456-58-1*1
+Cyanoamidogen anion	[HNCN]- (g)	[NH-]C#N	72.0	69.0	¡À 1.8	kJ/mol	41.03267 ¡À
+0.00082	67131-47-9*0
+Cyanamide	H2NCN (g)	NC#N	140.8	134.5	¡À 1.5	kJ/mol	42.04006 ¡À
+0.00082	420-04-2*0
+Diazomethylene	CNN (g)	[C]=N=[N]	578.8	579.5	¡À 3.8	kJ/mol	40.02418 ¡À
+0.00081	2468-81-7*0
+Trichloromethylium	[CCl3]+ (g)	[C+](Cl)(Cl)Cl	854.24	852.72	¡À 0.96	kJ/mol	118.3683 ¡À
+0.0028	27130-34-3*0
+Dichloromethyliumyl	[CCl2]+ (g)	[C+](Cl)Cl	1121.6	1122.6	¡À 1.8	kJ/mol	82.9156 ¡À
+0.0020	55945-51-2*0
+Ethylene anion	[CH2CH2]- (g, syn ?)	C=[CH2-]	231.6	225.5	¡À 2.0	kJ/mol	28.0537 ¡À
+0.0016	34527-91-8*2
+Formaldehyde anion	[CH2O]- (g)	C=[O-]	-26.7	-28.3	¡À 2.0	kJ/mol	30.02653 ¡À
+0.00087	27837-46-3*0
+Hydrogen chloride	HCl (aq, 150 H2O)	Cl		-165.981	¡À 0.024	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*829
+Formaldehyde	CH2O (g, triplet)	C=O	196.044	192.713	¡À 0.098	kJ/mol	30.02598 ¡À
+0.00087	50-00-0*1
+Bromine atom	Br (g, 2P3/2)	[Br]	117.917	111.855	¡À 0.056	kJ/mol	79.90400 ¡À
+0.00100	10097-32-2*1
+Nitric acid cation	[HNO3]+ (g)	O[N+](=O)[O]	1029.14	1020.08	¡À 0.69	kJ/mol	63.01233 ¡À
+0.00091	272109-63-4*0
+Trichloroethene	CHClCCl2 (l)	C(Cl)=C(Cl)Cl		-48.7	¡À 1.6	kJ/mol	131.3874 ¡À
+0.0031	79-01-6*590
+Aminomethyl anion	[CH2NH2]- (g)	[CH2-]N	209.2	199.0	¡À 2.1	kJ/mol	30.04975 ¡À
+0.00085	74215-21-7*0
+Chlorosyl chloride cation	[ClClO]+ (g)	ClCl[O+]	1132.6	1130.8	¡À 2.0	kJ/mol	86.9043 ¡À
+0.0018	*86825-56-1*0
+Chloromethane cation	[CH3Cl]+ (g)	C[Cl+]	1015.11	1008.34	¡À 0.25	kJ/mol	50.4867 ¡À
+0.0012	12538-71-5*0
+1-Ethylium-1-yl	[CH3CH]+ (g)	[CH+]C	1182.1	1174.7	¡À 3.2	kJ/mol	28.0526 ¡À
+0.0016	85944-79-2*0
+Ethylidene anion	[CH3CH]- (g)	[CH-]C	325.8	318.4	¡À 1.9	kJ/mol	28.0537 ¡À
+0.0016	35829-99-3*0
+Fluorosyl fluoride cation	[FFO]+ (g, quartet)	FF[O+]	1413.0	1413.4	¡À 3.5	kJ/mol	53.99566 ¡À
+0.00030	*86825-50-5*1
+Peroxyhypochlorite	[ClOO]- (g)	ClO[O-]	-249.23	-248.20	¡À 0.37	kJ/mol	67.4520 ¡À
+0.0011	224299-14-3*0
+Methylaminilium	[CH3NH]+ (g)	C[NH+]	1134.8	1125.0	¡À 2.1	kJ/mol	30.04865 ¡À
+0.00085	49784-84-1*0
+Fluorobromomethane	CH2FBr (g)	C(F)Br	-198.0	-212.4	¡À 5.5	kJ/mol	112.9290 ¡À
+0.0013	373-52-4*0
+Chloroniumyl ion	[HCl]+ (g)	[ClH+]	1137.797	1137.731	¡À 0.0051	kJ/mol	36.46009 ¡À
+0.00090	12258-94-5*0
+Chlorine difluoride cation	[ClFF]+ (g)	[Cl+]FF	1346.3	1344.9	¡À 2.1	kJ/mol	73.44896 ¡À
+0.00090	86825-59-4*0
+Fluorodibromomethane	CHFBr2 (g)	C(F)(Br)Br	-160.0	-179.5	¡À 5.5	kJ/mol	191.8250 ¡À
+0.0022	1868-53-7*0
+Difluorochlorobromomethane	CF2ClBr (g)	C(F)(F)(Cl)Br	-431.5	-442.2	¡À 5.5	kJ/mol	165.3642 ¡À
+0.0016	353-59-3*0
+Dichlorofluorobromomethane	CCl2FBr (g)	C(Cl)(Cl)(F)Br	-230.2	-240.0	¡À 5.5	kJ/mol	181.8185 ¡À
+0.0022	353-58-2*0
+Dibromofluorochloromethane	CBr2FCl (g)	C(Br)(Br)(F)Cl	-170.8	-187.4	¡À 5.5	kJ/mol	226.2698 ¡À
+0.0023	353-55-9*0
+Chlorine difluoride anion	[ClFF]- (g)	[Cl-]FF	-319.0	-319.1	¡À 2.2	kJ/mol	73.45005 ¡À
+0.00090	91419-41-9*0
+Krypton cation	Kr+ (g)	[Kr+]	1350.756	1350.756	¡À 0.000	kJ/mol	83.7995 ¡À
+0.1000	16915-28-9*0
+Difluoromethyliumyl	[CF2]+ (g)	[C+](F)F	908.35	908.78	¡À 0.91	kJ/mol	50.00696 ¡À
+0.00080	54250-40-7*0
+Hydrogen fluoride	HF (aq, 23 H2O)	F		-321.05	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*903
+Methanimine cation	[CH2NH]+ (g)	C=[NH+]	1056.0	1049.1	¡À 1.8	kJ/mol	29.04071 ¡À
+0.00083	65130-65-6*0
+Methanimine anion	[CH2NH]- (g)	C=[NH-]	224.3	217.1	¡À 2.2	kJ/mol	29.04181 ¡À
+0.00083	127593-73-1*0
+Ammonium radical	NH4 (g)	[NH4]	190.01	179.43	¡À 0.43	kJ/mol	18.03850 ¡À
+0.00029	92075-50-8*0
+Dibromine	Br2 (aq)	BrBr		-2.16	¡À 0.20	kJ/mol	159.8080 ¡À
+0.0020	7726-95-6*800
+Hydrogen fluoride	HF (aq, 22.2 H2O)	F		-321.04	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*888
+Ozone cation	[OOO]+ (g)	O=[O+]=O	1352.870	1350.531	¡À 0.041	kJ/mol	47.99765 ¡À
+0.00090	12596-82-6*0
+Hydrogen fluoride	HF (aq, 37 H2O)	F		-321.11	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*890
+Hydrogen fluoride	HF (aq, 55.51 H2O)	F		-321.16	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*891
+Hydrogen bromide	HBr (aq, 2570 H2O)	Br		-120.46	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*952
+Aminomethyliumyl	[CHNH2]+ (g)	[CH][NH2+]	1039.5	1031.8	¡À 2.3	kJ/mol	29.04071 ¡À
+0.00083	89302-94-3*0
+Difluorophosgene cation	[COF2]+ (g)	C(F)(F)=[O+]	653.41	650.78	¡À 0.57	kJ/mol	66.00636 ¡À
+0.00085	73256-56-1*0
+Difluorophosgene anion	[COF2]- (g)	C(F)(F)=[O-]	-603.6	-605.5	¡À 3.4	kJ/mol	66.00745 ¡À
+0.00085	474815-26-4*0
+Carbon atom	C (g, triplet)	[C]	711.407	716.892	¡À 0.048	kJ/mol	12.01070 ¡À
+0.00080	7440-44-0*1
+Chlorohydroxymethylene	ClCOH (g, trans)	Cl[C]OH	13.9	11.0	¡À 2.6	kJ/mol	64.4707 ¡À
+0.0012	147723-60-2*1
+(Chlorooxy)methylene	HCOCl (g, cis)	H[C]OCl	119.1	117.8	¡À 2.7	kJ/mol	64.4707 ¡À
+0.0012	331419-80-8*2
+Chloryl ion	[OClO]+ (g)	O=[Cl+]=O	1100.15	1097.49	¡À 0.52	kJ/mol	67.4510 ¡À
+0.0011	25052-55-5*0
+Dibromophosgene	COBr2 (l)	C(Br)(Br)=O		-144.18	¡À 0.96	kJ/mol	187.8181 ¡À
+0.0022	593-95-3*590
+2-Chloroethanol	ClCH2CH2OH (l)	ClCCO		-315.10	¡À 0.56	kJ/mol	80.5132 ¡À
+0.0019	107-07-3*590
+2-Bromoethanol	BrCH2CH2OH (l)	BrCCO		-274.83	¡À 0.48	kJ/mol	124.9645 ¡À
+0.0019	540-51-2*590
+Hydrogen bromide	HBr (aq, 3000 H2O)	Br		-120.47	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*842
+Imidogen anion	[NH]- (g)	[NH-]	322.62	322.67	¡À 0.17	kJ/mol	15.015229 ¡À
+0.000099	23841-33-0*0
+Trioxidanyl	HOOO (g, cis)	OO[O]	26.28	23.01	¡À 0.19	kJ/mol	49.00614 ¡À
+0.00090	12500-78-6*2
+Hypofluorous acid cation	[HOF]+ (g)	O[F+]	1141.99	1138.98	¡À 0.87	kJ/mol	36.00519 ¡À
+0.00031	90243-22-4*0
+Phenylium	[C6H5]+ (g, singlet)	c1cccc[c+]1	1148.45	1135.67	¡À 0.88	kJ/mol	77.1034 ¡À
+0.0048	17333-73-2*2
+Chlorosyl chloride anion	[ClClO]- (g)	ClCl[O-]	-185.4	-184.7	¡À 2.3	kJ/mol	86.9053 ¡À
+0.0018	*86825-55-0*0
+Carbon atom	C (g, singlet)	[C]	833.338	838.485	¡À 0.048	kJ/mol	12.01070 ¡À
+0.00080	7440-44-0*2
+m-Benzyne anion	[C6H4]- (g)	c1[c]ccc[c-]1	444.1	435.2	¡À 1.3	kJ/mol	76.0965 ¡À
+0.0048	249589-31-9*0
+p-Benzyne anion	[C6H4]- (g)	c1c[c]cc[c-]1	465.1	455.5	¡À 1.3	kJ/mol	76.0965 ¡À
+0.0048	219298-17-6*0
+Chloryl chloride	ClCl(O)O (g)	ClCl([O])[O]	126.1	122.1	¡À 1.7	kJ/mol	102.9042 ¡À
+0.0019	117489-73-3*0
+Benzylium	[C6H5CH2]+ (g)	c1ccc(cc1)[CH2+]	929.66	910.16	¡À 0.63	kJ/mol	91.1299 ¡À
+0.0056	6711-19-9*0
+Hydrogen bromide	HBr (aq, 2000 H2O)	Br		-120.42	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*841
+Aminomethylene anion	[CHNH2]- (g)	[CH][NH2-]	353.0	346.1	¡À 2.3	kJ/mol	29.04181 ¡À
+0.00083	207914-86-1*0
+Phenyloxoniumylidene	[C6H5O]+ (g)	c1ccc(cc1)[O+]	902.9	888.6	¡À 2.4	kJ/mol	93.1028 ¡À
+0.0048	41071-17-4*0
+Fluorosyl fluoride anion	[FFO]- (g, quartet)	FF[O-]	-56.6	-56.1	¡À 2.4	kJ/mol	53.99675 ¡À
+0.00030	*86825-57-2*1
+Hydrogen difluoride cation	[FFH]+ (g, singlet)	[F+]F[H]	1174.3	1171.3	¡À 1.5	kJ/mol	39.004198 ¡À
+0.000070	*126950-54-7*2
+Ammonium chloride	(NH4)Cl (cr)	[NH4+].[Cl-]	-311.728	-314.889	¡À 0.063	kJ/mol	53.49120 ¡À
+0.00095	12125-02-9*510
+Acetylene anion	[HCCH]- (g, cis ?)	C#[CH-]	380.1	380.3	¡À 1.9	kJ/mol	26.0378 ¡À
+0.0016	50443-89-5*2
+Fluorobenzene	C6H5F (cr,l)	c1ccc(cc1)F	-151.82	-149.40	¡À 0.89	kJ/mol	96.1023 ¡À
+0.0048	462-06-6*500
+Bromobenzene	C6H5Br (cr,l)	c1ccc(cc1)Br		59.9	¡À 1.3	kJ/mol	157.0079 ¡À
+0.0049	108-86-1*500
+Ammonium bromide	(NH4)Br (cr)	[NH4+].[Br-]	-253.48	-270.05	¡À 0.17	kJ/mol	97.9425 ¡À
+0.0010	12124-97-9*510
+Acetone	CH3C(O)CH3 (cr,l)	CC(=O)C	-244.51	-247.63	¡À 0.32	kJ/mol	58.0791 ¡À
+0.0025	67-64-1*500
+Tribromine	Br3 (g)	BrBrBr	155.8	134.1	¡À 3.2	kJ/mol	239.7120 ¡À
+0.0030	11094-39-6*0
+Propionaldehyde	CH3CH2CHO (cr,l)	CCC=O	-218.20	-216.75	¡À 0.29	kJ/mol	58.0791 ¡À
+0.0025	123-38-6*500
+Triazirinylium ion	[N(NN)]+ (g)	[N]1N=[N+]1	1608.8	1605.9	¡À 1.6	kJ/mol	42.01967 ¡À
+0.00021	92220-05-8*0
+Monoammonium succinate	(CH2COOH)2(NH3) (cr)	OC(=O)CCC(=O)[O-].[NH4+]		-1068.01	¡À 0.72	kJ/mol	135.1186 ¡À
+0.0035	38457-08-8*510
+Diammonium succinate	(CH2COOH)2(NH3)2 (cr)	[O-]C(=O)CCC(=O)[O-].[NH4+].[NH4+]		-1182.56	¡À 0.48	kJ/mol	152.1492 ¡À
+0.0035	2226-88-2*510
+Nitrosyl nitrate	ONONO2 (g, t)	O=NO[N+](=O)[O-]	48.2	40.2	¡À 1.8	kJ/mol	92.0111 ¡À
+0.0012	15969-55-8*1
+1-Methylethenylium	[CH3CCH2]+ (g)	C[C+]=C	995.9	986.4	¡À 2.7	kJ/mol	41.0713 ¡À
+0.0024	50457-57-3*0
+Isocyanic fluoride	FNC (g)	FN=[C]	301.3	303.1	¡À 1.8	kJ/mol	45.01584 ¡À
+0.00080	16992-26-0*0
+Formic acid	HC(O)OH (cr,l)	C(=O)O	-431.56	-424.73	¡À 0.21	kJ/mol	46.0254 ¡À
+0.0010	64-18-6*500
+Bromoniumyl	[HBr]+ (g)	[BrH+]	1097.95	1090.10	¡À 0.16	kJ/mol	80.9114 ¡À
+0.0010	12258-64-9*0
+1-Methylethenyl anion	[CH3CCH2]- (g)	C[C-]=C	199.2	188.0	¡À 2.8	kJ/mol	41.0723 ¡À
+0.0024	65887-19-6*0
+Hydrogen fluoride	HF (aq, 400 H2O)	F		-321.45	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*832
+2-Propen-3-ylium-1-ylidyne	[CHCHC]+ (g)	[CH][CH][C+]	1791.2	1792.8	¡À 2.6	kJ/mol	38.0474 ¡À
+0.0024	161054-36-0*0
+Propenediylidene anion	[CHCHC]- (g)	[CH][CH][C-]	588.8	590.1	¡À 2.3	kJ/mol	38.0485 ¡À
+0.0024	*161054-36-0*0
+Hydroxyoxoammoniumyl	[HONO]+ (g, trans)	O[N+]=O	984.1	977.6	¡À 1.8	kJ/mol	47.01293 ¡À
+0.00061	80371-48-8*1
+Isocyanogen chloride	ClNC (g)	ClN=[C]	314.6	316.2	¡À 2.4	kJ/mol	61.4701 ¡À
+0.0012	75754-69-7*0
+(Z)-Diazene anion	[HNNH]- (g, cis)	[H]/N=[N-]\[H]	280.0	273.3	¡À 2.0	kJ/mol	30.02991 ¡À
+0.00020	*86631-37-0*0
+Carbon dioxide cation	[CO2]+ (g, quartet)	[C+](=O)=O	1335.0	1335.5	¡À 2.4	kJ/mol	44.00895 ¡À
+0.00100	12181-61-2*1
+Carbon monoxide anion	[CO]- (g)	[C]#[O-]	30.0	33.7	¡À 2.3	kJ/mol	28.01065 ¡À
+0.00085	12539-63-8*0
+Nitrous acid anion	[HONO]- (g, cis)	O[N-]=O	-107.0	-111.7	¡À 2.4	kJ/mol	47.01403 ¡À
+0.00061	256393-36-9*2
+NON anion	[NON]- (g)	[N]O[N-]	495.3	492.8	¡À 2.5	kJ/mol	44.01343 ¡À
+0.00033	*227934-47-6*0
+Peroxyhypochlorous acid anion	[HOOCl]- (g, cis quartet)	OO[Cl-]	-32.2	-34.0	¡À 2.6	kJ/mol	68.4600 ¡À
+0.0011	*67952-08-3*2
+Iodine monochloride	ICl (cr)	ICl	-36.511	-35.537	¡À 0.063	kJ/mol	162.35717 ¡À
+0.00090	7790-99-0*510
+Acetic acid	CH3C(O)OH (g, anti)	CC(=O)O	-397.4	-411.2	¡À 1.2	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*2
+Isocyanogen bromide	BrNC (g)	BrN=[C]	341.5	335.8	¡À 3.4	kJ/mol	105.9214 ¡À
+0.0013	65997-98-0*0
+Acetic acid	CH3C(O)OH (aq, 1000 H2O)	CC(=O)O		-484.93	¡À 0.23	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*839
+Oxygen difluoride anion	[FOF]- (g)	FO[F-]	-202.1	-201.9	¡À 2.7	kJ/mol	53.99675 ¡À
+0.00030	*7783-41-7*0
+Trioxidanyl	HOOO (g)	OO[O]	25.31	23.22	¡À 0.13	kJ/mol	49.00614 ¡À
+0.00090	12500-78-6*0
+Methyl formate	HC(O)OCH3 (l)	COC=O		-386.13	¡À 0.59	kJ/mol	60.0520 ¡À
+0.0017	107-31-3*500
+Hydroxylamine	NH2OH (aq, undissoc)	NO		-97.1	¡À 2.2	kJ/mol	33.02996 ¡À
+0.00037	7803-49-8*1000
+Ethylene glycol	(CH2OH)2 (cr,l)	OCCO	-448.71	-455.23	¡À 0.38	kJ/mol	62.0678 ¡À
+0.0018	107-21-1*500
+Hydrogen chloride	HCl (aq, 1000 H2O)	Cl		-166.567	¡À 0.024	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*839
+Isocyanogen iodide	INC (g)	IN=[C]	341.7	341.9	¡À 4.9	kJ/mol	152.92191 ¡À
+0.00080	66004-32-8*0
+Oxalic acid	(COOH)2 (cr)	C(=O)(C(=O)O)O		-819.30	¡À 0.46	kJ/mol	90.0349 ¡À
+0.0020	144-62-7*500
+Isocyanogen iodide anion	[INC]- (g)	IN=[C-]	123.0	125.1	¡À 9.3	kJ/mol	152.92246 ¡À
+0.00080	*66004-32-8*0
+Dimethylamine	(CH3)2NH (l)	CNC		-43.71	¡À 0.39	kJ/mol	45.0837 ¡À
+0.0017	124-40-3*500
+Nitrosyl nitrite anion	[ONONO]- (g, t, t)	O=NON=[O-]	-103.1	-106.2	¡À 2.8	kJ/mol	76.01223 ¡À
+0.00091	*122413-35-8*1
+Dinitrogen dioxide	ONNO (g, cis)	O=NN=O	172.88	171.12	¡À 0.14	kJ/mol	60.01228 ¡À
+0.00062	16824-89-8*2
+Trimethylamine	(CH3)3N (l)	CN(C)C		-49.8	¡À 1.0	kJ/mol	59.1103 ¡À
+0.0025	75-50-3*500
+Cyclobutane	CH2(CH2CH2CH2) (l)	C1CCC1		3.92	¡À 0.41	kJ/mol	56.1063 ¡À
+0.0032	287-23-0*590
+Cyanogen cation	[NCCN]+ (g)	N#C[C+]#N	1598.34	1600.57	¡À 0.44	kJ/mol	52.0343 ¡À
+0.0016	37354-81-7*0
+Cyanogen anion	[NCCN]- (g)	N#CC#[N-]	282.1	285.2	¡À 3.3	kJ/mol	52.0354 ¡À
+0.0016	11118-88-0*0
+Isocyanogen cation	[CNCN]+ (g)	[C]#[N+]C#N	1652.9	1654.2	¡À 1.8	kJ/mol	52.0343 ¡À
+0.0016	133415-63-1*0
+Methylcyclopropane	CH3CH(CH2CH2) (l)	CC1CC1		1.80	¡À 0.59	kJ/mol	56.1063 ¡À
+0.0032	594-11-6*590
+Methanol	CH3OH (l)	CO	-235.20	-238.53	¡À 0.15	kJ/mol	32.04186 ¡À
+0.00090	67-56-1*500
+Diisocyanogen anion	[CNNC]- (g)	[C-]#[N+][N]#[C-]	456.8	463.7	¡À 5.7	kJ/mol	52.0354 ¡À
+0.0016	*78800-22-3*0
+Diazoethenylidene cation	[NNCC]+ (g)	[N]=[N]=C=[C+]	1777.1	1779.1	¡À 6.1	kJ/mol	52.0343 ¡À
+0.0016	*130760-10-0*0
+Diazoethenylidene anion	[NNCC]- (g)	[N]=[N]=C=[C-]	536.0	538.6	¡À 5.8	kJ/mol	52.0354 ¡À
+0.0016	*130760-11-1*0
+3H-diazirin-3-ylidene-methylene	CC(NN) (g)	[C]=C1N=N1	833.7	836.1	¡À 3.6	kJ/mol	52.0349 ¡À
+0.0016	204253-88-3*0
+Isocyanomethyliumylidene	[CNC]+ (g)	[C][N+]#[C]	1612.6	1618.1	¡À 6.2	kJ/mol	38.0276 ¡À
+0.0016	78271-45-1*0
+Isocyanomethylidyne anion	[CNC]- (g)	[C][N]#[C-]	478.6	482.3	¡À 5.9	kJ/mol	38.0287 ¡À
+0.0016	*53590-27-5*0
+Methylamine	CH3NH2 (l)	CN		-47.01	¡À 0.36	kJ/mol	31.05714 ¡À
+0.00088	74-89-5*500
+Cyanomethyliumylidene	[CCN]+ (g)	[C+]C#N	1711.1	1716.5	¡À 6.0	kJ/mol	38.0276 ¡À
+0.0016	76619-90-4*0
+Cyanomethylidyne anion	[CCN]- (g)	[C-]C#N	406.7	410.3	¡À 5.7	kJ/mol	38.0287 ¡À
+0.0016	12373-35-2*0
+2,3-didehydro-1H-azirin-1-yl	N(CC) (g)	[N]1C#C1	722.2	726.2	¡À 4.9	kJ/mol	38.0281 ¡À
+0.0016	439586-06-8*0
+Cyanoaminyliumyl	[NCN]+ (g)	[N]=[C+]=[N]	1671.9	1673.3	¡À 2.9	kJ/mol	40.02363 ¡À
+0.00081	316122-03-9*0
+Cyanoamidogen anion	[NCN]- (g)	[N]=[C-]=[N]	210.89	210.90	¡À 0.81	kJ/mol	40.02473 ¡À
+0.00081	189879-95-6*0
+Cyanamide	H2NCN (cr)	NC#N		58.89	¡À 0.54	kJ/mol	42.04006 ¡À
+0.00082	420-04-2*500
+Diazomethyliumyl	[CNN]+ (g)	[C+]=N=[N]	1641.8	1643.6	¡À 4.3	kJ/mol	40.02363 ¡À
+0.00081	307495-90-5*0
+Diazomethylene anion	[CNN]- (g)	[C-]=N=[N]	407.9	408.0	¡À 3.9	kJ/mol	40.02473 ¡À
+0.00081	205498-92-6*0
+Deuterium hydride	HD (g)	[H][2H]	0.328	0.319	¡À 0.000	kJ/mol	3.022042 ¡À
+0.000070	13983-20-5*0
+Methanol dimer	(CH3OH)2 (g)	CO.CO	-398.3	-419.0	¡À 1.4	kJ/mol	64.0837 ¡À
+0.0018	42845-44-3*0
+Isodiazene anion	[NNH2]- (g)	[N-]N	380.9	374.0	¡À 2.1	kJ/mol	30.02991 ¡À
+0.00020	*63986-30-1*0
+1-Ethenylium-1-yl	[CCH2]+ (g)	[C+]=C	1507.1	1507.1	¡À 2.1	kJ/mol	26.0367 ¡À
+0.0016	80541-07-7*0
+Chloromethyliumylidene	[CCl]+ (g)	[C+]Cl	1282.6	1285.7	¡À 2.4	kJ/mol	47.4629 ¡À
+0.0012	69773-94-0*0
+Chloromethylidyne anion	[CCl]- (g)	[C-]Cl	319.7	323.4	¡À 2.5	kJ/mol	47.4639 ¡À
+0.0012	117129-77-8*0
+Dioxiranylidene cation	[C(OO)]+ (g)	[C+]1OO1	1409.1	1410.3	¡À 2.6	kJ/mol	44.00895 ¡À
+0.00100	*138832-57-2*0
+Trifluorine	F3 (g)	FFF	80.6	81.9	¡À 2.6	kJ/mol	56.9952096 ¡À
+0.0000015	73455-86-4*0
+Chlorine chlorite	ClOClO (g, cis)	ClO[Cl]=O	177.4	175.0	¡À 2.2	kJ/mol	102.9042 ¡À
+0.0019	105206-44-8*2
+Cyclopropyl anion	[CH(CH2CH2)]- (g)	C1C[CH-]1	263.5	250.8	¡À 2.5	kJ/mol	41.0723 ¡À
+0.0024	1724-45-4*0
+Dioxiranylidene anion	[C(OO)]- (g, ?)	[C-]1OO1	-110.2	-109.7	¡À 3.0	kJ/mol	44.01005 ¡À
+0.00100	*138832-58-3*0
+Carbon monoxide	CO (g, triplet)	[C-]#[O+]	465.581	469.288	¡À 0.026	kJ/mol	28.01010 ¡À
+0.00085	630-08-0*1
+Trihydrogen	H(HH) (g, 2p 2A2" Ry)	[H]1[H][H]1	756.931	754.146	¡À 0.015	kJ/mol	3.02382 ¡À
+0.00021	12184-91-7*2
+Hydrogen fluoride	HF (aq, 18.5 H2O)	F		-321.02	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*887
+Hydrogen chloride	HCl (aq, 3000 H2O)	Cl		-166.743	¡À 0.024	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*842
+1,1,1-Trichloroethane	CH3CCl3 (l)	CC(Cl)(Cl)Cl		-177.63	¡À 0.52	kJ/mol	133.4033 ¡À
+0.0031	71-55-6*500
+Trioxidane	HOOOH (g)	OOO	-81.71	-90.31	¡À 0.72	kJ/mol	50.01408 ¡À
+0.00091	14699-99-1*0
+Nitrogen sesquioxide cation	[ONNO2]+ (g, vdW)	O=N-[N+](=O)[O]	1027.7	1023.8	¡À 3.4	kJ/mol	76.01113 ¡À
+0.00091	*10544-73-7*0
+Vinyl chloride	CH2CHCl (cr,l)	C=CCl	-2.7	1.9	¡À 1.9	kJ/mol	62.4979 ¡À
+0.0018	75-01-4*500
+Poly(vinylchloride)	CH2CHCl (s, poly)	C{-}(Cl)C{+n}	-84.6	-94.0	¡À 1.3	kJ/mol	62.4979 ¡À
+0.0018	9002-86-2*500
+Paraformaldehyde	CH2O (cr, paraformaldehyde)	C=O		-179.2	¡À 1.6	kJ/mol	30.02598 ¡À
+0.00087	30525-89-4*500
+1,1-Dichloroethene	CH2CCl2 (l)	C=C(Cl)Cl		-23.82	¡À 0.51	kJ/mol	96.9427 ¡À
+0.0024	75-35-4*500
+Isoprene	CH2C(CH3)CHCH2 (cr,l)	CC(=C)C=C		48.67	¡À 0.73	kJ/mol	68.1170 ¡À
+0.0040	78-79-5*500
+n-Hexane	CH3CH2CH2CH2CH2CH3 (cr,l)	CCCCCC	-180.03	-198.69	¡À 0.34	kJ/mol	86.1754 ¡À
+0.0049	110-54-3*500
+Oxadiazirine	[O(NN)]+ (g)	[N+]1=NO1	1509.9	1507.4	¡À 2.4	kJ/mol	44.01233 ¡À
+0.00033	*227934-45-4*0
+Cyclohexane	CH2(CH2CH2CH2CH2CH2) (l)	C1CCCCC1		-156.33	¡À 0.36	kJ/mol	84.1595 ¡À
+0.0049	110-82-7*500
+Nitrato	[NO3]+ (g)	O=[N+](O)O	1290.55	1285.84	¡À 0.86	kJ/mol	62.00439 ¡À
+0.00090	133057-96-2*0
+Dihydrogen fluoride	(HF)(H) (g)	F.H	-56.5	-54.2	¡À 1.7	kJ/mol	21.01428 ¡À
+0.00014	12592-22-2*2
+Dichloromethane	CH2Cl2 (l)	C(Cl)Cl		-123.42	¡À 0.50	kJ/mol	84.9320 ¡À
+0.0020	75-09-2*590
+n-Heptane	CH3(CH2)5CH3 (cr,l)	CCCCCCC	-201.78	-224.23	¡À 0.48	kJ/mol	100.2019 ¡À
+0.0057	142-82-5*500
+Oxygen difluoride cation	[FOF]+ (g)	FO[F+]	1292.10	1289.58	¡À 0.66	kJ/mol	53.99566 ¡À
+0.00030	39432-25-2*0
+n-Octane	CH3(CH2)6CH3 (cr,l)	CCCCCCCC	-226.70	-249.82	¡À 0.67	kJ/mol	114.2285 ¡À
+0.0065	111-65-9*500
+Nitric acid	HNO3 (aq, 1 H2O)	O[N+](=O)[O-]		-186.85	¡À 0.18	kJ/mol	63.01288 ¡À
+0.00091	7697-37-2*801
+1,5-Hexadiene	CH2CHCH2CH2CHCH2 (cr,l)	C=CCCC=C		54.39	¡À 0.32	kJ/mol	82.1436 ¡À
+0.0049	592-42-7*500
+1-Propynylium	[CH3CC]+ (g)	CC#[C+]	1547.1	1545.1	¡À 3.1	kJ/mol	39.0554 ¡À
+0.0024	24858-94-4*0
+Hydrogen peroxide	H2O2 (cr,l)	OO	-193.185	-187.368	¡À 0.079	kJ/mol	34.01468 ¡À
+0.00062	7722-84-1*500
+1,2-Propadien-1-ylium-1-yl-3-ylidene	[CCC]+ (g, lin)	[C]=C=[C+]	1982.1	1991.2	¡À 2.2	kJ/mol	36.0316 ¡À
+0.0024	118090-85-0*1
+Trioxirane	O(OO) (g)	O1OO1	272.9	270.3	¡À 1.3	kJ/mol	47.99820 ¡À
+0.00090	153851-84-4*0
+Ammonia anion	[NH3]- (g)	[NH3-]	94.3	87.3	¡À 2.4	kJ/mol	17.03111 ¡À
+0.00022	37353-00-7*0
+Difluoromethylene anion	[CF2]- (g)	[C-](F)F	-211.21	-209.99	¡À 0.60	kJ/mol	50.00805 ¡À
+0.00080	66212-40-6*0
+Nitric acid	HNO3 (aq, 3 H2O)	O[N+](=O)[O-]		-197.76	¡À 0.18	kJ/mol	63.01288 ¡À
+0.00091	7697-37-2*805
+Nitrosyl nitrite	ONONO (g, c, p)	O=NON=O	125.7	120.4	¡À 2.1	kJ/mol	76.01168 ¡À
+0.00091	122413-35-8*3
+Fluoromethylidyne anion	[CF]- (g)	[C-]F	200.8	204.3	¡À 1.9	kJ/mol	31.00965 ¡À
+0.00080	33412-12-3*0
+Hydrochlorate ion	[HCl]- (g)	[ClH-]	-25.2	-24.2	¡À 2.5	kJ/mol	36.46119 ¡À
+0.00090	63099-75-2*0
+Cycloprop-1-enylium	[CH2(CHC)]+ (g)	C1C=[C+]1	1502.3	1498.1	¡À 2.2	kJ/mol	39.0554 ¡À
+0.0024	117067-78-4*0
+Cycloprop-1-enyl anion	[CH2(CHC)]- (g)	C1C=[C-]1	373.5	369.0	¡À 2.2	kJ/mol	39.0565 ¡À
+0.0024	80251-77-0*0
+Oxygen atom hexacation	[O]+6 (g)	[O+6]	42035.28	42037.14	¡À 0.12	kJ/mol	15.99611 ¡À
+0.00030	14158-22-6*0
+Nitric acid trihydrate	HNO3(H2O)3 (cr,l)	O[N+](=O)[O-].O.O.O	-1062.12	-1055.27	¡À 0.21	kJ/mol	117.0587 ¡À
+0.0019	13444-83-2*500
+1,2-Difluoroacetylene cation	[FCCF]+ (g)	F[C+]#CF	1081.2	1084.3	¡À 1.5	kJ/mol	62.0177 ¡À
+0.0016	268566-70-7*0
+Dioxymethylidyne cation	[COO]+ (g, doublet)	[C+]O[O]	1436.6	1439.1	¡À 2.7	kJ/mol	44.00895 ¡À
+0.00100	*791121-04-5*2
+Propane cation	[CH3CH2CH3]+ (g)	CC[CH3+]	974.6	954.7	¡À 1.7	kJ/mol	44.0951 ¡À
+0.0025	34479-70-4*0
+Azide ion	[NNN]- (aq)	[N]N=[N-]		272.61	¡À 0.48	kJ/mol	42.02077 ¡À
+0.00021	14343-69-2*800
+Dihydrogen cation	[H2]+ (g, ortho)	[H][H+]	1489.060	1488.480	¡À 0.000	kJ/mol	2.01533 ¡À
+0.00014	12184-90-6*1
+Nitric acid monohydrate	HNO3(H2O) (cr,l)	O[N+](=O)[O-].O	-479.18	-472.68	¡À 0.19	kJ/mol	81.0282 ¡À
+0.0012	13444-82-1*500
+Carbon dioxide anion	[CO2]- (g)	[C-](=O)=O	-340.6	-340.1	¡À 2.2	kJ/mol	44.01005 ¡À
+0.00100	14485-07-5*0
+NON cation	[NON]+ (g)	[N]O[N+]	1443.9	1444.1	¡À 2.8	kJ/mol	44.01233 ¡À
+0.00033	*227934-46-5*0
+Peroxyhypochlorous acid cation	[HOOCl]+ (g, trans)	OO[Cl+]	1030.3	1024.5	¡À 2.5	kJ/mol	68.4589 ¡À
+0.0011	*67952-07-2*1
+Chloro(chlorooxy)methylene	ClCOCl (g, cis)	Cl[C]OCl	73.5	73.7	¡À 3.6	kJ/mol	98.9155 ¡À
+0.0020	479587-31-0*2
+Hydrogen difluoride cation	[(HF)(F)]+ (g, triplet)	[F+]F[H]	1267.6	1265.4	¡À 4.1	kJ/mol	39.004198 ¡À
+0.000070	*126950-54-7*1
+Cycloprop-2-enyl anion	[CH(CHCH)]- (g)	C1=C[CH-]1	514.8	511.8	¡À 2.2	kJ/mol	39.0565 ¡À
+0.0024	20829-57-6*0
+Chlorooxomethylium	[ClCO]+ (g)	Cl[C+]=O	783.7	783.9	¡À 2.2	kJ/mol	63.4623 ¡À
+0.0012	38264-03-8*0
+Hydrogen difluoride cation	[FHF]+ (g, triplet ?)	F[H][F+]	1241.	1238.	¡À 17.	kJ/mol	39.004198 ¡À
+0.000070	126950-54-7*1
+2,4,5-Trioxa-1,3-diazabicyclo[1.1.1]pentane	N(O3)N (g)	N12ON(O1)O2	602.5	593.3	¡À 2.1	kJ/mol	76.01168 ¡À
+0.00091	224950-18-9*0
+2-Iodoethanol	ICH2CH2OH (l)	ICCO		-207.3	¡À 2.4	kJ/mol	171.9650 ¡À
+0.0017	624-76-0*590
+Dioxymethylidyne cation	[(C)(OO)]+ (g, vdW quartet)	[C+]O[O]	1388.2	1391.7	¡À 3.2	kJ/mol	44.00895 ¡À
+0.00100	*791121-04-5*101
+1,3-Butadiyne cation	[HCCCCH]+ (g)	C#CC#[CH+]	1440.20	1442.07	¡À 0.86	kJ/mol	50.0581 ¡À
+0.0032	55468-55-8*0
+Tricarbon dioxide cation	[OCCCO]+ (g)	O=C=[C+]=C=O	928.4	931.9	¡À 1.4	kJ/mol	68.0304 ¡À
+0.0025	151528-67-5*0
+Tricarbon dioxide anion	[OCCCO]- (g)	O=C=[C-]=C=O	-134.0	-130.3	¡À 3.2	kJ/mol	68.0314 ¡À
+0.0025	109362-94-9*0
+Benzene anion	[C6H6]- (g)	c1ccc(cc1)[H-]	209.0	197.1	¡À 1.2	kJ/mol	78.1124 ¡À
+0.0048	34562-85-1*0
+Peroxychlorous acid	HOOClO (g, anti)	O=ClOO	103.5	97.7	¡À 2.5	kJ/mol	84.4588 ¡À
+0.0013	177778-92-6*2
+Tetrazete	N(NNN) (g, D2h)	N1=NN=N1	764.9	759.0	¡À 1.8	kJ/mol	56.02696 ¡À
+0.00028	42851-09-2*0
+Hydraziniumyl	[NH2NH2]+ (g)	N[NH2+]	886.6	873.2	¡À 2.0	kJ/mol	32.04469 ¡À
+0.00031	20771-51-1*0
+Difluorodioxidanium	[FOOF]+ (g, trans)	FO[O+]F	1283.6	1279.1	¡À 2.3	kJ/mol	69.99506 ¡À
+0.00060	*7783-44-0*1
+o-Benzyne	C6H4 (g, triplet)	C1=CC#CC=C1	625.6	616.3	¡À 1.1	kJ/mol	76.0960 ¡À
+0.0048	462-80-6*1
+Chlorodioxidenium	[ClOO]+ (g)	ClO[O+]	1202.7	1200.4	¡À 3.4	kJ/mol	67.4510 ¡À
+0.0011	64710-10-7*0
+Hydrazine	NH2NH2 (cr,l)	NN	57.23	50.67	¡À 0.18	kJ/mol	32.04524 ¡À
+0.00031	302-01-2*500
+Tetraoxodinitrogen cation	[O2NNO2]+ (g)	O=N(=O)[N+](=O)=O	1030.6	1025.1	¡À 2.6	kJ/mol	92.0105 ¡À
+0.0012	64476-91-1*0
+m-Benzyne	C6H4 (g)	c1[c]ccc[c]1	527.0	518.5	¡À 1.2	kJ/mol	76.0960 ¡À
+0.0048	1828-89-3*0
+Hydrogen chloride	HCl (aq, 200 H2O)	Cl		-166.107	¡À 0.024	kJ/mol	36.46064 ¡À
+0.00090	7647-01-0*830
+p-Benzyne cation	[C6H4]+ (g)	c1c[c]cc[c+]1	1425.8	1418.5	¡À 2.1	kJ/mol	76.0954 ¡À
+0.0048	121058-09-1*0
+p-Benzyne	C6H4 (g)	c1c[c]cc[c]1	587.1	577.6	¡À 1.2	kJ/mol	76.0960 ¡À
+0.0048	3355-34-8*0
+Toluene	C6H5CH3 (l)	c1ccc(cc1)C	19.87	12.11	¡À 0.34	kJ/mol	92.1384 ¡À
+0.0056	108-88-3*500
+Hydronium radical	(H2O)(H) (g, vdW)	O.[H]	-18.5	-21.6	¡À 2.1	kJ/mol	19.02322 ¡À
+0.00037	12168-76-2*100
+Ethylbenzene	C6H5CH2CH3 (cr,l)	c1ccc(cc1)CC		-12.55	¡À 0.55	kJ/mol	106.1650 ¡À
+0.0064	100-41-4*500
+Phenylethene	C6H5CHCH2 (cr,l)	c1ccc(cc1)C=C		104.29	¡À 0.48	kJ/mol	104.1491 ¡À
+0.0064	100-42-5*500
+Hydrogen bromide	HBr (aq, 1000 H2O)	Br		-120.32	¡À 0.16	kJ/mol	80.9119 ¡À
+0.0010	10035-10-6*839
+Phenylacetylene	C6H5CCH (cr,l)	c1ccc(cc1)C#C		273.4	¡À 1.1	kJ/mol	102.1332 ¡À
+0.0064	536-74-3*500
+Phenol	C6H5OH (cr,l)	c1ccc(cc1)O	-146.32	-162.17	¡À 0.68	kJ/mol	94.1112 ¡À
+0.0048	108-95-2*500
+Cyclopropenylidene anion	[C(CHCH)]- (g)	C1=[C-]=C1	544.3	543.8	¡À 2.2	kJ/mol	38.0485 ¡À
+0.0024	*16165-40-5*0
+Benzaldehyde	C6H5C(O)H (cr,l)	c1ccc(cc1)C=O	-85.7	-86.7	¡À 1.1	kJ/mol	106.1219 ¡À
+0.0056	100-52-7*500
+Carbide	[C2]- (g)	[C]=[C-]	504.86	511.43	¡À 0.52	kJ/mol	24.0219 ¡À
+0.0016	12595-78-7*0
+Fluorobenzene anion	[C6H5F]- (g)	c1ccc(cc1)[F-]	-18.3	-30.2	¡À 1.8	kJ/mol	96.1029 ¡À
+0.0048	34561-55-2*0
+Peroxynitrous acid	HOONO (g)	OON=O	-6.10	-12.73	¡À 0.36	kJ/mol	63.01288 ¡À
+0.00091	14691-52-2*0
+Tetraazatetrahedrane	N4 (g, Td)	N12N3N1N23	763.7	757.2	¡À 1.7	kJ/mol	56.02696 ¡À
+0.00028	12596-63-3*0
+Bromosyl bromide	BrBrO (g)	BrBr[O]	178.6	162.8	¡À 2.1	kJ/mol	175.8074 ¡À
+0.0020	68322-97-4*0
+Iodobenzene cation	[C6H5I]+ (g)	c1ccc(cc1)[I+]	1022.7	1007.2	¡À 1.0	kJ/mol	204.0078 ¡À
+0.0048	38406-85-8*0
+Dioxygen difluoride	OOF2 (g)	[O][O](F)F	75.1	71.6	¡À 3.6	kJ/mol	69.99561 ¡À
+0.00060	183051-89-0*0
+Hydrazoic acid cation	[HNNN]+ (g)	N=[N+]=[N]	1333.65	1327.98	¡À 0.83	kJ/mol	43.02761 ¡À
+0.00022	58852-14-5*0
+Nitrobenzene	C6H5N(O)O (cr,l)	c1ccc(cc1)[N+](=O)[O-]		6.4	¡À 1.4	kJ/mol	123.1094 ¡À
+0.0049	98-95-3*500
+Perchloryl cation	[OCl(O)O]+ (g)	O=[Cl+](=O)[O]	1252.0	1246.3	¡À 2.5	kJ/mol	83.4504 ¡À
+0.0013	23594-88-9*0
+Hydrazoic acid anion	[HNNN]- (g, trans)	N=[N]=[N-]	309.0	302.7	¡À 2.3	kJ/mol	43.02871 ¡À
+0.00022	203264-98-6*1
+Nitromethane	CH3N(O)O (cr,l)	C[N+](=O)[O-]	-114.19	-113.00	¡À 0.43	kJ/mol	61.0401 ¡À
+0.0010	75-52-5*500
+2,2,4-Trimethylpentane	(CH3)2CHCH2C(CH3)3 (cr,l)	CC(C)CC(C)(C)C	-224.5	-258.9	¡À 1.5	kJ/mol	114.2285 ¡À
+0.0065	540-84-1*500
+Trifluoroethylene	C2HF3 (g)	FC(F)=CF	-482.7	-487.7	¡À 8.4	kJ/mol	82.0245 ¡À
+0.0016	359-11-5*0
+Norbornadiene	(CHCH)CHCH2CH(CHCH) (g)	C1C2C=CC1C=C2	237.9	212.5	¡À 1.2	kJ/mol	92.1384 ¡À
+0.0056	121-46-0*0
+Norbornadiene	(CHCH)CHCH2CH(CHCH) (l)	C1C2C=CC1C=C2		179.1	¡À 1.1	kJ/mol	92.1384 ¡À
+0.0056	121-46-0*500
+2,3-Butanedione	(CH3CO)2 (cr,l)	CC(=O)C(=O)C		-365.54	¡À 0.54	kJ/mol	86.0892 ¡À
+0.0033	431-03-8*500
+2,3-Butanedione	(CH3CO)2 (g)	CC(=O)C(=O)C	-310.19	-326.75	¡À 0.70	kJ/mol	86.0892 ¡À
+0.0033	431-03-8*0
+Succinic acid	(CH2COOH)2 (cr,l)	OC(=O)CCC(=O)O	-918.57	-940.30	¡À 0.13	kJ/mol	118.0880 ¡À
+0.0034	110-15-6*500
+1,2-Diiodoethane	(CIH2)2 (g)	C(I)CI	87.78	73.12	¡À 0.90	kJ/mol	281.8621 ¡À
+0.0016	624-73-7*0
+1,2-Diiodoethane	(CIH2)2 (cr,l)	C(I)CI		9.25	¡À 0.60	kJ/mol	281.8621 ¡À
+0.0016	624-73-7*500
+1,1-Dibromoethane	CHBr2CH3 (g)	CC(Br)Br	-9.2	-36.3	¡À 7.8	kJ/mol	187.8612 ¡À
+0.0026	557-91-5*0
+Dihydrogen	H2 (g, ortho)	[H][H]	1.417	0.019	¡À 0.000	kJ/mol	2.01588 ¡À
+0.00014	1333-74-0*1
+Xenon hydride cation	[XeH]+ (g)	[Xe+][H]	1038.15	1036.37	¡À 0.89	kJ/mol	132.2974 ¡À
+0.0200	37276-91-8*0
+Nitrosyl nitrate	ONONO2 (g, cis-perp)	O=NO[N+](=O)[O-]	60.5	52.5	¡À 2.0	kJ/mol	92.0111 ¡À
+0.0012	15969-55-8*2
+Hydroxylamine	NH2OH (g)	NO	-33.24	-43.61	¡À 0.50	kJ/mol	33.02996 ¡À
+0.00037	7803-49-8*0
+Carbon monoxide	CO (g, singlet)	[C-]#[O+]	-113.802	-110.522	¡À 0.026	kJ/mol	28.01010 ¡À
+0.00085	630-08-0*2
+Dioxofluorine cation	[OFO]+ (g)	[O]F[O+]	1667.0	1664.8	¡À 2.8	kJ/mol	50.99665 ¡À
+0.00060	223566-05-0*0
+Hydroxyoxoammoniumyl	[HONO]+ (g, cis)	O[N+]=O	1014.7	1008.4	¡À 2.0	kJ/mol	47.01293 ¡À
+0.00061	80371-48-8*2
+Nitrous acid anion	[HONO]- (g, trans)	O[N-]=O	-106.3	-110.2	¡À 2.5	kJ/mol	47.01403 ¡À
+0.00061	256393-36-9*1
+Water trimer	(H2O)3 (g)	O.O.O	-762.75	-776.85	¡À 0.21	kJ/mol	54.04584 ¡À
+0.00099	31014-12-7*0
+Methylene	CH2 (g)	[CH2]	391.03	391.59	¡À 0.12	kJ/mol	14.02658 ¡À
+0.00081	2465-56-7*0
+Hydrazoic acid	HNNN (aq)	N=[N+]=[N-]		272.61	¡À 0.48	kJ/mol	43.02816 ¡À
+0.00022	7782-79-8*800
+mu-Oxodichlorine cation	[ClOCl]+ (g)	Cl[O+]Cl	1130.44	1126.83	¡À 0.63	kJ/mol	86.9043 ¡À
+0.0018	51174-96-0*0
+Nitrogen atom	N (g, quartet)	[N]	470.579	472.441	¡À 0.024	kJ/mol	14.006740 ¡À
+0.000070	17778-88-0*1
+mu-Oxodichlorate anion	[ClOCl]- (g)	Cl[O-]Cl	-147.8	-147.7	¡À 2.5	kJ/mol	86.9053 ¡À
+0.0018	365546-30-1*0
+Polyoxymethylene	CH2O (cr, polyoxymethylene)	C=O		-170.89	¡À 0.21	kJ/mol	30.02598 ¡À
+0.00087	9002-81-7*500
+Trihydrogen cation	[H3]+ (g, para)	[H]1[H+][H]1	1110.304	1106.697	¡À 0.013	kJ/mol	3.02327 ¡À
+0.00021	28132-48-1*2
+Dioxaziridine	HN(OO) (g)	N1OO1	277.2	270.5	¡À 2.0	kJ/mol	47.01348 ¡À
+0.00061	67394-35-8*0
+Propylene cation	[CH3CHCH2]+ (g)	CC=[CH2+]	975.07	962.11	¡À 0.35	kJ/mol	42.0792 ¡À
+0.0024	34504-10-4*0
+Cyclopentadiene	CH2(CHCHCHCH) (l)	C1C=CC=C1		108.73	¡À 0.61	kJ/mol	66.1011 ¡À
+0.0040	542-92-7*590
+Hydrogen iodide	HI (aq)	I		-56.824	¡À 0.089	kJ/mol	127.912410 ¡À
+0.000076	10034-85-2*800
+Formaldehyde	CH2O (aq)	C=O		-171.16	¡À 0.59	kJ/mol	30.02598 ¡À
+0.00087	50-00-0*800
+Ethynylene	C2 (g, singlet)	[C]=[C]	820.28	826.85	¡À 0.27	kJ/mol	24.0214 ¡À
+0.0016	12070-15-4*2
+Dihydrogen anion	[H2]- (g)	[H][H-]	253.8	254.7	¡À 1.2	kJ/mol	2.01643 ¡À
+0.00014	12184-89-3*0
+Tetrabromomethane	CBr4 (cr, monoclinic)	C(Br)(Br)(Br)Br		49.0	¡À 1.4	kJ/mol	331.6267 ¡À
+0.0041	558-13-4*500
+Tetraiodomethane	CI4 (cr, monoclinic)	C(I)(I)(I)I		392.5	¡À 8.0	kJ/mol	519.62858 ¡À
+0.00081	507-25-5*500
+Methyl bromide	CH3Br (l)	CBr	-55.90	-58.92	¡À 0.28	kJ/mol	94.9385 ¡À
+0.0013	74-83-9*590
+Tetroxidane	HOOOOH (g)	OOOO	-33.8	-44.3	¡À 2.4	kJ/mol	66.0135 ¡À
+0.0012	29683-94-1*0
+Dihydrogen cation	[H2]+ (g, para)	[H][H+]	1488.364	1488.480	¡À 0.000	kJ/mol	2.01533 ¡À
+0.00014	12184-90-6*2
+Hydrogen peroxide	H2O2 (g, para)	OO	-129.492	-135.478	¡À 0.063	kJ/mol	34.01468 ¡À
+0.00062	7722-84-1*2
+Acetic acid	CH3C(O)OH (aq, 500 H2O)	CC(=O)O		-484.91	¡À 0.23	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*833
+Trioxirane cation	[O(OO)]+ (g)	O1O[O+]1	1444.6	1442.4	¡À 2.2	kJ/mol	47.99765 ¡À
+0.00090	*153851-84-4*0
+Acetic acid	CH3C(O)OH (aq, 10000 H2O)	CC(=O)O		-484.96	¡À 0.23	kJ/mol	60.0520 ¡À
+0.0017	64-19-7*850
+Isocyanogen bromide anion	[BrNC]- (g)	BrN=[C-]	105.4	102.2	¡À 4.6	kJ/mol	105.9220 ¡À
+0.0013	*238754-53-5*0
+Dioxofluorine anion	[OFO]- (g)	[O]F[O-]	155.9	154.3	¡À 2.5	kJ/mol	50.99775 ¡À
+0.00060	*175861-93-5*0
+Peroxyhypochlorous acid cation	[HOOCl]+ (g, cis)	OO[Cl+]	1050.8	1045.1	¡À 2.5	kJ/mol	68.4589 ¡À
+0.0011	*67952-07-2*2
+1,2-Propadien-1-ylium-1-yl-3-ylidene	[CCC]+ (g)	[C]=C=[C+]	1947.0	1954.9	¡À 2.0	kJ/mol	36.0316 ¡À
+0.0024	118090-85-0*0
+Fluorine atom	F (g, 2P3/2)	[F]	77.253	79.038	¡À 0.048	kJ/mol	18.99840320 ¡À
+0.00000050	14762-94-8*1
+1-Hydroxyethyl	CH3CHOH (g)	C[CH]O	-42.00	-55.43	¡À 0.65	kJ/mol	45.0605 ¡À
+0.0017	2348-46-1*0
+Hydroxylamine	NH2OH (cr,l)	NO		-107.62	¡À 0.66	kJ/mol	33.02996 ¡À
+0.00037	7803-49-8*500
+Methyl formate	HC(O)OCH3 (g)	COC=O	-344.73	-357.78	¡À 0.59	kJ/mol	60.0520 ¡À
+0.0017	107-31-3*0
+Oxygen atom pentacation	[O]+5 (g)	[O+5]	28708.788	28710.646	¡À 0.053	kJ/mol	15.99666 ¡À
+0.00030	14127-66-3*0
+Deuteride	D- (g)	[2H-]	146.991	148.904	¡À 0.0021	kJ/mol	2.01465035791 ¡À
+0.00000000040	14452-69-8*0
+Hydrogen peroxide cation	[H2O2]+ (g, cis, para)	O[OH+]	930.4	923.6	¡À 1.0	kJ/mol	34.01413 ¡À
+0.00062	12325-10-9*22
+Hydroxymethylene	HCOH (g)	[CH]O	112.70	108.94	¡À 0.28	kJ/mol	30.02598 ¡À
+0.00087	19710-56-6*0
+Chlorine atom	Cl (g, 2P3/2)	[Cl]	119.621	121.228	¡À 0.0011	kJ/mol	35.45270 ¡À
+0.00090	22537-15-1*1
+Ethyl bromide	CH3CH2Br (l)	CCBr	-55.52	-91.05	¡À 0.27	kJ/mol	108.9651 ¡À
+0.0019	74-96-4*500
+Oxonium	[H3O]+ (g, para)	[OH3+]	605.84	599.09	¡À 0.17	kJ/mol	19.02267 ¡À
+0.00037	13968-08-6*2
+Vinyl iodide	CH2CHI (g)	C=CI	139.7	130.8	¡À 1.2	kJ/mol	153.9497 ¡À
+0.0016	593-66-8*0
+Trihydrogen	(H)(HH) (g, vdW)	[H]1[H][H]1	215.9	218.3	¡À 1.1	kJ/mol	3.02382 ¡À
+0.00021	12184-91-7*100
+Peroxyhypochlorous acid anion	[HOOCl]- (g, trans quartet)	OO[Cl-]	-2.9	-3.3	¡À 2.6	kJ/mol	68.4600 ¡À
+0.0011	*67952-08-3*1
+Hydrogen peroxide cation	[H2O2]+ (g, trans, ortho)	O[OH+]	896.57	889.59	¡À 0.58	kJ/mol	34.01413 ¡À
+0.00062	12325-10-9*11
+Tribromide	[Br3]- (aq)	Br[Br-]Br		-129.29	¡À 0.26	kJ/mol	239.7125 ¡À
+0.0030	14522-80-6*800
+Chlorine trifluoride cation	[FCl(F)F]+ (g)	F[Cl+](F)F	1053.4	1049.1	¡À 2.5	kJ/mol	92.44736 ¡À
+0.00090	478167-77-0*0
+Oxygen atom octacation	[O]+8 (g)	[O+8]	197447.75	197449.60	¡À 0.12	kJ/mol	15.99501 ¡À
+0.00030	21450-98-6*0
+2-Chloro ozone	ClO(O)O (g)	ClO([O])[O]	265.8	265.3	¡À 3.7	kJ/mol	83.4509 ¡À
+0.0013	*141801-66-3*0
+Hydrazoic acid	HNNN (aq, undissoc)	N=[N+]=[N-]		257.62	¡À 0.48	kJ/mol	43.02816 ¡À
+0.00022	7782-79-8*1000
+Oxygen atom heptacation	[O]+7 (g)	[O+7]	113369.48	113371.34	¡À 0.12	kJ/mol	15.99556 ¡À
+0.00030	14274-89-6*0
+Acetaldehyde	CH3CHO (cr,l)	CC=O	-186.94	-191.66	¡À 0.33	kJ/mol	44.0526 ¡À
+0.0017	75-07-0*500
+Tetraoxodinitrate anion	[O2NNO2]- (g)	O=N(=O)[N-](=O)=O	-184.6	-187.8	¡À 2.4	kJ/mol	92.0116 ¡À
+0.0012	63552-02-3*0
+Tricarbon dioxide	OCCCO (cr,l)	O=C=C=C=O	-131.6	-116.5	¡À 1.4	kJ/mol	68.0309 ¡À
+0.0025	504-64-3*500
+Oxygen atom tetracation	[O]+4 (g)	[O+4]	17719.207	17721.064	¡À 0.025	kJ/mol	15.99721 ¡À
+0.00030	14127-65-2*0
+Cyclopropane cation	[CH2(CH2CH2)]+ (g)	C1[CH2+]C1	1022.3	1006.9	¡À 1.8	kJ/mol	42.0792 ¡À
+0.0024	34496-93-0*0
+Iodine atom	I (g, 2P1/2)	[I]	198.109	197.709	¡À 0.0021	kJ/mol	126.904470 ¡À
+0.000030	14362-44-8*2
+1,3-Butadiyn-4-ylium-1-yl	[CCCC]+ (g)	[C]#CC#[C+]	2109.9	2120.5	¡À 2.9	kJ/mol	48.0423 ¡À
+0.0032	124708-46-9*0
+m-Benzyne	C6H4 (g, triplet)	c1[c]ccc[c]1	614.6	605.2	¡À 1.4	kJ/mol	76.0960 ¡À
+0.0048	1828-89-3*1
+Bromodioxy	BrOO (g)	BrO[O]	118.2	109.1	¡À 4.3	kJ/mol	111.9028 ¡À
+0.0012	67177-47-3*0
+Hydrogen fluoride	HF (aq, 45 H2O)	F		-321.13	¡À 0.16	kJ/mol	20.006343 ¡À
+0.000070	7664-39-3*906
+Difluorodioxidanium	[FOOF]+ (g, cis)	FO[O+]F	1287.2	1283.0	¡À 2.3	kJ/mol	69.99506 ¡À
+0.00060	*7783-44-0*2
+Iodine monochloride	ICl (l)	ICl		-24.048	¡À 0.063	kJ/mol	162.35717 ¡À
+0.00090	7790-99-0*590
+Oxoniumyl ion	[H2O]+ (g, ortho)	[H][O+][H]	978.464	975.561	¡À 0.029	kJ/mol	18.01473 ¡À
+0.00033	56583-62-1*1
+Dinitrogen dimer	(N2)2 (g)		-0.88	0.84	¡À 0.67	kJ/mol	56.02696 ¡À
+0.00028	*7727-37-9*0
+Oxygen atom trication	[O]+3 (g)	[O+3]	10249.929	10252.880	¡À 0.018	kJ/mol	15.99775 ¡À
+0.00030	14127-64-1*0
+Trihydrogen	H(HH) (g, 2s 2A1' Ry)	[H]1[H][H]1	745.878	743.094	¡À 0.062	kJ/mol	3.02382 ¡À
+0.00021	12184-91-7*1
+Diatomic bromine cation	[Br2]+ (g)	Br[Br+]	1060.32	1045.37	¡À 0.23	kJ/mol	159.8075 ¡À
+0.0020	12595-71-0*0
+Ammonium hydroxide	NH4OH (aq, undissoc)	[NH4+].[OH-]		-366.726	¡À 0.062	kJ/mol	35.04584 ¡À
+0.00047	1336-21-6*1000
+1,3-Butadiynyl anion	[CCCC]- (g)	[C]#CC#[C-]	677.7	686.8	¡À 1.2	kJ/mol	48.0433 ¡À
+0.0032	59158-53-1*0
+Difluorine cation	[F2]+ (g)	F[F+]	1514.301	1514.475	¡À 0.013	kJ/mol	37.9962578 ¡À
+0.0000010	12184-86-0*0
+Hydrazine monohydrate	(NH2NH2)(H2O) (l)	NN.O		-242.68	¡À 0.19	kJ/mol	50.06052 ¡À
+0.00053	7803-57-8*500
+Dihydrogen	H2 (g, para)	[H][H]	-0.000	-0.058	¡À 0.000	kJ/mol	2.01588 ¡À
+0.00014	1333-74-0*2
+Nitrosyl nitrite anion	[ONONO]- (g, t, c)	O=NON=[O-]	-100.3	-103.5	¡À 2.9	kJ/mol	76.01223 ¡À
+0.00091	*122413-35-8*2
+Hypochloroperoxoous acid, hydroxy ester	HOOOCl (g, anti)	OOOCl	49.5	42.6	¡À 2.5	kJ/mol	84.4588 ¡À
+0.0013	928652-99-7*2
+Methylaminyliumyl	[CH3N]+ (g, doublet ?)	C[N+]	1388.3	1382.0	¡À 2.6	kJ/mol	29.04071 ¡À
+0.00083	56924-51-7*1
+Acetylene anion	[HCCH]- (g)	C#[CH-]	356.9	356.7	¡À 1.9	kJ/mol	26.0378 ¡À
+0.0016	50443-89-5*0
+Bicyclo[1.1.0]buta-1,3-dien-4-ylium-2-yl	[C(CC)C]+ (g)	C12=[C]C2=[C+]1	2087.4	2097.2	¡À 2.7	kJ/mol	48.0423 ¡À
+0.0032	289679-91-0*0
+3H-Diazirin-3-ylidene	C(NN) (g)	[C]1N=N1	578.0	578.4	¡À 4.0	kJ/mol	40.02418 ¡À
+0.00081	253308-70-2*0
+Water	H2O (cr)	O	-286.308	-292.749	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*510
+Tribromine cation	[Br3]+ (g)	Br[Br+]Br	1035.9	1013.2	¡À 2.6	kJ/mol	239.7115 ¡À
+0.0030	33105-86-1*0
+Trioxygen difluoride	FOOOF (g)	FOOOF	112.5	107.3	¡À 1.2	kJ/mol	85.99501 ¡À
+0.00090	16829-28-0*0
+Hydrazoic acid anion	[HNNN]- (g, cis)	N=[N]=[N-]	316.2	310.0	¡À 2.3	kJ/mol	43.02871 ¡À
+0.00022	203264-98-6*2
+Water	H2O (g, para)	O	-238.938	-241.842	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*2
+(Z)-1,2-Diiodoethene	C2H2I2 (g)		215.71	207.43	¡À 0.44	kJ/mol	279.8462 ¡À
+0.0016	590-26-1*0
+(E)-1,2-Diiodoethene	C2H2I2 (g)		214.82	207.43	¡À 0.44	kJ/mol	279.8462 ¡À
+0.0016	590-27-2*0
+Fluorosyl fluoride	FFO (g, singlet)	FF[O]	227.	225.	¡À 21.	kJ/mol	53.99621 ¡À
+0.00030	86825-57-2*2
+Bicyclo[1.1.0]buta-1,3-dien-2-yl anion	[C(CC)C]- (g)	C12=[C]C2=[C-]1	803.6	811.3	¡À 2.1	kJ/mol	48.0433 ¡À
+0.0032	289679-89-6*0
+1,2-Dibromoethane	(CBrH2)2 (cr,l)	C(Br)CBr		-79.5	¡À 1.3	kJ/mol	187.8612 ¡À
+0.0026	106-93-4*500
+Oxygen atom dication	[O]+2 (g)	[O++]	4949.459	4953.000	¡À 0.013	kJ/mol	15.99830 ¡À
+0.00030	14127-63-0*0
+Deuterium molecule cation	[D2]+ (g)	[2H][2H+]	1492.286	1492.361	¡À 0.000	kJ/mol	4.02765497609 ¡À
+0.00000000080	12184-84-8*0
+Hydroxymethylene cation	[HCOH]+ (g)	[CH+]O	971.9	968.3	¡À 1.4	kJ/mol	30.02543 ¡À
+0.00087	135395-06-1*0
+Chlorine pentafluoride cation	[FCl(F)(F)(F)F]+ (g)	F[Cl+](F)(F)(F)F	1005.8	996.8	¡À 3.3	kJ/mol	130.44417 ¡À
+0.00090	478167-78-1*0
+Water dimer cation	[(H2O)2]+ (g)	O.[OH2+]	556.8	546.3	¡À 3.0	kJ/mol	36.03001 ¡À
+0.00066	158061-35-9*0
+Hydroxymethylene anion	[HCOH]- (g)	[CH-]O	147.2	144.2	¡À 1.6	kJ/mol	30.02653 ¡À
+0.00087	207914-87-2*0
+Diazene cation	[HNNH]+ (g, trans-cis equilib)	N=[NH+]	1132.46	1125.53	¡À 0.66	kJ/mol	30.02881 ¡À
+0.00020	76986-17-9*1
+Cyanogen iodide cation	[ICN]+ (g)	I[C+]#N	1271.3	1271.2	¡À 1.6	kJ/mol	152.92136 ¡À
+0.00080	34749-78-5*0
+Peroxychlorous acid	HOOClO (g)	O=ClOO	96.2	90.6	¡À 2.1	kJ/mol	84.4588 ¡À
+0.0013	177778-92-6*0
+Oxirene	O(CHCH) (g)	C1=CO1	272.85	272.15	¡À 0.98	kJ/mol	42.0367 ¡À
+0.0016	157-18-6*0
+Nitrogen atom anion	N- (g)	[N-]	487.6	489.9	¡À 2.5	kJ/mol	14.007289 ¡À
+0.000070	17778-87-9*0
+Chlorine chlorite	ClOClO (g)	ClO[Cl]=O	168.6	166.4	¡À 1.3	kJ/mol	102.9042 ¡À
+0.0019	105206-44-8*0
+Hydrogen cyanide anion	[HCN]- (g)	[CH-]#N	129.516	129.038	¡À 0.091	kJ/mol	27.02593 ¡À
+0.00081	12334-27-9*0
+2-Hydroxyethylium	[CH2CH2OH]+ (g)	[CH2+]CO	1019.2	1007.0	¡À 1.7	kJ/mol	45.0600 ¡À
+0.0017	38607-31-7*0
+Dinitrogen dioxide	ONNO (g, trans)	O=NN=O	192.2	188.6	¡À 1.8	kJ/mol	60.01228 ¡À
+0.00062	16824-89-8*1
+Water anion	[H2O]- (g)	[H][O-][H]	-50.1	-53.0	¡À 4.3	kJ/mol	18.01583 ¡À
+0.00033	12259-30-2*0
+Chlorohydroxymethyl	CH(Cl)OH (g)	[CH](Cl)O	-54.7	-60.4	¡À 1.1	kJ/mol	65.4787 ¡À
+0.0012	147139-06-8*0
+Hydrazoic acid	HNNN (cr,l)	N=[N+]=[N-]		261.48	¡À 0.65	kJ/mol	43.02816 ¡À
+0.00022	7782-79-8*500
+Isocyanic fluoride cation	[FNC]+ (g)	FN=[C+]	1618.4	1619.0	¡À 4.0	kJ/mol	45.01529 ¡À
+0.00080	*16992-26-0*0
+Methane anion	[CH4]- (g)	[CH4-]	27.3	19.4	¡À 5.1	kJ/mol	16.04301 ¡À
+0.00085	27680-53-1*0
+Oxonium	[H3O]+ (g, ortho)	[OH3+]	605.90	599.09	¡À 0.17	kJ/mol	19.02267 ¡À
+0.00037	13968-08-6*1
+Carbon atom	C (g, quintuplet)	[C]	1114.970	1120.117	¡À 0.048	kJ/mol	12.01070 ¡À
+0.00080	7440-44-0*3
+O--HH Complex	(H2)(O) (g, vdW C2v ?)	[H][H].[O]	247.2	248.2	¡À 2.0	kJ/mol	18.01528 ¡À
+0.00033	*7732-18-5*102
+Isocyanic fluoride anion	[FNC]- (g)	FN=[C-]	74.3	76.0	¡À 5.7	kJ/mol	45.01639 ¡À
+0.00080	357426-78-9*0
+Nitrogen atom	N (g, doublet)	[N]	700.554	702.457	¡À 0.024	kJ/mol	14.006740 ¡À
+0.000070	17778-88-0*2
+Hydrobromate ion	[HBr]- (g)	[BrH-]	-5.7	-12.2	¡À 4.3	kJ/mol	80.9125 ¡À
+0.0010	85532-97-4*0
+Hydrogen peroxide	H2O2 (aq)	OO		-190.78	¡À 0.30	kJ/mol	34.01468 ¡À
+0.00062	7722-84-1*800
+Fluoro(fluorooxy)methylene	FCOF (g)	F[C]OF	-135.8	-137.0	¡À 2.1	kJ/mol	66.00691 ¡À
+0.00085	479587-30-9*0
+Trihydrogen	H(HH) (g, Ry)	[H]1[H][H]1	745.878	743.199	¡À 0.062	kJ/mol	3.02382 ¡À
+0.00021	12184-91-7*0
+Dichlorine cation	[Cl2]+ (g)	Cl[Cl+]	1108.287	1108.266	¡À 0.013	kJ/mol	70.9049 ¡À
+0.0018	12595-90-3*0
+Fluorosyl fluoride anion	[FFO]- (g)	FF[O-]	-147.2	-146.9	¡À 3.0	kJ/mol	53.99675 ¡À
+0.00030	*86825-57-2*0
+Formic acid cation	[HC(O)OH]+ (g)	[CH+](=O)O	721.92	715.38	¡À 0.26	kJ/mol	46.0248 ¡À
+0.0010	50614-05-6*0
+(Methylamino)methyl anion	[CH3NHCH2]- (g)	CN[CH2-]	200.9	184.0	¡À 3.2	kJ/mol	44.0763 ¡À
+0.0017	*31277-25-5*0
+Isocyanogen chloride anion	[ClNC]- (g)	ClN=[C-]	102.8	107.3	¡À 3.9	kJ/mol	61.4707 ¡À
+0.0012	923019-39-0*0
+Diazene anion	[HNNH]- (g, trans-cis-iso equilib)	N=[NH-]	265.5	258.7	¡À 2.0	kJ/mol	30.02991 ¡À
+0.00020	100429-75-2*0
+Phosgene cation	[CCl2O]+ (g)	C(=[O+])(Cl)Cl	897.1	896.0	¡À 1.7	kJ/mol	98.9150 ¡À
+0.0020	73249-38-4*0
+Phosgene	CCl2O (cr, l, I+liquid)	C(=O)(Cl)Cl		-242.72	¡À 0.27	kJ/mol	98.9155 ¡À
+0.0020	75-44-5*501
+Phosgene	CCl2O (cr, l, II+liquid)	C(=O)(Cl)Cl	-255.43	-242.72	¡À 0.27	kJ/mol	98.9155 ¡À
+0.0020	75-44-5*502
+Diiodine cation	[I2]+ (g)	I[I+]	963.523	960.408	¡À 0.018	kJ/mol	253.808391 ¡À
+0.000060	28712-14-3*0
+Chloro(chlorooxy)methylene	ClCOCl (g)	Cl[C]OCl	73.5	73.7	¡À 3.6	kJ/mol	98.9155 ¡À
+0.0020	479587-31-0*0
+Chloro(chlorooxy)methylene	ClCOCl (g, trans?)	Cl[C]OCl	112.	114.	¡À 16.	kJ/mol	98.9155 ¡À
+0.0020	479587-31-0*1
+Formic acid anion	[HC(O)OH]- (g)	[CH-](=O)O	-256.2	-262.3	¡À 1.8	kJ/mol	46.0259 ¡À
+0.0010	19066-82-1*0
+Methyl fluoride cation	[CH3F]+ (g)	C[F+]	981.81	974.32	¡À 0.62	kJ/mol	34.03237 ¡À
+0.00083	59122-96-2*0
+Chlorohydroxymethylene	ClCOH (g, cis)	Cl[C]OH	14.3	11.4	¡À 3.2	kJ/mol	64.4707 ¡À
+0.0012	147723-60-2*2
+Chlorohydroxymethylene	ClCOH (g)	Cl[C]OH	13.9	11.2	¡À 2.6	kJ/mol	64.4707 ¡À
+0.0012	147723-60-2*0
+Methyl fluoride	CH3F (l)	CF		-245.74	¡À 0.45	kJ/mol	34.03292 ¡À
+0.00083	593-53-3*590
+(Chlorooxy)methylene	HCOCl (g, trans)	H[C]OCl	155.4	155.2	¡À 3.7	kJ/mol	64.4707 ¡À
+0.0012	331419-80-8*1
+(Chlorooxy)methylene	HCOCl (g)	H[C]OCl	119.1	117.8	¡À 2.7	kJ/mol	64.4707 ¡À
+0.0012	331419-80-8*0
+O--HH Complex	(H2)(O) (g, vdW Cinfv ?)	[H][H].[O]	247.6	248.9	¡À 2.7	kJ/mol	18.01528 ¡À
+0.00033	*7732-18-5*101
+Chloromethane	CH3Cl (l)	CCl	-105.96	-101.99	¡À 0.25	kJ/mol	50.4872 ¡À
+0.0012	74-87-3*590
+Chloroformyl anion	[ClCO]- (g)	Cl[C-]=O	-356.5	-352.9	¡À 3.3	kJ/mol	63.4633 ¡À
+0.0012	41976-93-6*0
+Water	H2O (cr, eq.press.)	O	-286.310	-292.751	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*509
+Diazene	HNNH (g, trans-cis equilib)	N=N	207.09	199.96	¡À 0.44	kJ/mol	30.02936 ¡À
+0.00020	3618-05-1*1
+Fluorosyl fluoride cation	[FFO]+ (g)	FF[O+]	1413.0	1413.4	¡À 3.5	kJ/mol	53.99566 ¡À
+0.00030	*86825-50-5*0
+Dinitrogen tetraoxide	O2NNO2 (cr,l)	O=N(=O)N(=O)=O	-37.87	-27.02	¡À 0.19	kJ/mol	92.0111 ¡À
+0.0012	10544-72-6*500
+Nitrosyl nitrite anion	[ONONO]- (g)	O=NON=[O-]	-103.1	-106.2	¡À 2.8	kJ/mol	76.01223 ¡À
+0.00091	*122413-35-8*0
+Diazene anion	[HNNH]- (g, trans-cis equilib)	N=[NH-]	265.5	258.7	¡À 2.0	kJ/mol	30.02991 ¡À
+0.00020	100429-75-2*1
+Ethane anion	[CH3CH3]- (g)	C[CH3-]	41.9	26.6	¡À 4.4	kJ/mol	30.0696 ¡À
+0.0017	54064-82-3*0
+(Dimethylamino)methyl anion	[(CH3)2NCH2]- (g)	CN(C)[CH2-]	189.5	165.3	¡À 3.3	kJ/mol	58.1029 ¡À
+0.0025	125231-49-4*0
+2-Iodoethanol	ICH2CH2OH (g)	ICCO	-132.0	-150.2	¡À 2.5	kJ/mol	171.9650 ¡À
+0.0017	624-76-0*0
+Cyanogen chloride cation	[ClCN]+ (g)	Cl[C+]#N	1326.12	1327.45	¡À 0.97	kJ/mol	61.4696 ¡À
+0.0012	37612-72-9*0
+Propargylenide	[HCCCH]- (g)	C#C[CH-]	434.5	437.7	¡À 1.1	kJ/mol	38.0485 ¡À
+0.0024	82906-05-6*0
+Hydroperoxonium	[H2OOH]+ (g, cis)	[OH2+]O	762.5	752.6	¡À 2.0	kJ/mol	35.02207 ¡À
+0.00064	70850-26-9*2
+Cyanogen	NCCN (cr,l)	N#CC#N	273.99	289.24	¡À 0.43	kJ/mol	52.0349 ¡À
+0.0016	460-19-5*500
+Hydrodioxonitrogen cation	[HN(O)O]+ (g)	[NH+](=O)[O]	1129.6	1123.0	¡À 3.2	kJ/mol	47.01293 ¡À
+0.00061	252986-76-8*0
+Methyl bromide cation	[CH3Br]+ (g)	C[Br+]	996.93	982.01	¡À 0.27	kJ/mol	94.9380 ¡À
+0.0013	12538-70-4*0
+Trihydrogen cation	[H3]+ (g, ortho)	[H]1[H+][H]1	1110.577	1106.695	¡À 0.013	kJ/mol	3.02327 ¡À
+0.00021	28132-48-1*1
+Isoformyl anion	[COH]- (g)	[C][O].[H-]	55.8	58.4	¡À 1.8	kJ/mol	29.01859 ¡À
+0.00086	81747-63-9*0
+Chloroethane	CH3CH2Cl (cr,l)	CCCl	-134.19	-135.81	¡À 0.20	kJ/mol	64.5138 ¡À
+0.0019	75-00-3*500
+Ethenol	CH2CHOH (g, syn-anti equilib)	C=CO	-112.76	-123.18	¡À 0.84	kJ/mol	44.0526 ¡À
+0.0017	557-75-5*0
+Hydrogen peroxide cation	[H2O2]+ (g)	O[OH+]	896.57	889.59	¡À 0.58	kJ/mol	34.01413 ¡À
+0.00062	12325-10-9*0
+Vinyl alcohol cation	[CH2CHOH]+ (g, anti-syn equilib)	C=C[OH+]	778.9	768.0	¡À 1.4	kJ/mol	44.0520 ¡À
+0.0017	57239-63-1*0
+Methyl iodide cation	[CH3I]+ (g)	C[I+]	944.69	935.29	¡À 0.18	kJ/mol	141.93844 ¡À
+0.00083	12538-72-6*0
+Cyanogen chloride anion	[ClCN]- (g)	ClC#[N-]	46.7	51.1	¡À 3.1	kJ/mol	61.4707 ¡À
+0.0012	12281-43-5*0
+Oxoniumyl ion	[H2O]+ (g, para)	[H][O+][H]	978.714	975.563	¡À 0.029	kJ/mol	18.01473 ¡À
+0.00033	56583-62-1*2
+Isocyanogen anion	[CNCN]- (g, trans-cis equilib)	[C-]#[N]C#N	383.7	387.8	¡À 2.6	kJ/mol	52.0354 ¡À
+0.0016	*83951-85-3*0
+Trihydrogen	HHH (g, TS)	[H]1[H][H]1	254.5	250.7	¡À 1.2	kJ/mol	3.02382 ¡À
+0.00021	12184-91-7*200
+Hydrodioxonitrate	[HN(O)O]- (g)	[NH](=O)[O-]	-62.4	-68.8	¡À 3.3	kJ/mol	47.01403 ¡À
+0.00061	61508-71-2*0
+Fluoroform	CF3H (l)	C(F)(F)F		-704.21	¡À 0.47	kJ/mol	70.01385 ¡À
+0.00080	75-46-7*590
+Imidogen	NH (g, triplet)	[NH]	358.74	358.79	¡À 0.17	kJ/mol	15.014680 ¡À
+0.000099	13774-92-0*1
+Difluorodioxidanium	[FOOF]+ (g)	FO[O+]F	1283.6	1280.0	¡À 2.3	kJ/mol	69.99506 ¡À
+0.00060	*7783-44-0*0
+Peroxyhypochlorous acid anion	[HOOCl]- (g, quartet)	OO[Cl-]	-32.2	-34.0	¡À 2.6	kJ/mol	68.4600 ¡À
+0.0011	*67952-08-3*0
+Imidogen	NH (g, singlet)	[NH]	509.34	509.39	¡À 0.18	kJ/mol	15.014680 ¡À
+0.000099	13774-92-0*2
+Carbonic acid	C(O)(OH)2 (g)	OC(=O)O	-602.74	-612.05	¡À 0.79	kJ/mol	62.0248 ¡À
+0.0012	463-79-6*0
+Diisocyanogen cation	[CNNC]+ (g, trans-cis equilib)	[C]#[N+][N+]#[C-]	1823.1	1826.1	¡À 3.5	kJ/mol	52.0343 ¡À
+0.0016	*78800-21-2*0
+Diazenide	[NNH]- (g)	N#N.[H-]	175.7	176.7	¡À 1.6	kJ/mol	29.02197 ¡À
+0.00016	71004-29-0*0
+Fluorosyl fluoride	FFO (g)	FF[O]	192.6	193.1	¡À 2.3	kJ/mol	53.99621 ¡À
+0.00030	86825-57-2*0
+Ethylene anion	[CH2CH2]- (g)	C=[CH2-]	232.1	225.6	¡À 2.0	kJ/mol	28.0537 ¡À
+0.0016	34527-91-8*0
+Perchloric acid cation	[HOCl(O)(O)O]+ (g)	O[Cl+](=O)(=O)=O	1191.8	1182.2	¡À 3.5	kJ/mol	100.4577 ¡À
+0.0015	91712-47-9*0
+Ethynylene	C2 (g, triplet)	[C]=[C]	827.45	834.15	¡À 0.27	kJ/mol	24.0214 ¡À
+0.0016	12070-15-4*1
+Hydrogen isocyanide anion	[HNC]- (g)	[C-]=N	191.57	191.76	¡À 0.38	kJ/mol	27.02593 ¡À
+0.00081	96913-22-3*0
+Cyanic fluoride cation	[FCN]+ (g)	F[C+]#N	1294.5	1294.9	¡À 1.1	kJ/mol	45.01529 ¡À
+0.00080	62532-69-8*0
+Bromine atom	Br (g, 2P1/2)	[Br]	162.001	155.939	¡À 0.056	kJ/mol	79.90400 ¡À
+0.00100	10097-32-2*2
+Isocyanogen chloride cation	[ClNC]+ (g)	ClN=[C+]	1480.9	1482.1	¡À 3.9	kJ/mol	61.4696 ¡À
+0.0012	956475-91-5*0
+Isocyanogen bromide cation	[BrNC]+ (g)	BrN=[C+]	1470.3	1464.6	¡À 5.9	kJ/mol	105.9209 ¡À
+0.0013	238754-53-5*0
+Hydroxyformyl	HOCO (g, trans-cis equilib)	O[C]=O	-181.19	-183.77	¡À 0.50	kJ/mol	45.0174 ¡À
+0.0010	2564-86-5*0
+Difluorodioxidane anion	[FOOF]- (g)	FO[O-]F	-251.	-251.	¡À 28.	kJ/mol	69.99615 ¡À
+0.00060	*7783-45-1*0
+Water	H2O (g, ortho)	O	-238.654	-241.842	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*1
+Hydroxyformyl anion	[HOCO]- (g, trans-cis equilib)	[C-](=O)O	-319.50	-321.58	¡À 0.60	kJ/mol	45.0180 ¡À
+0.0010	78944-70-4*0
+Peroxychlorous acid	HOOClO (g, perp ?)	O=ClOO	102.3	96.2	¡À 3.7	kJ/mol	84.4588 ¡À
+0.0013	177778-92-6*3
+Chlorine atom	Cl (g, 2P1/2)	[Cl]	130.176	131.783	¡À 0.0011	kJ/mol	35.45270 ¡À
+0.00090	22537-15-1*2
+Ethylidene	CH3CH (g)	[CH]C	361.30	354.32	¡À 0.91	kJ/mol	28.0532 ¡À
+0.0016	4218-50-2*0
+Bromoform	CBr3H (l)	C(Br)(Br)Br		3.0	¡À 1.3	kJ/mol	252.7306 ¡À
+0.0031	75-25-2*590
+Water	H2O (cr, l, eq.press.)	O	-286.310	-285.838	¡À 0.027	kJ/mol	18.01528 ¡À
+0.00033	7732-18-5*499
+Phenol cation	[C6H5OH]+ (g)	c1ccc(cc1)[OH+]	746.32	727.53	¡À 0.68	kJ/mol	94.1107 ¡À
+0.0048	40932-22-7*0
+Hydrogen peroxide cation	[H2O2]+ (g, trans, para)	O[OH+]	896.60	889.59	¡À 0.58	kJ/mol	34.01413 ¡À
+0.00062	12325-10-9*12
+Hydroperoxonium	[H2OOH]+ (g)	[OH2+]O	738.1	727.8	¡À 1.2	kJ/mol	35.02207 ¡À
+0.00064	70850-26-9*0
+Oxonium	[H3O]+ (aq)	[OH3+]		-285.836	¡À 0.027	kJ/mol	19.02267 ¡À
+0.00037	13968-08-6*800
+Hydroxyamidogen	HNOH (g)	[NH]O	101.6	94.8	¡À 1.1	kJ/mol	32.02202 ¡À
+0.00034	13940-32-4*0
+Cyclopropylium	[CH(CH2CH2)]+ (g)	C1C[CH+]1	1104.7	1093.3	¡À 4.1	kJ/mol	41.0713 ¡À
+0.0024	1724-43-2*0
+Benzaldehyde cation	[C6H5C(O)H]+ (g)	c1ccc(cc1)C=[O+]	896.9	880.2	¡À 1.9	kJ/mol	106.1214 ¡À
+0.0056	80226-59-1*0
+Benzaldehyde anion	[C6H5C(O)H]- (g)	c1ccc(cc1)C=[O-]	-60.1	-77.7	¡À 1.2	kJ/mol	106.1225 ¡À
+0.0056	34473-57-9*0
+Methylene fluoride	CH2F2 (l)	C(F)F		-466.85	¡À 0.39	kJ/mol	52.02339 ¡À
+0.00081	75-10-5*590
+C=O-C cation	[COC]+ (g)	[C]=[O+][C]	1575.8	1582.9	¡À 2.4	kJ/mol	40.0203 ¡À
+0.0016	83483-98-1*0
+Dioxyamidogen	HNOO (g, trans)	[NH-][O+]=O	251.1	244.5	¡À 2.5	kJ/mol	47.01348 ¡À
+0.00061	71843-95-3*1
+Hydroxyaminylium	[HNOH]+ (g)	[NH+]O	1019.6	1012.5	¡À 2.5	kJ/mol	32.02147 ¡À
+0.00034	66097-71-0*0
+Hypochloroperoxoous acid, hydroxy ester	HOOOCl (g)	OOOCl	49.2	42.4	¡À 1.9	kJ/mol	84.4588 ¡À
+0.0013	928652-99-7*0
+2-Cyclopropyn-1-ylidene	C(CC) (g)	C1=C=C=1	899.2	906.1	¡À 1.6	kJ/mol	36.0321 ¡À
+0.0024	102508-15-6*0
+Cyclopropane	CH2(CH2CH2) (l)	C1CC1		35.52	¡À 0.59	kJ/mol	42.0797 ¡À
+0.0024	75-19-4*500
+Trihydrogen	H(HH) (g, TS)	[H]1[H][H]1	477.4	474.7	¡À 2.3	kJ/mol	3.02382 ¡À
+0.00021	12184-91-7*201
+Dinitrogen dioxide	ONNO (g)	O=NN=O	172.88	171.12	¡À 0.14	kJ/mol	60.01228 ¡À
+0.00062	16824-89-8*0
+1,2-Propadien-1-yl-3-ylidene anion	[CCC]- (g, lin)	[C]=C=[C-]	621.9	629.3	¡À 1.3	kJ/mol	36.0326 ¡À
+0.0024	109292-47-9*1
+Cyanogen bromide cation	[BrCN]+ (g)	Br[C+]#N	187.3	180.9	¡À 1.1	kJ/mol	105.9209 ¡À
+0.0013	34749-77-4*0
+Iminomethyl	HCNH (g)	[CH]=N	275.83	272.23	¡À 0.71	kJ/mol	28.03332 ¡À
+0.00082	15691-95-9*0
+Cyanic fluoride anion	[FCN]- (g)	FC#[N-]	-20.4	-18.4	¡À 2.9	kJ/mol	45.01639 ¡À
+0.00080	34507-50-1*0
+Trioxygen difluoride	FOOOF (g, cis)	FOOOF	113.6	107.8	¡À 2.1	kJ/mol	85.99501 ¡À
+0.00090	16829-28-0*2
+Nitrosyl nitrite	ONONO (g)	O=NON=O	93.0	88.1	¡À 1.3	kJ/mol	76.01168 ¡À
+0.00091	122413-35-8*0
+Trioxodinitrate anion	[ONNO2]- (g)	O=N-[N](=O)[O-]	-104.9	-108.8	¡À 2.4	kJ/mol	76.01223 ¡À
+0.00091	194856-62-7*0
+Dioxymethylene	HCOO (g, cis-trans equilib)	[CH]O[O]	341.1	338.9	¡À 3.4	kJ/mol	45.0174 ¡À
+0.0010	438586-67-5*0
+Hydrogen peroxide cation	[H2O2]+ (g, cis, ortho)	O[OH+]	930.5	923.6	¡À 1.0	kJ/mol	34.01413 ¡À
+0.00062	12325-10-9*21
+Chlorous acid cation	[HOClO]+ (g)	O[Cl+]=O	996.6	991.6	¡À 3.1	kJ/mol	68.4589 ¡À
+0.0011	*99559-66-7*0
+Chlorine pentafluoride anion	[FCl(F)(F)(F)F]- (g)	F[Cl-](F)(F)(F)F	-619.3	-622.7	¡À 4.4	kJ/mol	130.44526 ¡À
+0.00090	184851-42-1*0
+Methanediol	CH2(OH)2 (g)	C(O)O	-379.2	-392.6	¡À 1.1	kJ/mol	48.0413 ¡À
+0.0010	463-57-0*0
+Oxirene	O(CHCH) (g, triplet)	C1=CO1	388.7	385.4	¡À 2.6	kJ/mol	42.0367 ¡À
+0.0016	157-18-6*1
+Aminomethylidyne anion	[CNH2]- (g, triplet)	[C-]N	481.6	478.0	¡À 3.2	kJ/mol	28.03387 ¡À
+0.00082	96808-04-7*1
+Fluorine atom	F (g, 2P1/2)	[F]	82.088	83.872	¡À 0.048	kJ/mol	18.99840320 ¡À
+0.00000050	14762-94-8*2
+COC vdW	(CO)(C) (g)	[C]=O.[C]	589.3	598.1	¡À 1.9	kJ/mol	40.0208 ¡À
+0.0016	*12071-24-8*0
+Hydrazine anion	[NH2NH2]- (g)	N[NH2-]	232.1	217.8	¡À 4.1	kJ/mol	32.04579 ¡À
+0.00031	65391-88-0*0
+Chlorine trifluoride anion	[FCl(F)F]- (g)	F[Cl-](F)F	-480.4	-481.9	¡À 3.6	kJ/mol	92.44846 ¡À
+0.00090	184289-50-7*0
+Diazene cation	[HNNH]+ (g, trans-iso-cis equilib)	N=[NH+]	1132.46	1125.81	¡À 0.66	kJ/mol	30.02881 ¡À
+0.00020	76986-17-9*0
+Methyl nitrite	CH3ONO (g, trans)	CON=O	-52.46	-64.42	¡À 0.90	kJ/mol	61.0401 ¡À
+0.0010	624-91-9*1
+Methyl nitrite	CH3ONO (cr,l)	CON=O		-88.82	¡À 0.56	kJ/mol	61.0401 ¡À
+0.0010	624-91-9*500
+Hydrogen peroxide	H2O2 (g, ortho)	OO	-129.472	-135.478	¡À 0.063	kJ/mol	34.01468 ¡À
+0.00062	7722-84-1*1
+2,2,4-Trimethylpentane	(CH3)2CHCH2C(CH3)3 (g)	CC(C)CC(C)(C)C	-171.4	-223.8	¡À 1.5	kJ/mol	114.2285 ¡À
+0.0065	540-84-1*0
+Carbon atom	C (diamond)	[C]	2.391	1.863	¡À 0.044	kJ/mol	12.01070 ¡À
+0.00080	7440-44-0*501
+Dinitrogen anion	[N2]- (g)	N#[N-]	192.5	192.5	¡À 1.7	kJ/mol	28.01403 ¡À
+0.00014	12185-02-3*0
+Nitrous acid anion	[HONO]- (g)	O[N-]=O	-107.0	-110.5	¡À 2.4	kJ/mol	47.01403 ¡À
+0.00061	256393-36-9*0
+Methylaminyliumyl	[CH3N]+ (g ?)	C[N+]	1388.3	1382.0	¡À 2.6	kJ/mol	29.04071 ¡À
+0.00083	56924-51-7*0
+Iminomethyl anion	[HCNH]- (g)	[CH-]=N	237.4	233.6	¡À 1.8	kJ/mol	28.03387 ¡À
+0.00082	90623-30-6*0
+Hydroperoxyimidogen	HOON (g, cis)	OO[N]	111.8	108.9	¡À 2.8	kJ/mol	47.01348 ¡À
+0.00061	877456-58-1*2
+Peroxyhypochlorous acid cation	[HOOCl]+ (g)	OO[Cl+]	1030.3	1024.5	¡À 2.5	kJ/mol	68.4589 ¡À
+0.0011	*67952-07-2*0
+Oxide	[O]-2 (g)	[O--]	651.	653.	¡À 15.	kJ/mol	16.00050 ¡À
+0.00030	16833-27-5*0
+Succinic acid	(CH2COOH)2 (g)	OC(=O)CCC(=O)O	-795.65	-817.79	¡À 0.61	kJ/mol	118.0880 ¡À
+0.0034	110-15-6*0
+Iodine monochloride	ICl (cr,l)	ICl	-36.511	-35.537	¡À 0.063	kJ/mol	162.35717 ¡À
+0.00090	7790-99-0*500
+Dicarbon monoxide	CCO (g)	[C]=C=O	377.3	381.3	¡À 1.1	kJ/mol	40.0208 ¡À
+0.0016	12071-23-7*0
+Peroxyformic acid	HC(O)OOH (g)	C(=O)OO	-279.8	-288.9	¡À 1.1	kJ/mol	62.0248 ¡À
+0.0012	107-32-4*0
+3-Chloro-3-methyl-3H-diazirine	(NNC)ClCH3 (g)	CC1(N=N1)Cl	230.	218.	¡À 40.	kJ/mol	90.5114 ¡À
+0.0019	4222-21-3*0
+Chlorous acid anion	[HOClO]- (g)	O[Cl-]=O	-154.3	-156.2	¡À 3.3	kJ/mol	68.4600 ¡À
+0.0011	99559-66-7*0
+Trioxidaniumyl	[HOOOH]+ (g)	O[O+]O	925.7	916.8	¡À 1.5	kJ/mol	50.01353 ¡À
+0.00091	161321-37-5*0
+Diazene	HNNH (g, trans-cis-iso equilib)	N=N	207.09	199.96	¡À 0.44	kJ/mol	30.02936 ¡À
+0.00020	3618-05-1*0
+1,1-Dibromoethane	CHBr2CH3 (cr,l)	CC(Br)Br		-66.4	¡À 1.4	kJ/mol	187.8612 ¡À
+0.0026	557-91-5*500
+Iodosyl ion	[IO]+ (g)	I[O+]	1066.1	1064.1	¡À 1.9	kJ/mol	142.90332 ¡À
+0.00030	81182-81-2*0
+Propynylidene	HCCCH (g, singlet)	[CH]=C=[CH]	597.6	599.4	¡À 1.2	kJ/mol	38.0480 ¡À
+0.0024	67152-18-5*2
+Methoxycarbonyl	C(O)OCH3 (g)	CO[C]=O	-150.1	-157.8	¡À 2.1	kJ/mol	59.0440 ¡À
+0.0017	16481-04-2*0
+Diazanide	[NH2NH]- (g)	N[NH-]	249.4	239.3	¡À 3.1	kJ/mol	31.03785 ¡À
+0.00025	25415-88-7*0
+Hydrazoic acid anion	[HNNN]- (g)	N=[N]=[N-]	309.0	303.1	¡À 2.3	kJ/mol	43.02871 ¡À
+0.00022	203264-98-6*0
+1,2-Dichloroethene	CHClCHCl (g)	C(Cl)=CCl	3.46	-1.86	¡À 0.56	kJ/mol	96.9427 ¡À
+0.0024	540-59-0*0
+(Formyloxy)methyl	HC(O)OCH2 (g)	O=CO[CH2]	-148.7	-156.8	¡À 1.7	kJ/mol	59.0440 ¡À
+0.0017	3122-12-1*0
+Methylaminyliumyl	[CH3N]+ (g, quartet)	C[N+]	1423.0	1416.1	¡À 2.6	kJ/mol	29.04071 ¡À
+0.00083	56924-51-7*2
+2-Hydroxyethyl	CH2CH2OH (g)	[CH2]CO	-12.84	-26.11	¡À 0.63	kJ/mol	45.0605 ¡À
+0.0017	4422-54-2*0
+Krypton dication	[Kr]+2 (g)	[Kr++]	3701.124	3701.124	¡À 0.013	kJ/mol	83.7989 ¡À
+0.1000	18469-91-5*0
+Chloromethylene	CHCl (g)	[CH]Cl	320.24	320.53	¡À 0.89	kJ/mol	48.4713 ¡À
+0.0012	2108-20-5*0
+Xenon dication	[Xe]+2 (g)	[Xe++]	3194.14	3194.14	¡À 0.36	kJ/mol	131.2889 ¡À
+0.0200	14066-95-6*0
+Dichloromethylene	CCl2 (g)	[C](Cl)Cl	229.49	230.67	¡À 0.65	kJ/mol	82.9161 ¡À
+0.0020	1605-72-7*0
+Neon dication	[Ne]+2 (g)	[Ne++]	6032.988	6033.214	¡À 0.0041	kJ/mol	20.17860 ¡À
+0.00060	14041-55-5*0
+Neon trication	[Ne]+3 (g)	[Ne+3]	12152.403	12152.403	¡À 0.033	kJ/mol	20.17805 ¡À
+0.00060	14158-25-9*0
+Neon tetracation	[Ne]+4 (g)	[Ne+4]	21529.82	21531.45	¡À 0.25	kJ/mol	20.17751 ¡À
+0.00060	14041-56-6*0
+Neon pentacation	[Ne]+5 (g)	[Ne+5]	33711.1	33711.1	¡À 1.2	kJ/mol	20.17696 ¡À
+0.00060	14175-48-5*0
+Neon hexacation	[Ne]+6 (g)	[Ne+6]	48949.3	48949.3	¡À 1.3	kJ/mol	20.17641 ¡À
+0.00060	14041-57-7*0
+Neon heptacation	[Ne]+7 (g)	[Ne+7]	68948.7	68948.7	¡À 1.5	kJ/mol	20.17586 ¡À
+0.00060	14175-50-9*0
+Neon octacation	[Ne]+8 (g)	[Ne+8]	92018.2	92018.2	¡À 1.5	kJ/mol	20.17531 ¡À
+0.00060	14782-26-4*0
+Neon nonacation	[Ne]+9 (g)	[Ne+9]	207396.1	207396.1	¡À 1.5	kJ/mol	20.17476 ¡À
+0.00060	15721-59-2*0
+Neon cation	Ne+ (g)	[Ne+]	2080.662	2080.769	¡À 0.000	kJ/mol	20.17915 ¡À
+0.00060	14782-23-1*0
+Neon decacation	[Ne]+10 (g)	[Ne+10]	338828.3	338828.3	¡À 1.5	kJ/mol	20.17421 ¡À
+0.00060	32218-07-8*0
+Argon dimer cation	[Ar2]+ (g)	[Ar][Ar+]	1393.760	1391.173	¡À 0.018	kJ/mol	79.8955 ¡À
+0.0020	17596-58-6*0
+Argon cation	Ar+ (g)	[Ar+]	1520.571	1520.580	¡À 0.0011	kJ/mol	39.94745 ¡À
+0.00100	14791-69-6*0
+Argon dimer	Ar2 (g)	[Ar][Ar]	-1.013	-6.347	¡À 0.0051	kJ/mol	79.8960 ¡À
+0.0020	12595-59-4*0
+Helium cation	He+ (g)	[He+]	2372.322	2372.322	¡À 0.000	kJ/mol	4.0020534 ¡À
+0.0000020	14234-48-1*0
+Helium dication	[He]+2 (g)	[He++]	7622.839	7622.839	¡À 0.000	kJ/mol	4.0015048 ¡À
+0.0000020	12587-46-1*0
+Helium anion	He- (g, 1s2.2s 2S1/2)	[He-]	51.	51.	¡À 130.	kJ/mol	4.0031506 ¡À
+0.0000020	14452-58-5*1
+Helium anion	He- (g)	[He-]	51.	51.	¡À 130.	kJ/mol	4.0031506 ¡À
+0.0000020	14452-58-5*0
+Argon anion	Ar- (g, 2S1/2)	[Ar-]	23.	23.	¡À 75.	kJ/mol	39.94855 ¡À
+0.00100	16544-90-4*1
+Argon anion	Ar- (g)	[Ar-]	23.	23.	¡À 75.	kJ/mol	39.94855 ¡À
+0.00100	16544-90-4*0
+Helium anion	He- (g, 1s.2s2 2S1/2)	[He-]	1868.43	1868.43	¡À 0.11	kJ/mol	4.0031506 ¡À
+0.0000020	14452-58-5*2
+Helium anion	He- (g, 1s.2s.2p 4P)	[He-]	1904.823	1904.824	¡À 0.0011	kJ/mol	4.0031506 ¡À
+0.0000020	14452-58-5*3
+Helium anion	He- (g, 2p3 4S3/2)	[He-]	5724.9	5724.9	¡À 1.5	kJ/mol	4.0031506 ¡À
+0.0000020	14452-58-5*4
+Argon anion	Ar- (g, 4S3/2)	[Ar-]	1111.116	1111.116	¡À 0.098	kJ/mol	39.94855 ¡À
+0.00100	16544-90-4*2
+Hydron	H+ (aq)	[H+]	0	0	exact		1.007391 ¡À
+0.000070	12408-02-5*800

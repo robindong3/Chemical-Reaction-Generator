@@ -21,7 +21,8 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+pip install numpy
+pip install tqdm
 ```
 
 And repeat
